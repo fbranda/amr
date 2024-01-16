@@ -10,10 +10,10 @@ This repository contains the most updated information on Antimicrobial Resistanc
 2) Italy: [Istituto Superiore di Sanità (ISS)](https://www.epicentro.iss.it/antibiotico-resistenza/)
 
 ### Data sources for animals infections
-# What is resistancebank.org?
+<bf>What is resistancebank.org?</bf>
 ([resistancebank.org](https://resistancebank.org/)) is an online repository for point prevalence surveys on AMR in animals, with a focus on low and middle-income countries. It is aimed at providing the scientific community with a focal point to share information on AMR, and to help inform evidence-based policies by making global maps of AMR available to the public.
 
-# What are the hotspots of AMR?
+What are the hotspots of AMR?
 The hotspots of AMR represents the proportion of antimicrobials used in each location (pixel) with resistance higher than 50% (P50). For details on the methodology for terrestrial animals in South America, Africa, and Asia, see Van Boeckel & Pires, 2019. Global Trends in Antimicrobial Resistance in Animals in Low- and Middle-Income Countries, Science 365 (6459) (the P50 map will be updated on a yearly basis). For details on the methodology for terrestrial animals in Europe, see Mulchandani et al., 2024. Predictive Mapping of Antimicrobial Resistance for Escherichia coli, Salmonella, and Campylobacter in Food-Producing Animals, Europe, 2000–2021, Emerging Infectious Diseases 30 (1).
 For details on the methodology for aquatic animals, see Schar et al., 2021. Twenty-year trends in antimicrobial resistance from aquaculture and fisheries in Asia, Nature Communications 12 (5384).
 
