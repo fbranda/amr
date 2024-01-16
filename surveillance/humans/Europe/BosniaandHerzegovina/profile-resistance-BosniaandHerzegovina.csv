@@ -1,0 +1,298 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Microorganism","Antibiotic","Resistance"
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides",NA
+2012,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides",NA
+2013,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides",NA
+2014,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides","91.76"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems","89.01"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","84.07"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones","91.21"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin","52.73"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin",NA
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides","16.57"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins","79.77"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems","0"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","7.1"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones","22.67"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins","20.69"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides","72.57"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems","5.65"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","34.48"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones","37.5"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins","76.27"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides","37.68"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems","16.9"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime","10.91"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","10.81"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones","24.62"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","13.21"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA","23.13"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides",NA
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)","27.27"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides","95.51"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems","90.45"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","86.54"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones","94.9"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin","57.89"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin","21.62"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides","22.71"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins","70.75"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems","0"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","12.75"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones","28.04"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins","22.83"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides","72.3"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems","8"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","52.38"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones","56.38"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins","70.13"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides","52.54"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems","22.95"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime","20.45"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","21.62"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones","39.66"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","21.82"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA","13.33"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides","14.29"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides","23.81"
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)","27.27"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides","95.16"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems","95.16"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","93.5"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones","95.93"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin","58.57"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin","34.15"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides","24.74"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins","72.96"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems","1.09"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","13.37"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones","26.46"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins","24.62"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides","63.33"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems","10.88"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","43.45"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones","54.42"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins","60.53"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides","43.86"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems","22.81"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime","19.3"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","33.33"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones","45.61"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","22.81"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA","25.95"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides","33.33"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides","36.67"
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)","42.42"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides","98.58"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems","92.91"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","92.91"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones","99.29"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin","36.96"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin","37.5"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides","17.2"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins","68.8"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems","0"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","10.48"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones","24.19"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins","20"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides","68.6"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems","18.36"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","54.59"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones","59.42"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins","70.53"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides","40.51"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems","30.38"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime","30.38"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","32.91"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones","43.04"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","24.05"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA","16.23"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides","28.57"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides","35.71"
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)","52.38"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides","96.54"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems","96.54"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","93.51"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones","97.84"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin","70.37"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin","38.46"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides","20.34"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins","71.38"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems","0"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","9.69"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones","29.76"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins","20.69"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides","78.77"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems","41.51"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","63.03"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones","67.3"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins","79.72"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides","48.15"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems","46.91"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime","34.57"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","42.86"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones","56.79"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","14.29"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA","10.5"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides","24.44"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides","33.33"
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)","35.56"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides","94.83"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems","97.7"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","94.25"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones","98.56"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin","71.95"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin","52.94"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides","31.28"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins","66.48"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems","0"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","12.85"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones","19.55"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins","24.02"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides","72.12"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems","43.27"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","54.81"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones","61.06"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins","75.48"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides","28"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems","53.4"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime","31.07"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","31"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones","42.72"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","29.13"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA","19.19"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides","25"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides","55"
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)","30"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides","99.71"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems","98.7"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","98.55"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones","98.7"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin","57.52"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin","45.87"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides","39.3"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins","71.14"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems","0.5"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","15.42"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones","34.83"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins","28.86"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides","74.29"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems","37.14"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","60.93"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones","66.31"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins","78.21"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides","36.22"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems","37.01"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime","37.01"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","28.35"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones","40.16"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","29.92"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA","17.09"
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides",NA
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Aminoglycosides","98.61"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Carbapenems","98.89"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","97.78"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Acinetobacter spp.","Fluoroquinolones","99.72"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecalis","High-level gentamicin","48.76"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Enterococcus faecium","Vancomycin","37.33"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminoglycosides","24.36"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Aminopenicillins","70.65"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Carbapenems","0.72"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","13.09"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Fluoroquinolones","32.97"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Escherichia coli","Third-generation cephalosporins","27.17"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Aminoglycosides","73.65"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Carbapenems","44.59"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","62.16"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Fluoroquinolones","69.7"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Klebsiella pneumoniae","Third-generation cephalosporins","79.39"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Aminoglycosides","39.82"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Carbapenems","39.47"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Ceftazidime","34.21"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","29.46"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Fluoroquinolones","28.07"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","25.66"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Staphylococcus aureus","MRSA","18.18"
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Macrolides",NA
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA

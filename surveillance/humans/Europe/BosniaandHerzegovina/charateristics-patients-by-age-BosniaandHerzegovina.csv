@@ -1,0 +1,257 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Acinetobacter spp.",182,23
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Acinetobacter spp.",182,45
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Acinetobacter spp.",182,3
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Acinetobacter spp.",182,25
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Escherichia coli",176,10
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Escherichia coli",176,40
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Escherichia coli",176,1
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Escherichia coli",176,42
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecalis",56,32
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecalis",56,29
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecalis",56,4
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecalis",56,30
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecium",17,NA
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecium",17,NA
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecium",17,NA
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecium",17,NA
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Klebsiella pneumoniae",177,17
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Klebsiella pneumoniae",177,31
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Klebsiella pneumoniae",177,2
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Klebsiella pneumoniae",177,28
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Pseudomonas aeruginosa",71,17
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Pseudomonas aeruginosa",71,42
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Pseudomonas aeruginosa",71,3
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Pseudomonas aeruginosa",71,38
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Staphylococcus aureus",160,6
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Staphylococcus aureus",160,50
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Staphylococcus aureus",160,4
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Staphylococcus aureus",160,38
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Streptococcus pneumoniae",22,9
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Streptococcus pneumoniae",22,32
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Streptococcus pneumoniae",22,18
+2015,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Streptococcus pneumoniae",22,23
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Acinetobacter spp.",157,15
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Acinetobacter spp.",157,50
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Acinetobacter spp.",157,3
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Acinetobacter spp.",157,31
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Escherichia coli",219,14
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Escherichia coli",219,41
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Escherichia coli",219,2
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Escherichia coli",219,41
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecalis",58,16
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecalis",58,43
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecalis",58,5
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecalis",58,36
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecium",37,11
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecium",37,32
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecium",37,5
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecium",37,51
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Klebsiella pneumoniae",154,32
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Klebsiella pneumoniae",154,34
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Klebsiella pneumoniae",154,3
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Klebsiella pneumoniae",154,30
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Pseudomonas aeruginosa",61,18
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Pseudomonas aeruginosa",61,44
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Pseudomonas aeruginosa",61,13
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Pseudomonas aeruginosa",61,25
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Staphylococcus aureus",180,11
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Staphylococcus aureus",180,52
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Staphylococcus aureus",180,4
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Staphylococcus aureus",180,33
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Streptococcus pneumoniae",22,14
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Streptococcus pneumoniae",22,32
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Streptococcus pneumoniae",22,27
+2016,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Streptococcus pneumoniae",22,27
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Acinetobacter spp.",124,11
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Acinetobacter spp.",124,37
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Acinetobacter spp.",124,6
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Acinetobacter spp.",124,32
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Escherichia coli",195,8
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Escherichia coli",195,49
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Escherichia coli",195,1
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Escherichia coli",195,37
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecalis",71,10
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecalis",71,44
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecalis",71,3
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecalis",71,32
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecium",41,12
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecium",41,41
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecium",41,2
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecium",41,41
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Klebsiella pneumoniae",152,8
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Klebsiella pneumoniae",152,38
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Klebsiella pneumoniae",152,1
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Klebsiella pneumoniae",152,34
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Pseudomonas aeruginosa",57,16
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Pseudomonas aeruginosa",57,42
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Pseudomonas aeruginosa",57,0
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Pseudomonas aeruginosa",57,37
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Staphylococcus aureus",158,8
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Staphylococcus aureus",158,50
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Staphylococcus aureus",158,2
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Staphylococcus aureus",158,36
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Streptococcus pneumoniae",33,15
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Streptococcus pneumoniae",33,52
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Streptococcus pneumoniae",33,12
+2017,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Streptococcus pneumoniae",33,18
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Acinetobacter spp.",141,30
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Acinetobacter spp.",141,39
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Acinetobacter spp.",141,1
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Acinetobacter spp.",141,30
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Escherichia coli",250,10
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Escherichia coli",250,46
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Escherichia coli",250,0
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Escherichia coli",250,43
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecalis",93,19
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecalis",93,38
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecalis",93,3
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecalis",93,40
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecium",48,6
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecium",48,54
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecium",48,0
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecium",48,40
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Klebsiella pneumoniae",207,16
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Klebsiella pneumoniae",207,45
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Klebsiella pneumoniae",207,0
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Klebsiella pneumoniae",207,38
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Pseudomonas aeruginosa",79,8
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Pseudomonas aeruginosa",79,62
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Pseudomonas aeruginosa",79,1
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Pseudomonas aeruginosa",79,29
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Staphylococcus aureus",228,11
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Staphylococcus aureus",228,46
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Staphylococcus aureus",228,4
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Staphylococcus aureus",228,39
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Streptococcus pneumoniae",42,10
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Streptococcus pneumoniae",42,43
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Streptococcus pneumoniae",42,12
+2018,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Streptococcus pneumoniae",42,36
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Acinetobacter spp.",231,23
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Acinetobacter spp.",231,42
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Acinetobacter spp.",231,3
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Acinetobacter spp.",231,32
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Escherichia coli",290,9
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Escherichia coli",290,34
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Escherichia coli",290,0
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Escherichia coli",290,56
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecalis",81,16
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecalis",81,33
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecalis",81,1
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecalis",81,48
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecium",65,9
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecium",65,51
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecium",65,2
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecium",65,38
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Klebsiella pneumoniae",212,17
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Klebsiella pneumoniae",212,44
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Klebsiella pneumoniae",212,1
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Klebsiella pneumoniae",212,37
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Pseudomonas aeruginosa",81,11
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Pseudomonas aeruginosa",81,43
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Pseudomonas aeruginosa",81,1
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Pseudomonas aeruginosa",81,43
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Staphylococcus aureus",238,12
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Staphylococcus aureus",238,49
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Staphylococcus aureus",238,1
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Staphylococcus aureus",238,37
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Streptococcus pneumoniae",45,20
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Streptococcus pneumoniae",45,38
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Streptococcus pneumoniae",45,11
+2019,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Streptococcus pneumoniae",45,31
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Acinetobacter spp.",348,11
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Acinetobacter spp.",348,46
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Acinetobacter spp.",348,1
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Acinetobacter spp.",348,41
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Escherichia coli",179,19
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Escherichia coli",179,33
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Escherichia coli",179,1
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Escherichia coli",179,47
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecalis",82,15
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecalis",82,35
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecalis",82,0
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecalis",82,50
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecium",85,7
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecium",85,42
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecium",85,1
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecium",85,49
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Klebsiella pneumoniae",208,21
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Klebsiella pneumoniae",208,40
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Klebsiella pneumoniae",208,2
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Klebsiella pneumoniae",208,37
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Pseudomonas aeruginosa",103,2
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Pseudomonas aeruginosa",103,50
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Pseudomonas aeruginosa",103,5
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Pseudomonas aeruginosa",103,44
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Staphylococcus aureus",198,12
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Staphylococcus aureus",198,48
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Staphylococcus aureus",198,3
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Staphylococcus aureus",198,37
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Streptococcus pneumoniae",20,25
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Streptococcus pneumoniae",20,25
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Streptococcus pneumoniae",20,10
+2020,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Streptococcus pneumoniae",20,40
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Acinetobacter spp.",691,3
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Acinetobacter spp.",691,46
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Acinetobacter spp.",691,2
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Acinetobacter spp.",691,48
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Escherichia coli",201,12
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Escherichia coli",201,29
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Escherichia coli",201,1
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Escherichia coli",201,58
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecalis",113,5
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecalis",113,43
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecalis",113,1
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecalis",113,50
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecium",109,2
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecium",109,39
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecium",109,0
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecium",109,60
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Klebsiella pneumoniae",280,16
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Klebsiella pneumoniae",280,40
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Klebsiella pneumoniae",280,1
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Klebsiella pneumoniae",280,43
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Pseudomonas aeruginosa",127,9
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Pseudomonas aeruginosa",127,46
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Pseudomonas aeruginosa",127,3
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Pseudomonas aeruginosa",127,43
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Staphylococcus aureus",277,8
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Staphylococcus aureus",277,39
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Staphylococcus aureus",277,2
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Staphylococcus aureus",277,51
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Streptococcus pneumoniae",8,NA
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Streptococcus pneumoniae",8,NA
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Streptococcus pneumoniae",8,NA
+2021,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Streptococcus pneumoniae",8,NA
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Acinetobacter spp.",360,11
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Acinetobacter spp.",360,29
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Acinetobacter spp.",360,1
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Acinetobacter spp.",360,59
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Escherichia coli",276,8
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Escherichia coli",276,36
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Escherichia coli",276,0
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Escherichia coli",276,57
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecalis",121,7
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecalis",121,41
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecalis",121,1
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecalis",121,50
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Enterococcus faecium",75,11
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Enterococcus faecium",75,37
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Enterococcus faecium",75,0
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Enterococcus faecium",75,52
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Klebsiella pneumoniae",297,16
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Klebsiella pneumoniae",297,37
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Klebsiella pneumoniae",297,3
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Klebsiella pneumoniae",297,44
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Pseudomonas aeruginosa",114,6
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Pseudomonas aeruginosa",114,44
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Pseudomonas aeruginosa",114,4
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Pseudomonas aeruginosa",114,46
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Staphylococcus aureus",253,8
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Staphylococcus aureus",253,34
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Staphylococcus aureus",253,2
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Staphylococcus aureus",253,57
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"0_4","Streptococcus pneumoniae",18,NA
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"20_64","Streptococcus pneumoniae",18,NA
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,"5_19","Streptococcus pneumoniae",18,NA
+2022,"Bosnia and Herzegovina","BIH",70,43.8895425,15.0358947,">= 65","Streptococcus pneumoniae",18,NA
