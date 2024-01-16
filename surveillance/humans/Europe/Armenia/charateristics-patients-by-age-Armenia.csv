@@ -1,0 +1,161 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Streptococcus pneumoniae",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Streptococcus pneumoniae",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Streptococcus pneumoniae",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Streptococcus pneumoniae",0,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Streptococcus pneumoniae",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Streptococcus pneumoniae",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Streptococcus pneumoniae",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Streptococcus pneumoniae",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Acinetobacter spp.",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Acinetobacter spp.",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Acinetobacter spp.",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Acinetobacter spp.",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Escherichia coli",10,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Escherichia coli",10,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Escherichia coli",10,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Escherichia coli",10,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecalis",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecalis",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecalis",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecalis",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecium",0,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecium",0,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecium",0,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecium",0,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Klebsiella pneumoniae",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Klebsiella pneumoniae",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Klebsiella pneumoniae",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Klebsiella pneumoniae",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Pseudomonas aeruginosa",6,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Pseudomonas aeruginosa",6,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Pseudomonas aeruginosa",6,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Pseudomonas aeruginosa",6,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Staphylococcus aureus",13,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Staphylococcus aureus",13,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Staphylococcus aureus",13,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Staphylococcus aureus",13,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Streptococcus pneumoniae",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Streptococcus pneumoniae",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Streptococcus pneumoniae",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Streptococcus pneumoniae",1,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Staphylococcus aureus",42,69
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Staphylococcus aureus",42,5
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Staphylococcus aureus",42,10
+2021,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Staphylococcus aureus",42,17
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Streptococcus pneumoniae",2,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"0_4","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"20_64","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"5_19","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,">= 65","Streptococcus pneumoniae",3,NA

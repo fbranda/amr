@@ -1,0 +1,273 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Acinetobacter spp.",1,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Escherichia coli",6,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecalis",4,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecium",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Klebsiella pneumoniae",3,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Pseudomonas aeruginosa",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Staphylococcus aureus",15,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Streptococcus pneumoniae",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Streptococcus pneumoniae",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Streptococcus pneumoniae",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Streptococcus pneumoniae",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Streptococcus pneumoniae",0,NA
+2017,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Streptococcus pneumoniae",0,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Acinetobacter spp.",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Escherichia coli",11,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecalis",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecium",3,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Klebsiella pneumoniae",6,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Pseudomonas aeruginosa",2,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Staphylococcus aureus",17,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Streptococcus pneumoniae",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Infectious disease ward","Streptococcus pneumoniae",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Streptococcus pneumoniae",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Streptococcus pneumoniae",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Streptococcus pneumoniae",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Streptococcus pneumoniae",1,NA
+2018,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Streptococcus pneumoniae",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Acinetobacter spp.",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Acinetobacter spp.",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Acinetobacter spp.",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Acinetobacter spp.",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Escherichia coli",10,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Escherichia coli",10,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Escherichia coli",10,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Escherichia coli",10,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecalis",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecalis",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecalis",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecalis",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecium",0,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecium",0,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecium",0,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecium",0,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Klebsiella pneumoniae",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Klebsiella pneumoniae",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Klebsiella pneumoniae",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Klebsiella pneumoniae",2,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Pseudomonas aeruginosa",6,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Pseudomonas aeruginosa",6,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Pseudomonas aeruginosa",6,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Pseudomonas aeruginosa",6,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Staphylococcus aureus",13,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Staphylococcus aureus",13,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Staphylococcus aureus",13,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Staphylococcus aureus",13,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Streptococcus pneumoniae",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Streptococcus pneumoniae",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Streptococcus pneumoniae",1,NA
+2019,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Streptococcus pneumoniae",1,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Acinetobacter spp.",6,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Escherichia coli",9,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecalis",11,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecium",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Klebsiella pneumoniae",13,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Pseudomonas aeruginosa",7,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Staphylococcus aureus",42,0
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Staphylococcus aureus",42,12
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Staphylococcus aureus",42,74
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Staphylococcus aureus",42,5
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Staphylococcus aureus",42,5
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Staphylococcus aureus",42,5
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Staphylococcus aureus",42,0
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Staphylococcus aureus",42,0
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Streptococcus pneumoniae",2,NA
+2021,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Streptococcus pneumoniae",2,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Acinetobacter spp.",1,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal intensive care unit","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Escherichia coli",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecalis",8,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Enterococcus faecium",4,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Klebsiella pneumoniae",17,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Pseudomonas aeruginosa",9,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Staphylococcus aureus",16,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Emergency department","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Haematology or oncology","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Intensive care unit","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Internal medicine","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Other","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Surgery","Streptococcus pneumoniae",3,NA
+2022,"Armenia","ARM",51,40.0652382,43.7214127,"Urology","Streptococcus pneumoniae",3,NA
