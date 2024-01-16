@@ -1,0 +1,225 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Klebsiella pneumoniae",35,80
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Klebsiella pneumoniae",35,9
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Klebsiella pneumoniae",35,3
+2016,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Klebsiella pneumoniae",35,6
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Streptococcus pneumoniae",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Streptococcus pneumoniae",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Streptococcus pneumoniae",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Streptococcus pneumoniae",2,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Acinetobacter spp.",35,9
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Acinetobacter spp.",35,26
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Acinetobacter spp.",35,3
+2017,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Acinetobacter spp.",35,17
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Escherichia coli",27,7
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Escherichia coli",27,15
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Escherichia coli",27,0
+2017,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Escherichia coli",27,7
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecalis",21,0
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecalis",21,0
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecalis",21,0
+2017,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecalis",21,14
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecium",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecium",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecium",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecium",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Klebsiella pneumoniae",58,10
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Klebsiella pneumoniae",58,17
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Klebsiella pneumoniae",58,2
+2017,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Klebsiella pneumoniae",58,16
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Pseudomonas aeruginosa",16,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Pseudomonas aeruginosa",16,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Pseudomonas aeruginosa",16,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Pseudomonas aeruginosa",16,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Staphylococcus aureus",38,5
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Staphylococcus aureus",38,13
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Staphylococcus aureus",38,0
+2017,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Staphylococcus aureus",38,11
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Streptococcus pneumoniae",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Streptococcus pneumoniae",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Streptococcus pneumoniae",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Acinetobacter spp.",47,15
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Acinetobacter spp.",47,60
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Acinetobacter spp.",47,11
+2018,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Acinetobacter spp.",47,11
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Escherichia coli",56,23
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Escherichia coli",56,25
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Escherichia coli",56,4
+2018,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Escherichia coli",56,48
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Klebsiella pneumoniae",82,21
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Klebsiella pneumoniae",82,41
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Klebsiella pneumoniae",82,7
+2018,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Klebsiella pneumoniae",82,27
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Pseudomonas aeruginosa",23,17
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Pseudomonas aeruginosa",23,30
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Pseudomonas aeruginosa",23,17
+2018,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Pseudomonas aeruginosa",23,30
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Staphylococcus aureus",68,41
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Staphylococcus aureus",68,22
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Staphylococcus aureus",68,13
+2018,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Staphylococcus aureus",68,19
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Streptococcus pneumoniae",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Acinetobacter spp.",97,13
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Acinetobacter spp.",97,41
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Acinetobacter spp.",97,2
+2019,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Acinetobacter spp.",97,34
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Escherichia coli",82,20
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Escherichia coli",82,35
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Escherichia coli",82,2
+2019,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Escherichia coli",82,40
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Klebsiella pneumoniae",165,32
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Klebsiella pneumoniae",165,24
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Klebsiella pneumoniae",165,2
+2019,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Klebsiella pneumoniae",165,25
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Pseudomonas aeruginosa",65,22
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Pseudomonas aeruginosa",65,31
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Pseudomonas aeruginosa",65,5
+2019,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Pseudomonas aeruginosa",65,25
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Staphylococcus aureus",159,36
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Staphylococcus aureus",159,26
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Staphylococcus aureus",159,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Staphylococcus aureus",159,25
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Streptococcus pneumoniae",8,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Acinetobacter spp.",164,14
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Acinetobacter spp.",164,38
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Acinetobacter spp.",164,2
+2020,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Acinetobacter spp.",164,45
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Escherichia coli",134,15
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Escherichia coli",134,30
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Escherichia coli",134,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Escherichia coli",134,52
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecalis",42,21
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecalis",42,48
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecalis",42,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecalis",42,31
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Klebsiella pneumoniae",210,26
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Klebsiella pneumoniae",210,34
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Klebsiella pneumoniae",210,2
+2020,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Klebsiella pneumoniae",210,35
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Pseudomonas aeruginosa",56,11
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Pseudomonas aeruginosa",56,46
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Pseudomonas aeruginosa",56,5
+2020,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Pseudomonas aeruginosa",56,21
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Staphylococcus aureus",180,16
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Staphylococcus aureus",180,34
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Staphylococcus aureus",180,7
+2020,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Staphylococcus aureus",180,39
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Streptococcus pneumoniae",7,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Acinetobacter spp.",216,5
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Acinetobacter spp.",216,42
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Acinetobacter spp.",216,2
+2021,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Acinetobacter spp.",216,44
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Escherichia coli",85,13
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Escherichia coli",85,21
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Escherichia coli",85,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Escherichia coli",85,60
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecalis",34,6
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecalis",34,18
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecalis",34,3
+2021,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecalis",34,71
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecium",31,16
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecium",31,29
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecium",31,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecium",31,55
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Klebsiella pneumoniae",194,15
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Klebsiella pneumoniae",194,32
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Klebsiella pneumoniae",194,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Klebsiella pneumoniae",194,47
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Pseudomonas aeruginosa",57,19
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Pseudomonas aeruginosa",57,37
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Pseudomonas aeruginosa",57,7
+2021,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Pseudomonas aeruginosa",57,28
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Staphylococcus aureus",161,10
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Staphylococcus aureus",161,36
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Staphylococcus aureus",161,6
+2021,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Staphylococcus aureus",161,43
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Streptococcus pneumoniae",13,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Streptococcus pneumoniae",13,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Streptococcus pneumoniae",13,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Streptococcus pneumoniae",13,NA
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Acinetobacter spp.",211,8
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Acinetobacter spp.",211,37
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Acinetobacter spp.",211,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Acinetobacter spp.",211,50
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Escherichia coli",206,5
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Escherichia coli",206,28
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Escherichia coli",206,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Escherichia coli",206,59
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecalis",74,15
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecalis",74,11
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecalis",74,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecalis",74,65
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Enterococcus faecium",33,6
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Enterococcus faecium",33,36
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Enterococcus faecium",33,3
+2022,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Enterococcus faecium",33,45
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Klebsiella pneumoniae",202,10
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Klebsiella pneumoniae",202,40
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Klebsiella pneumoniae",202,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Klebsiella pneumoniae",202,43
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Pseudomonas aeruginosa",63,13
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Pseudomonas aeruginosa",63,30
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Pseudomonas aeruginosa",63,10
+2022,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Pseudomonas aeruginosa",63,46
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Staphylococcus aureus",332,9
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Staphylococcus aureus",332,41
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Staphylococcus aureus",332,3
+2022,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Staphylococcus aureus",332,42
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"0_4","Streptococcus pneumoniae",54,6
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"20_64","Streptococcus pneumoniae",54,50
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"5_19","Streptococcus pneumoniae",54,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,">= 65","Streptococcus pneumoniae",54,43

@@ -1,0 +1,377 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Acinetobacter spp.",7,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Escherichia coli",9,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Enterococcus faecalis",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Enterococcus faecium",0,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Klebsiella pneumoniae",35,0
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Klebsiella pneumoniae",35,3
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Klebsiella pneumoniae",35,14
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Klebsiella pneumoniae",35,0
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Klebsiella pneumoniae",35,3
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",35,77
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Klebsiella pneumoniae",35,0
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Pseudomonas aeruginosa",6,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Staphylococcus aureus",11,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Streptococcus pneumoniae",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Streptococcus pneumoniae",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Streptococcus pneumoniae",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Streptococcus pneumoniae",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Streptococcus pneumoniae",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",2,NA
+2016,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Streptococcus pneumoniae",2,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Acinetobacter spp.",35,26
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Acinetobacter spp.",35,0
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Acinetobacter spp.",35,3
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Acinetobacter spp.",35,6
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Escherichia coli",27,4
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Escherichia coli",27,0
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Escherichia coli",27,11
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Escherichia coli",27,4
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecalis",21,24
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecalis",21,0
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecalis",21,10
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecalis",21,14
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecium",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecium",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecium",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecium",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Klebsiella pneumoniae",58,22
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Klebsiella pneumoniae",58,2
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Klebsiella pneumoniae",58,5
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Klebsiella pneumoniae",58,10
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Pseudomonas aeruginosa",16,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Pseudomonas aeruginosa",16,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Pseudomonas aeruginosa",16,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Pseudomonas aeruginosa",16,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Staphylococcus aureus",38,24
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Staphylococcus aureus",38,0
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Staphylococcus aureus",38,11
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Staphylococcus aureus",38,8
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Streptococcus pneumoniae",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Streptococcus pneumoniae",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Streptococcus pneumoniae",3,NA
+2017,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Acinetobacter spp.",47,4
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Acinetobacter spp.",47,0
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Acinetobacter spp.",47,74
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Acinetobacter spp.",47,2
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Acinetobacter spp.",47,0
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Acinetobacter spp.",47,9
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Escherichia coli",56,2
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Escherichia coli",56,2
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Escherichia coli",56,68
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Escherichia coli",56,0
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Escherichia coli",56,14
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Escherichia coli",56,11
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecalis",12,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecium",4,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Klebsiella pneumoniae",82,1
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Klebsiella pneumoniae",82,1
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Klebsiella pneumoniae",82,70
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Klebsiella pneumoniae",82,0
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Klebsiella pneumoniae",82,2
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Klebsiella pneumoniae",82,17
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Pseudomonas aeruginosa",23,4
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Pseudomonas aeruginosa",23,4
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Pseudomonas aeruginosa",23,70
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Pseudomonas aeruginosa",23,0
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Pseudomonas aeruginosa",23,4
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Pseudomonas aeruginosa",23,13
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Staphylococcus aureus",68,3
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Staphylococcus aureus",68,4
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Staphylococcus aureus",68,51
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Staphylococcus aureus",68,0
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Staphylococcus aureus",68,4
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Staphylococcus aureus",68,29
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Streptococcus pneumoniae",3,NA
+2018,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Streptococcus pneumoniae",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Acinetobacter spp.",97,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Acinetobacter spp.",97,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Acinetobacter spp.",97,71
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Acinetobacter spp.",97,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Acinetobacter spp.",97,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Acinetobacter spp.",97,15
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Acinetobacter spp.",97,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Urology","Acinetobacter spp.",97,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Escherichia coli",82,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Escherichia coli",82,2
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Escherichia coli",82,56
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Escherichia coli",82,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Escherichia coli",82,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Escherichia coli",82,5
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Escherichia coli",82,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Urology","Escherichia coli",82,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Urology","Enterococcus faecalis",17,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Urology","Enterococcus faecium",3,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Klebsiella pneumoniae",165,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Klebsiella pneumoniae",165,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Klebsiella pneumoniae",165,37
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Klebsiella pneumoniae",165,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Klebsiella pneumoniae",165,2
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Klebsiella pneumoniae",165,25
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Klebsiella pneumoniae",165,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Urology","Klebsiella pneumoniae",165,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Pseudomonas aeruginosa",65,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Pseudomonas aeruginosa",65,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Pseudomonas aeruginosa",65,60
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Pseudomonas aeruginosa",65,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Pseudomonas aeruginosa",65,3
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Pseudomonas aeruginosa",65,12
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Pseudomonas aeruginosa",65,2
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Urology","Pseudomonas aeruginosa",65,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Staphylococcus aureus",159,3
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Staphylococcus aureus",159,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Staphylococcus aureus",159,49
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Staphylococcus aureus",159,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Staphylococcus aureus",159,1
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Staphylococcus aureus",159,16
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Staphylococcus aureus",159,2
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Urology","Staphylococcus aureus",159,0
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Streptococcus pneumoniae",8,NA
+2019,"Georgia","GEO",268,42.2946627,40.7171627,"Urology","Streptococcus pneumoniae",8,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Acinetobacter spp.",164,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Acinetobacter spp.",164,12
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Acinetobacter spp.",164,9
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Obstetrics or gynaecology","Acinetobacter spp.",164,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Acinetobacter spp.",164,1
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Acinetobacter spp.",164,2
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",164,1
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Acinetobacter spp.",164,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Escherichia coli",134,5
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Escherichia coli",134,4
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Escherichia coli",134,2
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Obstetrics or gynaecology","Escherichia coli",134,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Escherichia coli",134,4
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Escherichia coli",134,4
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Escherichia coli",134,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Escherichia coli",134,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Enterococcus faecalis",42,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecalis",42,10
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecalis",42,12
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Obstetrics or gynaecology","Enterococcus faecalis",42,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecalis",42,2
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecalis",42,12
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",42,2
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Enterococcus faecalis",42,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Obstetrics or gynaecology","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Enterococcus faecium",9,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Klebsiella pneumoniae",210,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Klebsiella pneumoniae",210,5
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Klebsiella pneumoniae",210,6
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Obstetrics or gynaecology","Klebsiella pneumoniae",210,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Klebsiella pneumoniae",210,1
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Klebsiella pneumoniae",210,5
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",210,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Klebsiella pneumoniae",210,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Pseudomonas aeruginosa",56,2
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Pseudomonas aeruginosa",56,7
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Pseudomonas aeruginosa",56,7
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Obstetrics or gynaecology","Pseudomonas aeruginosa",56,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Pseudomonas aeruginosa",56,2
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Pseudomonas aeruginosa",56,4
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",56,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Pseudomonas aeruginosa",56,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Staphylococcus aureus",180,4
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Staphylococcus aureus",180,6
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Staphylococcus aureus",180,8
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Obstetrics or gynaecology","Staphylococcus aureus",180,1
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Staphylococcus aureus",180,1
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Staphylococcus aureus",180,5
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",180,0
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Staphylococcus aureus",180,1
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Obstetrics or gynaecology","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",7,NA
+2020,"Georgia","GEO",268,42.2946627,40.7171627,"Surgery","Streptococcus pneumoniae",7,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Acinetobacter spp.",216,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Acinetobacter spp.",216,62
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Acinetobacter spp.",216,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Acinetobacter spp.",216,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Acinetobacter spp.",216,1
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",216,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Escherichia coli",85,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Escherichia coli",85,79
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Escherichia coli",85,2
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Escherichia coli",85,2
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Escherichia coli",85,1
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Escherichia coli",85,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Enterococcus faecalis",34,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecalis",34,68
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecalis",34,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecalis",34,6
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecalis",34,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",34,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Enterococcus faecium",31,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecium",31,55
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecium",31,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecium",31,3
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecium",31,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",31,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Klebsiella pneumoniae",194,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Klebsiella pneumoniae",194,87
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Klebsiella pneumoniae",194,3
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Klebsiella pneumoniae",194,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Klebsiella pneumoniae",194,1
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",194,1
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Pseudomonas aeruginosa",57,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Pseudomonas aeruginosa",57,68
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Pseudomonas aeruginosa",57,4
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Pseudomonas aeruginosa",57,2
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Pseudomonas aeruginosa",57,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",57,2
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Staphylococcus aureus",161,1
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Staphylococcus aureus",161,86
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Staphylococcus aureus",161,0
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Staphylococcus aureus",161,1
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Staphylococcus aureus",161,1
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",161,1
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Streptococcus pneumoniae",13,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Streptococcus pneumoniae",13,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Streptococcus pneumoniae",13,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Streptococcus pneumoniae",13,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Streptococcus pneumoniae",13,NA
+2021,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",13,NA
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Acinetobacter spp.",211,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Acinetobacter spp.",211,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Acinetobacter spp.",211,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Acinetobacter spp.",211,22
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Acinetobacter spp.",211,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Acinetobacter spp.",211,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Acinetobacter spp.",211,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",211,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Escherichia coli",206,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Escherichia coli",206,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Escherichia coli",206,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Escherichia coli",206,13
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Escherichia coli",206,2
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Escherichia coli",206,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Escherichia coli",206,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Escherichia coli",206,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Enterococcus faecalis",74,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Enterococcus faecalis",74,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Enterococcus faecalis",74,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecalis",74,23
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecalis",74,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecalis",74,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecalis",74,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",74,3
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Enterococcus faecium",33,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Enterococcus faecium",33,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Enterococcus faecium",33,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Enterococcus faecium",33,36
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Enterococcus faecium",33,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Enterococcus faecium",33,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Enterococcus faecium",33,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",33,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Klebsiella pneumoniae",202,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Klebsiella pneumoniae",202,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Klebsiella pneumoniae",202,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Klebsiella pneumoniae",202,27
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Klebsiella pneumoniae",202,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Klebsiella pneumoniae",202,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Klebsiella pneumoniae",202,2
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",202,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Pseudomonas aeruginosa",63,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Pseudomonas aeruginosa",63,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Pseudomonas aeruginosa",63,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Pseudomonas aeruginosa",63,11
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Pseudomonas aeruginosa",63,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Pseudomonas aeruginosa",63,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Pseudomonas aeruginosa",63,3
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",63,2
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Staphylococcus aureus",332,2
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Staphylococcus aureus",332,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Staphylococcus aureus",332,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Staphylococcus aureus",332,23
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Staphylococcus aureus",332,1
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Staphylococcus aureus",332,2
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Staphylococcus aureus",332,2
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",332,3
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Emergency department","Streptococcus pneumoniae",54,2
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Haematology or oncology","Streptococcus pneumoniae",54,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Infectious disease ward","Streptococcus pneumoniae",54,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Intensive care unit","Streptococcus pneumoniae",54,15
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Internal medicine","Streptococcus pneumoniae",54,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Other","Streptococcus pneumoniae",54,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal","Streptococcus pneumoniae",54,0
+2022,"Georgia","GEO",268,42.2946627,40.7171627,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",54,0

@@ -1,0 +1,298 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Microorganism","Antibiotic","Resistance"
+2012,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides",NA
+2012,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems",NA
+2012,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2012,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones",NA
+2012,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin",NA
+2012,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin",NA
+2012,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides",NA
+2012,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins",NA
+2012,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems",NA
+2012,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones",NA
+2012,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins",NA
+2012,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides",NA
+2012,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems",NA
+2012,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2012,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2012,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2012,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems",NA
+2012,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime",NA
+2012,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2012,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2012,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2012,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA",NA
+2012,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2012,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2012,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2013,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides",NA
+2013,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems",NA
+2013,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2013,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones",NA
+2013,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin",NA
+2013,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin",NA
+2013,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides",NA
+2013,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins",NA
+2013,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems",NA
+2013,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones",NA
+2013,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins",NA
+2013,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides",NA
+2013,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems",NA
+2013,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2013,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2013,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2013,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems",NA
+2013,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime",NA
+2013,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2013,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2013,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2013,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA",NA
+2013,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2013,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2013,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2014,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides",NA
+2014,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems",NA
+2014,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2014,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones",NA
+2014,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin",NA
+2014,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin",NA
+2014,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides",NA
+2014,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins",NA
+2014,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems",NA
+2014,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones",NA
+2014,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins",NA
+2014,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides",NA
+2014,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems",NA
+2014,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2014,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2014,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2014,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems",NA
+2014,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime",NA
+2014,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2014,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2014,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2014,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA",NA
+2014,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2014,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2014,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2015,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides",NA
+2015,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems",NA
+2015,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2015,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones",NA
+2015,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin",NA
+2015,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin",NA
+2015,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides",NA
+2015,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins",NA
+2015,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems",NA
+2015,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2015,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones",NA
+2015,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins",NA
+2015,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides",NA
+2015,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems",NA
+2015,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2015,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2015,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2015,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2015,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems",NA
+2015,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime",NA
+2015,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2015,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2015,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2015,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA",NA
+2015,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2015,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2015,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2016,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides",NA
+2016,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems",NA
+2016,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2016,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones",NA
+2016,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin",NA
+2016,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin",NA
+2016,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides",NA
+2016,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins",NA
+2016,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems",NA
+2016,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2016,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones",NA
+2016,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins",NA
+2016,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides","70.59"
+2016,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems","8.82"
+2016,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","30"
+2016,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones","33.33"
+2016,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins","100"
+2016,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2016,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems",NA
+2016,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime",NA
+2016,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2016,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2016,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2016,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA",NA
+2016,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2016,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2016,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2017,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides","67.65"
+2017,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems","85.29"
+2017,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","57.58"
+2017,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones","88.24"
+2017,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin",NA
+2017,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin",NA
+2017,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides","32"
+2017,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins",NA
+2017,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems","0"
+2017,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","16"
+2017,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones","37.04"
+2017,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins","40.74"
+2017,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides","65.38"
+2017,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems","47.37"
+2017,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","40"
+2017,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones","58.93"
+2017,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins","91.23"
+2017,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2017,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems",NA
+2017,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime",NA
+2017,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2017,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2017,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2017,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA","11.43"
+2017,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2017,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2017,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2018,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides","78.72"
+2018,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems","89.36"
+2018,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","72.34"
+2018,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones","97.87"
+2018,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin",NA
+2018,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin",NA
+2018,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides","45.83"
+2018,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins",NA
+2018,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems","10.71"
+2018,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","37.5"
+2018,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones","50.91"
+2018,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins","55.36"
+2018,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides","49.33"
+2018,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems","29.27"
+2018,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","36"
+2018,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones","56.1"
+2018,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins","87.8"
+2018,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides","54.55"
+2018,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems","43.48"
+2018,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime","69.57"
+2018,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","45"
+2018,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones","47.83"
+2018,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","35"
+2018,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA","16.67"
+2018,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2018,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2018,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2019,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides","40.21"
+2019,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems","74.23"
+2019,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","33.33"
+2019,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones","81.61"
+2019,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin",NA
+2019,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin",NA
+2019,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides","16.18"
+2019,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins","74.36"
+2019,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems","7.32"
+2019,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","5.88"
+2019,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones","43.9"
+2019,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins","57.32"
+2019,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides","41.77"
+2019,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems","30.91"
+2019,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","23.87"
+2019,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones","46.06"
+2019,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins","75.31"
+2019,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides","40.63"
+2019,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems","51.61"
+2019,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime","49.02"
+2019,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","56.52"
+2019,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones","48.33"
+2019,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","39.66"
+2019,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA","16.81"
+2019,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2019,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2019,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2020,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides","58.39"
+2020,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems","68.9"
+2020,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","46.79"
+2020,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones","74.84"
+2020,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin","60.53"
+2020,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin",NA
+2020,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides","11.63"
+2020,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins","67.52"
+2020,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems","0.75"
+2020,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","5.43"
+2020,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones","43.28"
+2020,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins","44.03"
+2020,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides","54.37"
+2020,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems","61.9"
+2020,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","29.76"
+2020,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones","49.76"
+2020,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins","78.57"
+2020,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides","34.88"
+2020,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems","35.71"
+2020,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime","42"
+2020,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","34.88"
+2020,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones","33.93"
+2020,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","35.85"
+2020,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA","16.2"
+2020,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2020,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2020,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2021,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides","65.26"
+2021,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems","90.23"
+2021,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","63.51"
+2021,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones","90.65"
+2021,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin","48.48"
+2021,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin","25.81"
+2021,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides","13.51"
+2021,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins","78.57"
+2021,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems","7.06"
+2021,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","8.22"
+2021,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones","21.18"
+2021,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins","36.9"
+2021,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides","55.91"
+2021,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems","78.87"
+2021,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","41.62"
+2021,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones","69.95"
+2021,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins","89.69"
+2021,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides","44"
+2021,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems","59.65"
+2021,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime","60.38"
+2021,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","53.19"
+2021,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones","50.88"
+2021,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","58.18"
+2021,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA","25.79"
+2021,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2021,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides",NA
+2021,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2022,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Aminoglycosides","72.95"
+2022,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Carbapenems","87.68"
+2022,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","72.2"
+2022,"Georgia","GEO",268,42,41,"Acinetobacter spp.","Fluoroquinolones","90.91"
+2022,"Georgia","GEO",268,42,41,"Enterococcus faecalis","High-level gentamicin",NA
+2022,"Georgia","GEO",268,42,41,"Enterococcus faecium","Vancomycin","42.42"
+2022,"Georgia","GEO",268,42,41,"Escherichia coli","Aminoglycosides","14.29"
+2022,"Georgia","GEO",268,42,41,"Escherichia coli","Aminopenicillins","63.38"
+2022,"Georgia","GEO",268,42,41,"Escherichia coli","Carbapenems","1.46"
+2022,"Georgia","GEO",268,42,41,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","8.33"
+2022,"Georgia","GEO",268,42,41,"Escherichia coli","Fluoroquinolones","38.05"
+2022,"Georgia","GEO",268,42,41,"Escherichia coli","Third-generation cephalosporins","45.15"
+2022,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Aminoglycosides","54.31"
+2022,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Carbapenems","67.33"
+2022,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","44.67"
+2022,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Fluoroquinolones","69.15"
+2022,"Georgia","GEO",268,42,41,"Klebsiella pneumoniae","Third-generation cephalosporins","80.2"
+2022,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2022,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Carbapenems","44.44"
+2022,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Ceftazidime","35"
+2022,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2022,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Fluoroquinolones","54.1"
+2022,"Georgia","GEO",268,42,41,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","49.15"
+2022,"Georgia","GEO",268,42,41,"Staphylococcus aureus","MRSA","21.67"
+2022,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2022,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Macrolides","58.82"
+2022,"Georgia","GEO",268,42,41,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
