@@ -1,0 +1,6 @@
+﻿"DOI","Author","PubDate","ISO3","YCoord","XCoord","StartDate","EndDate","Species","SampleType","SampleOrigin","Method","Pathogens","Strain","Nsamples","Prev","NIsolates","Compound","ATC.Code","Rescom","Concg","Guidelines","Breakpoint","Remark","Class","WHO_MedImp"
+"10.19182/remvt.31392","Manishimwe",2017,"RWA",-1.94,30.27,"2015-04-15","2015-09-15","Chicken","LivingAnimal",NA,"DD","E. coli",NA,294,82,241,"GEN","J01GB03",4,"10","CLSI 2013",NA,NA,"Aminoglycosides","Critically important"
+"10.19182/remvt.31392","Manishimwe",2017,"RWA",-1.94,30.27,"2015-04-15","2015-09-15","Chicken","LivingAnimal",NA,"DD","E. coli",NA,294,82,241,"RIF","J04AB02",69,"30","CLSI 2013",NA,NA,"Ansamycins","Critically important"
+"10.19182/remvt.31392","Manishimwe",2017,"RWA",-1.94,30.27,"2015-04-15","2015-09-15","Chicken","LivingAnimal",NA,"DD","E. coli",NA,294,82,241,"DOX","J01AA02",78,"30","CLSI 2013",NA,NA,"Tetracyclines","Highly important"
+"10.19182/remvt.31392","Manishimwe",2017,"RWA",-1.94,30.27,"2015-04-15","2015-09-15","Chicken","LivingAnimal",NA,"DD","E. coli",NA,294,82,241,"STR","J01GA01",79,"10","CLSI 2013",NA,NA,"Aminoglycosides","Critically important"
+"10.19182/remvt.31392","Manishimwe",2017,"RWA",-1.94,30.27,"2015-04-15","2015-09-15","Chicken","LivingAnimal",NA,"DD","E. coli",NA,294,82,241,"ERY","J01FA01",99,"15","CLSI 2013",NA,NA,"Macrolides","Critically important"
