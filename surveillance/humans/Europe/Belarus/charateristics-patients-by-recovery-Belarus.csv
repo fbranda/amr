@@ -1,0 +1,577 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Acinetobacter spp.",150,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Acinetobacter spp.",150,1
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Acinetobacter spp.",150,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Escherichia coli",36,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Escherichia coli",36,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Escherichia coli",36,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecalis",53,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecalis",53,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Enterococcus faecalis",53,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecium",41,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecium",41,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Enterococcus faecium",41,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Klebsiella pneumoniae",80,1
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Klebsiella pneumoniae",80,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Klebsiella pneumoniae",80,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Pseudomonas aeruginosa",20,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Pseudomonas aeruginosa",20,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Pseudomonas aeruginosa",20,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Staphylococcus aureus",43,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Staphylococcus aureus",43,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Staphylococcus aureus",43,2
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Streptococcus pneumoniae",1,NA
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Streptococcus pneumoniae",1,NA
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Streptococcus pneumoniae",1,NA
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Acinetobacter spp.",322,2
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Acinetobacter spp.",322,48
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Acinetobacter spp.",322,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Acinetobacter spp.",322,1
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Acinetobacter spp.",322,2
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",322,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Acinetobacter spp.",322,17
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Acinetobacter spp.",322,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Escherichia coli",62,2
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Escherichia coli",62,44
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Escherichia coli",62,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Escherichia coli",62,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Escherichia coli",62,3
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Escherichia coli",62,2
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Escherichia coli",62,19
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Escherichia coli",62,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecalis",119,1
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecalis",119,24
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecalis",119,1
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecalis",119,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecalis",119,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",119,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecalis",119,8
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Enterococcus faecalis",119,3
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecium",65,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecium",65,40
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecium",65,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecium",65,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecium",65,3
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",65,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecium",65,12
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Enterococcus faecium",65,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Klebsiella pneumoniae",183,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Klebsiella pneumoniae",183,33
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Klebsiella pneumoniae",183,1
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Klebsiella pneumoniae",183,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Klebsiella pneumoniae",183,1
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",183,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Klebsiella pneumoniae",183,22
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Klebsiella pneumoniae",183,1
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Pseudomonas aeruginosa",90,3
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Pseudomonas aeruginosa",90,34
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Pseudomonas aeruginosa",90,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Pseudomonas aeruginosa",90,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Pseudomonas aeruginosa",90,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",90,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Pseudomonas aeruginosa",90,12
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Pseudomonas aeruginosa",90,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Staphylococcus aureus",258,2
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Staphylococcus aureus",258,34
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Staphylococcus aureus",258,2
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Staphylococcus aureus",258,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Staphylococcus aureus",258,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",258,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Staphylococcus aureus",258,19
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Staphylococcus aureus",258,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Streptococcus pneumoniae",22,18
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Streptococcus pneumoniae",22,41
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Streptococcus pneumoniae",22,5
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Streptococcus pneumoniae",22,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Streptococcus pneumoniae",22,9
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",22,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Streptococcus pneumoniae",22,5
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Streptococcus pneumoniae",22,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Acinetobacter spp.",348,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Acinetobacter spp.",348,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Acinetobacter spp.",348,45
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Acinetobacter spp.",348,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Acinetobacter spp.",348,4
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",348,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Acinetobacter spp.",348,15
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Acinetobacter spp.",348,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Escherichia coli",61,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Escherichia coli",61,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Escherichia coli",61,39
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Escherichia coli",61,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Escherichia coli",61,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Escherichia coli",61,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Escherichia coli",61,11
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Escherichia coli",61,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecalis",160,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecalis",160,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecalis",160,31
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecalis",160,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecalis",160,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",160,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecalis",160,13
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Enterococcus faecalis",160,6
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecium",82,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecium",82,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecium",82,37
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecium",82,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecium",82,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",82,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecium",82,21
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Enterococcus faecium",82,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Klebsiella pneumoniae",237,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Klebsiella pneumoniae",237,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Klebsiella pneumoniae",237,32
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Klebsiella pneumoniae",237,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Klebsiella pneumoniae",237,5
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",237,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Klebsiella pneumoniae",237,16
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Klebsiella pneumoniae",237,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Pseudomonas aeruginosa",79,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Pseudomonas aeruginosa",79,3
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Pseudomonas aeruginosa",79,32
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Pseudomonas aeruginosa",79,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Pseudomonas aeruginosa",79,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",79,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Pseudomonas aeruginosa",79,15
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Pseudomonas aeruginosa",79,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Staphylococcus aureus",399,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Staphylococcus aureus",399,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Staphylococcus aureus",399,50
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Staphylococcus aureus",399,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Staphylococcus aureus",399,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",399,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Staphylococcus aureus",399,12
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Staphylococcus aureus",399,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Streptococcus pneumoniae",13,NA
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Acinetobacter spp.",311,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Acinetobacter spp.",311,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Acinetobacter spp.",311,84
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Acinetobacter spp.",311,7
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Acinetobacter spp.",311,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Acinetobacter spp.",311,2
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",311,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Acinetobacter spp.",311,5
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Escherichia coli",95,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Escherichia coli",95,6
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Escherichia coli",95,56
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Escherichia coli",95,11
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Escherichia coli",95,3
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Escherichia coli",95,3
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Escherichia coli",95,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Escherichia coli",95,15
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecalis",97,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecalis",97,3
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecalis",97,55
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecalis",97,24
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecalis",97,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecalis",97,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",97,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecalis",97,12
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecium",105,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecium",105,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecium",105,77
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecium",105,9
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecium",105,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecium",105,2
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",105,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecium",105,8
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Klebsiella pneumoniae",297,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Klebsiella pneumoniae",297,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Klebsiella pneumoniae",297,73
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Klebsiella pneumoniae",297,14
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Klebsiella pneumoniae",297,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Klebsiella pneumoniae",297,2
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",297,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Klebsiella pneumoniae",297,5
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Pseudomonas aeruginosa",89,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Pseudomonas aeruginosa",89,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Pseudomonas aeruginosa",89,71
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Pseudomonas aeruginosa",89,11
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Pseudomonas aeruginosa",89,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Pseudomonas aeruginosa",89,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",89,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Pseudomonas aeruginosa",89,13
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Staphylococcus aureus",329,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Staphylococcus aureus",329,5
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Staphylococcus aureus",329,53
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Staphylococcus aureus",329,21
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Staphylococcus aureus",329,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Staphylococcus aureus",329,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",329,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Staphylococcus aureus",329,14
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Streptococcus pneumoniae",25,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Streptococcus pneumoniae",25,4
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Streptococcus pneumoniae",25,84
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Streptococcus pneumoniae",25,8
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Streptococcus pneumoniae",25,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Streptococcus pneumoniae",25,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",25,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Streptococcus pneumoniae",25,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Acinetobacter spp.",336,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Acinetobacter spp.",336,3
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Acinetobacter spp.",336,49
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Acinetobacter spp.",336,8
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Acinetobacter spp.",336,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Acinetobacter spp.",336,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Acinetobacter spp.",336,4
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",336,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Acinetobacter spp.",336,19
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Escherichia coli",113,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Escherichia coli",113,7
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Escherichia coli",113,41
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Escherichia coli",113,11
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Escherichia coli",113,1
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Escherichia coli",113,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Escherichia coli",113,2
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Escherichia coli",113,3
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Escherichia coli",113,27
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecalis",120,1
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecalis",120,2
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecalis",120,34
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecalis",120,16
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecalis",120,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Enterococcus faecalis",120,1
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecalis",120,3
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",120,2
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecalis",120,23
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecium",82,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecium",82,2
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecium",82,44
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecium",82,11
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecium",82,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Enterococcus faecium",82,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecium",82,6
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",82,1
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecium",82,23
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Klebsiella pneumoniae",327,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Klebsiella pneumoniae",327,1
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Klebsiella pneumoniae",327,42
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Klebsiella pneumoniae",327,12
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Klebsiella pneumoniae",327,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Klebsiella pneumoniae",327,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Klebsiella pneumoniae",327,5
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",327,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Klebsiella pneumoniae",327,24
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Pseudomonas aeruginosa",84,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Pseudomonas aeruginosa",84,2
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Pseudomonas aeruginosa",84,60
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Pseudomonas aeruginosa",84,6
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Pseudomonas aeruginosa",84,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Pseudomonas aeruginosa",84,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Pseudomonas aeruginosa",84,5
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",84,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Pseudomonas aeruginosa",84,14
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Staphylococcus aureus",352,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Staphylococcus aureus",352,7
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Staphylococcus aureus",352,43
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Staphylococcus aureus",352,18
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Staphylococcus aureus",352,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Staphylococcus aureus",352,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Staphylococcus aureus",352,3
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",352,1
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Staphylococcus aureus",352,17
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Streptococcus pneumoniae",24,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Streptococcus pneumoniae",24,29
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Streptococcus pneumoniae",24,42
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Streptococcus pneumoniae",24,13
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Streptococcus pneumoniae",24,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Streptococcus pneumoniae",24,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Streptococcus pneumoniae",24,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",24,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Streptococcus pneumoniae",24,17
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Acinetobacter spp.",359,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Acinetobacter spp.",359,2
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Acinetobacter spp.",359,61
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Acinetobacter spp.",359,4
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Acinetobacter spp.",359,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Acinetobacter spp.",359,13
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Acinetobacter spp.",359,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",359,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Acinetobacter spp.",359,15
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Acinetobacter spp.",359,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Escherichia coli",154,5
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Escherichia coli",154,5
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Escherichia coli",154,55
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Escherichia coli",154,6
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Escherichia coli",154,2
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Escherichia coli",154,7
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Escherichia coli",154,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Escherichia coli",154,2
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Escherichia coli",154,14
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Escherichia coli",154,3
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Enterococcus faecalis",145,3
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecalis",145,2
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecalis",145,45
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecalis",145,10
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecalis",145,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Enterococcus faecalis",145,15
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecalis",145,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",145,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecalis",145,17
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Enterococcus faecalis",145,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Enterococcus faecium",98,5
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecium",98,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecium",98,56
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecium",98,4
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecium",98,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Enterococcus faecium",98,8
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecium",98,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",98,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecium",98,22
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Enterococcus faecium",98,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Klebsiella pneumoniae",494,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Klebsiella pneumoniae",494,6
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Klebsiella pneumoniae",494,56
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Klebsiella pneumoniae",494,4
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Klebsiella pneumoniae",494,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Klebsiella pneumoniae",494,10
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Klebsiella pneumoniae",494,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",494,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Klebsiella pneumoniae",494,16
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Klebsiella pneumoniae",494,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Pseudomonas aeruginosa",97,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Pseudomonas aeruginosa",97,3
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Pseudomonas aeruginosa",97,70
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Pseudomonas aeruginosa",97,4
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Pseudomonas aeruginosa",97,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Pseudomonas aeruginosa",97,12
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Pseudomonas aeruginosa",97,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",97,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Pseudomonas aeruginosa",97,8
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Pseudomonas aeruginosa",97,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Staphylococcus aureus",329,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Staphylococcus aureus",329,7
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Staphylococcus aureus",329,40
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Staphylococcus aureus",329,16
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Staphylococcus aureus",329,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Staphylococcus aureus",329,8
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Staphylococcus aureus",329,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",329,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Staphylococcus aureus",329,21
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Staphylococcus aureus",329,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Streptococcus pneumoniae",31,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Streptococcus pneumoniae",31,10
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Streptococcus pneumoniae",31,77
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Streptococcus pneumoniae",31,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Streptococcus pneumoniae",31,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Streptococcus pneumoniae",31,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Streptococcus pneumoniae",31,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",31,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Streptococcus pneumoniae",31,13
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"Urology","Streptococcus pneumoniae",31,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Acinetobacter spp.",406,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Acinetobacter spp.",406,63
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Acinetobacter spp.",406,15
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Acinetobacter spp.",406,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Acinetobacter spp.",406,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Acinetobacter spp.",406,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",406,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Acinetobacter spp.",406,19
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Escherichia coli",145,3
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Escherichia coli",145,56
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Escherichia coli",145,22
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Escherichia coli",145,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Escherichia coli",145,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Escherichia coli",145,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Escherichia coli",145,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Escherichia coli",145,17
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecalis",116,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecalis",116,47
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecalis",116,30
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecalis",116,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Enterococcus faecalis",116,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecalis",116,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",116,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecalis",116,20
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecium",112,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecium",112,59
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecium",112,20
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecium",112,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Enterococcus faecium",112,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecium",112,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",112,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecium",112,20
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Klebsiella pneumoniae",589,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Klebsiella pneumoniae",589,64
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Klebsiella pneumoniae",589,16
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Klebsiella pneumoniae",589,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Klebsiella pneumoniae",589,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Klebsiella pneumoniae",589,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",589,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Klebsiella pneumoniae",589,18
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Pseudomonas aeruginosa",74,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Pseudomonas aeruginosa",74,65
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Pseudomonas aeruginosa",74,12
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Pseudomonas aeruginosa",74,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Pseudomonas aeruginosa",74,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Pseudomonas aeruginosa",74,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",74,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Pseudomonas aeruginosa",74,22
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Staphylococcus aureus",365,2
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Staphylococcus aureus",365,45
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Staphylococcus aureus",365,24
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Staphylococcus aureus",365,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Staphylococcus aureus",365,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Staphylococcus aureus",365,2
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",365,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Staphylococcus aureus",365,25
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Streptococcus pneumoniae",37,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Streptococcus pneumoniae",37,59
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Streptococcus pneumoniae",37,11
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Streptococcus pneumoniae",37,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Streptococcus pneumoniae",37,5
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Streptococcus pneumoniae",37,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",37,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Streptococcus pneumoniae",37,24
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Acinetobacter spp.",359,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Acinetobacter spp.",359,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Acinetobacter spp.",359,74
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Acinetobacter spp.",359,9
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Acinetobacter spp.",359,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Acinetobacter spp.",359,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Acinetobacter spp.",359,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",359,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Acinetobacter spp.",359,12
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Escherichia coli",146,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Escherichia coli",146,3
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Escherichia coli",146,43
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Escherichia coli",146,21
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Escherichia coli",146,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Escherichia coli",146,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Escherichia coli",146,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Escherichia coli",146,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Escherichia coli",146,29
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecalis",112,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecalis",112,5
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecalis",112,41
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecalis",112,30
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecalis",112,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Enterococcus faecalis",112,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecalis",112,4
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",112,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecalis",112,15
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecium",81,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecium",81,4
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecium",81,51
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecium",81,11
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecium",81,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Enterococcus faecium",81,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecium",81,5
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",81,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecium",81,23
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Klebsiella pneumoniae",575,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Klebsiella pneumoniae",575,3
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Klebsiella pneumoniae",575,61
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Klebsiella pneumoniae",575,16
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Klebsiella pneumoniae",575,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Klebsiella pneumoniae",575,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Klebsiella pneumoniae",575,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",575,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Klebsiella pneumoniae",575,15
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Pseudomonas aeruginosa",55,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Pseudomonas aeruginosa",55,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Pseudomonas aeruginosa",55,73
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Pseudomonas aeruginosa",55,5
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Pseudomonas aeruginosa",55,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Pseudomonas aeruginosa",55,7
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Pseudomonas aeruginosa",55,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",55,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Pseudomonas aeruginosa",55,13
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Staphylococcus aureus",353,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Staphylococcus aureus",353,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Staphylococcus aureus",353,40
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Staphylococcus aureus",353,31
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Staphylococcus aureus",353,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Staphylococcus aureus",353,3
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Staphylococcus aureus",353,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",353,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Staphylococcus aureus",353,18
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Streptococcus pneumoniae",33,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Streptococcus pneumoniae",33,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Streptococcus pneumoniae",33,64
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Streptococcus pneumoniae",33,9
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Streptococcus pneumoniae",33,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Other","Streptococcus pneumoniae",33,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Streptococcus pneumoniae",33,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",33,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Streptococcus pneumoniae",33,27
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Acinetobacter spp.",816,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Acinetobacter spp.",816,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Acinetobacter spp.",816,4
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Acinetobacter spp.",816,71
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Acinetobacter spp.",816,12
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Acinetobacter spp.",816,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Acinetobacter spp.",816,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",816,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Acinetobacter spp.",816,11
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Escherichia coli",229,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Escherichia coli",229,2
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Escherichia coli",229,4
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Escherichia coli",229,52
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Escherichia coli",229,14
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Escherichia coli",229,3
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Escherichia coli",229,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Escherichia coli",229,2
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Escherichia coli",229,23
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecalis",192,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Enterococcus faecalis",192,2
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecalis",192,5
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecalis",192,52
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecalis",192,23
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecalis",192,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecalis",192,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",192,2
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecalis",192,16
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Enterococcus faecium",166,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Enterococcus faecium",166,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Enterococcus faecium",166,2
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Enterococcus faecium",166,63
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Enterococcus faecium",166,16
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Enterococcus faecium",166,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Enterococcus faecium",166,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",166,4
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Enterococcus faecium",166,14
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Klebsiella pneumoniae",949,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Klebsiella pneumoniae",949,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Klebsiella pneumoniae",949,3
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Klebsiella pneumoniae",949,65
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Klebsiella pneumoniae",949,14
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Klebsiella pneumoniae",949,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Klebsiella pneumoniae",949,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",949,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Klebsiella pneumoniae",949,15
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Pseudomonas aeruginosa",112,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Pseudomonas aeruginosa",112,6
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Pseudomonas aeruginosa",112,2
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Pseudomonas aeruginosa",112,54
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Pseudomonas aeruginosa",112,14
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Pseudomonas aeruginosa",112,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Pseudomonas aeruginosa",112,2
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",112,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Pseudomonas aeruginosa",112,20
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Staphylococcus aureus",406,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Staphylococcus aureus",406,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Staphylococcus aureus",406,4
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Staphylococcus aureus",406,37
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Staphylococcus aureus",406,33
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Staphylococcus aureus",406,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Staphylococcus aureus",406,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",406,5
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Staphylococcus aureus",406,20
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Emergency department","Streptococcus pneumoniae",33,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Haematology or oncology","Streptococcus pneumoniae",33,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Infectious disease ward","Streptococcus pneumoniae",33,3
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Intensive care unit","Streptococcus pneumoniae",33,55
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Internal medicine","Streptococcus pneumoniae",33,9
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Obstetrics or gynaecology","Streptococcus pneumoniae",33,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal","Streptococcus pneumoniae",33,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",33,0
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"Surgery","Streptococcus pneumoniae",33,33

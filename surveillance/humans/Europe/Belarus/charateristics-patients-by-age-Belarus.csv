@@ -1,0 +1,289 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Acinetobacter spp.",150,12
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Acinetobacter spp.",150,43
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Acinetobacter spp.",150,5
+2012,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Acinetobacter spp.",150,16
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Escherichia coli",36,8
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Escherichia coli",36,31
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Escherichia coli",36,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Escherichia coli",36,14
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecalis",53,6
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecalis",53,43
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecalis",53,6
+2012,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecalis",53,26
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecium",41,15
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecium",41,32
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecium",41,5
+2012,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecium",41,15
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Klebsiella pneumoniae",80,4
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Klebsiella pneumoniae",80,38
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Klebsiella pneumoniae",80,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Klebsiella pneumoniae",80,20
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Pseudomonas aeruginosa",20,10
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Pseudomonas aeruginosa",20,30
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Pseudomonas aeruginosa",20,5
+2012,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Pseudomonas aeruginosa",20,5
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Staphylococcus aureus",43,0
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Staphylococcus aureus",43,49
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Staphylococcus aureus",43,5
+2012,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Staphylococcus aureus",43,23
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Streptococcus pneumoniae",1,NA
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Streptococcus pneumoniae",1,NA
+2012,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Streptococcus pneumoniae",1,NA
+2012,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Streptococcus pneumoniae",1,NA
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Acinetobacter spp.",322,5
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Acinetobacter spp.",322,36
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Acinetobacter spp.",322,3
+2013,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Acinetobacter spp.",322,13
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Escherichia coli",62,15
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Escherichia coli",62,31
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Escherichia coli",62,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Escherichia coli",62,34
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecalis",119,4
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecalis",119,53
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecalis",119,1
+2013,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecalis",119,18
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecium",65,6
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecium",65,48
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecium",65,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecium",65,9
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Klebsiella pneumoniae",183,5
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Klebsiella pneumoniae",183,33
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Klebsiella pneumoniae",183,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Klebsiella pneumoniae",183,14
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Pseudomonas aeruginosa",90,11
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Pseudomonas aeruginosa",90,29
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Pseudomonas aeruginosa",90,0
+2013,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Pseudomonas aeruginosa",90,11
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Staphylococcus aureus",258,5
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Staphylococcus aureus",258,63
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Staphylococcus aureus",258,4
+2013,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Staphylococcus aureus",258,12
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Streptococcus pneumoniae",22,27
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Streptococcus pneumoniae",22,36
+2013,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Streptococcus pneumoniae",22,9
+2013,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Streptococcus pneumoniae",22,5
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Acinetobacter spp.",348,7
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Acinetobacter spp.",348,44
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Acinetobacter spp.",348,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Acinetobacter spp.",348,12
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Escherichia coli",61,7
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Escherichia coli",61,33
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Escherichia coli",61,0
+2014,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Escherichia coli",61,28
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecalis",160,5
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecalis",160,47
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecalis",160,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecalis",160,28
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecium",82,13
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecium",82,38
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecium",82,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecium",82,22
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Klebsiella pneumoniae",237,8
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Klebsiella pneumoniae",237,32
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Klebsiella pneumoniae",237,2
+2014,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Klebsiella pneumoniae",237,14
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Pseudomonas aeruginosa",79,5
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Pseudomonas aeruginosa",79,43
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Pseudomonas aeruginosa",79,4
+2014,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Pseudomonas aeruginosa",79,20
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Staphylococcus aureus",399,3
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Staphylococcus aureus",399,68
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Staphylococcus aureus",399,1
+2014,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Staphylococcus aureus",399,15
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Streptococcus pneumoniae",13,NA
+2014,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Streptococcus pneumoniae",13,NA
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Acinetobacter spp.",311,5
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Acinetobacter spp.",311,43
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Acinetobacter spp.",311,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Acinetobacter spp.",311,15
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Escherichia coli",95,3
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Escherichia coli",95,27
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Escherichia coli",95,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Escherichia coli",95,24
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecalis",97,10
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecalis",97,31
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecalis",97,3
+2015,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecalis",97,20
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecium",105,9
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecium",105,30
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecium",105,1
+2015,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecium",105,20
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Klebsiella pneumoniae",297,6
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Klebsiella pneumoniae",297,31
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Klebsiella pneumoniae",297,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Klebsiella pneumoniae",297,16
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Pseudomonas aeruginosa",89,4
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Pseudomonas aeruginosa",89,22
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Pseudomonas aeruginosa",89,3
+2015,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Pseudomonas aeruginosa",89,17
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Staphylococcus aureus",329,4
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Staphylococcus aureus",329,49
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Staphylococcus aureus",329,2
+2015,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Staphylococcus aureus",329,17
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Streptococcus pneumoniae",25,20
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Streptococcus pneumoniae",25,48
+2015,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Streptococcus pneumoniae",25,0
+2015,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Streptococcus pneumoniae",25,8
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Acinetobacter spp.",336,7
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Acinetobacter spp.",336,38
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Acinetobacter spp.",336,2
+2016,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Acinetobacter spp.",336,24
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Escherichia coli",113,6
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Escherichia coli",113,34
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Escherichia coli",113,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Escherichia coli",113,28
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecalis",120,8
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecalis",120,31
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecalis",120,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecalis",120,28
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecium",82,9
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecium",82,28
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecium",82,0
+2016,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecium",82,29
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Klebsiella pneumoniae",327,6
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Klebsiella pneumoniae",327,35
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Klebsiella pneumoniae",327,1
+2016,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Klebsiella pneumoniae",327,22
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Pseudomonas aeruginosa",84,8
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Pseudomonas aeruginosa",84,43
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Pseudomonas aeruginosa",84,5
+2016,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Pseudomonas aeruginosa",84,30
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Staphylococcus aureus",352,10
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Staphylococcus aureus",352,45
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Staphylococcus aureus",352,2
+2016,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Staphylococcus aureus",352,22
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Streptococcus pneumoniae",24,8
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Streptococcus pneumoniae",24,29
+2016,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Streptococcus pneumoniae",24,17
+2016,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Streptococcus pneumoniae",24,13
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Acinetobacter spp.",359,2
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Acinetobacter spp.",359,40
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Acinetobacter spp.",359,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Acinetobacter spp.",359,28
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Escherichia coli",154,8
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Escherichia coli",154,34
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Escherichia coli",154,2
+2017,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Escherichia coli",154,40
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecalis",145,10
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecalis",145,26
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecalis",145,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecalis",145,30
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecium",98,13
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecium",98,35
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecium",98,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecium",98,22
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Klebsiella pneumoniae",494,8
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Klebsiella pneumoniae",494,37
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Klebsiella pneumoniae",494,1
+2017,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Klebsiella pneumoniae",494,30
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Pseudomonas aeruginosa",97,7
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Pseudomonas aeruginosa",97,51
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Pseudomonas aeruginosa",97,0
+2017,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Pseudomonas aeruginosa",97,21
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Staphylococcus aureus",329,5
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Staphylococcus aureus",329,52
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Staphylococcus aureus",329,2
+2017,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Staphylococcus aureus",329,24
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Streptococcus pneumoniae",31,10
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Streptococcus pneumoniae",31,42
+2017,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Streptococcus pneumoniae",31,6
+2017,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Streptococcus pneumoniae",31,10
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Acinetobacter spp.",406,3
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Acinetobacter spp.",406,35
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Acinetobacter spp.",406,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Acinetobacter spp.",406,29
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Escherichia coli",145,3
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Escherichia coli",145,34
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Escherichia coli",145,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Escherichia coli",145,37
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecalis",116,10
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecalis",116,29
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecalis",116,2
+2018,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecalis",116,30
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecium",112,15
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecium",112,23
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecium",112,2
+2018,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecium",112,29
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Klebsiella pneumoniae",589,7
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Klebsiella pneumoniae",589,39
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Klebsiella pneumoniae",589,2
+2018,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Klebsiella pneumoniae",589,28
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Pseudomonas aeruginosa",74,3
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Pseudomonas aeruginosa",74,47
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Pseudomonas aeruginosa",74,5
+2018,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Pseudomonas aeruginosa",74,18
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Staphylococcus aureus",365,7
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Staphylococcus aureus",365,48
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Staphylococcus aureus",365,1
+2018,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Staphylococcus aureus",365,26
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Streptococcus pneumoniae",37,5
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Streptococcus pneumoniae",37,43
+2018,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Streptococcus pneumoniae",37,0
+2018,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Streptococcus pneumoniae",37,8
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Acinetobacter spp.",359,3
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Acinetobacter spp.",359,53
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Acinetobacter spp.",359,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Acinetobacter spp.",359,31
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Escherichia coli",146,7
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Escherichia coli",146,42
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Escherichia coli",146,2
+2019,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Escherichia coli",146,43
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecalis",112,13
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecalis",112,41
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecalis",112,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecalis",112,36
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecium",81,14
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecium",81,26
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecium",81,4
+2019,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecium",81,49
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Klebsiella pneumoniae",575,7
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Klebsiella pneumoniae",575,44
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Klebsiella pneumoniae",575,1
+2019,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Klebsiella pneumoniae",575,36
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Pseudomonas aeruginosa",55,5
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Pseudomonas aeruginosa",55,51
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Pseudomonas aeruginosa",55,4
+2019,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Pseudomonas aeruginosa",55,31
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Staphylococcus aureus",353,7
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Staphylococcus aureus",353,51
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Staphylococcus aureus",353,3
+2019,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Staphylococcus aureus",353,32
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Streptococcus pneumoniae",33,3
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Streptococcus pneumoniae",33,76
+2019,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Streptococcus pneumoniae",33,0
+2019,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Streptococcus pneumoniae",33,18
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Acinetobacter spp.",816,3
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Acinetobacter spp.",816,52
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Acinetobacter spp.",816,2
+2020,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Acinetobacter spp.",816,37
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Escherichia coli",229,5
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Escherichia coli",229,35
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Escherichia coli",229,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Escherichia coli",229,49
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecalis",192,4
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecalis",192,45
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecalis",192,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecalis",192,37
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Enterococcus faecium",166,8
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Enterococcus faecium",166,51
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Enterococcus faecium",166,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Enterococcus faecium",166,36
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Klebsiella pneumoniae",949,6
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Klebsiella pneumoniae",949,49
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Klebsiella pneumoniae",949,1
+2020,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Klebsiella pneumoniae",949,38
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Pseudomonas aeruginosa",112,10
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Pseudomonas aeruginosa",112,49
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Pseudomonas aeruginosa",112,9
+2020,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Pseudomonas aeruginosa",112,28
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Staphylococcus aureus",406,9
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Staphylococcus aureus",406,47
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Staphylococcus aureus",406,2
+2020,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Staphylococcus aureus",406,33
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"0_4","Streptococcus pneumoniae",33,9
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"20_64","Streptococcus pneumoniae",33,42
+2020,"Belarus","BLR",112,53.6072823,22.6977661,"5_19","Streptococcus pneumoniae",33,3
+2020,"Belarus","BLR",112,53.6072823,22.6977661,">= 65","Streptococcus pneumoniae",33,30
