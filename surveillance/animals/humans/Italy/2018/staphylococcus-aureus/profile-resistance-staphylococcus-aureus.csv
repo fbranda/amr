@@ -1,0 +1,6 @@
+"Bulletin","Class_of_antibiotics","Antibiotic","Isolated","Resistance","95_IC_low","95_IC_upper"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2018.pdf","Meticillina","Oxacillina/Cefoxitina",8323,"33.9","32.9","34.9"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2018.pdf","Macrolidi","Eritromicina",7279,"34.6","33.5","35.7"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2018.pdf","Lincosamidi","Clindamicina",7710,"26.9","25.9","27.9"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2018.pdf","Aminoglicosidi","Gentamicina",7127,"11.1","10.4","11.9"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2018.pdf","Fluorochinoloni","Levofloxacina",6559,"34.3","33.2","35.5"
