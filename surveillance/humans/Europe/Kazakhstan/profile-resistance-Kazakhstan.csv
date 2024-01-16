@@ -1,0 +1,299 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Microorganism","Antibiotic","Resistance"
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2012,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2013,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2014,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2015,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2016,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2017,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2018,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2019,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2020,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Aminoglycosides",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Carbapenems",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Acinetobacter spp.","Fluoroquinolones",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecalis","High-level gentamicin",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Enterococcus faecium","Vancomycin",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminoglycosides",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Aminopenicillins",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Carbapenems",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Fluoroquinolones",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Escherichia coli","Third-generation cephalosporins",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Aminoglycosides",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Carbapenems",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Carbapenems",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Ceftazidime",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Staphylococcus aureus","MRSA",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Macrolides",NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA

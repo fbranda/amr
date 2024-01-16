@@ -1,0 +1,57 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Haematology or oncology","Acinetobacter spp.",2,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Acinetobacter spp.",2,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Acinetobacter spp.",2,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Internal medicine","Acinetobacter spp.",2,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Surgery","Acinetobacter spp.",2,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Haematology or oncology","Escherichia coli",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Escherichia coli",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Escherichia coli",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Internal medicine","Escherichia coli",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Surgery","Escherichia coli",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Haematology or oncology","Enterococcus faecalis",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Enterococcus faecalis",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Enterococcus faecalis",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Internal medicine","Enterococcus faecalis",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Surgery","Enterococcus faecalis",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Haematology or oncology","Enterococcus faecium",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Enterococcus faecium",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Enterococcus faecium",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Internal medicine","Enterococcus faecium",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Surgery","Enterococcus faecium",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Haematology or oncology","Klebsiella pneumoniae",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Klebsiella pneumoniae",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Klebsiella pneumoniae",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Internal medicine","Klebsiella pneumoniae",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Surgery","Klebsiella pneumoniae",6,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Haematology or oncology","Pseudomonas aeruginosa",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Pseudomonas aeruginosa",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Pseudomonas aeruginosa",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Internal medicine","Pseudomonas aeruginosa",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Surgery","Pseudomonas aeruginosa",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Haematology or oncology","Staphylococcus aureus",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Staphylococcus aureus",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Staphylococcus aureus",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Internal medicine","Staphylococcus aureus",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Surgery","Staphylococcus aureus",0,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Haematology or oncology","Streptococcus pneumoniae",4,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Streptococcus pneumoniae",4,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Streptococcus pneumoniae",4,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Internal medicine","Streptococcus pneumoniae",4,NA
+2021,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Surgery","Streptococcus pneumoniae",4,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Acinetobacter spp.",4,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Acinetobacter spp.",4,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Escherichia coli",3,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Escherichia coli",3,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Enterococcus faecalis",0,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Enterococcus faecalis",0,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Enterococcus faecium",0,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Enterococcus faecium",0,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Klebsiella pneumoniae",0,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Klebsiella pneumoniae",0,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Pseudomonas aeruginosa",1,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Pseudomonas aeruginosa",1,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Staphylococcus aureus",5,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Staphylococcus aureus",5,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Infectious disease ward","Streptococcus pneumoniae",0,NA
+2022,"Kazakhstan","KAZ",398,46.065254,45.8664523,"Intensive care unit","Streptococcus pneumoniae",0,NA
