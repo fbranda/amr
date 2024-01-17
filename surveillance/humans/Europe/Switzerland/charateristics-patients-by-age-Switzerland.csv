@@ -1,0 +1,353 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",53,8
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",53,34
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",53,8
+2012,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",53,51
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",3640,2
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",3640,27
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",3640,1
+2012,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",3640,70
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",424,2
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",424,29
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",424,1
+2012,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",424,68
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",311,2
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",311,39
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",311,1
+2012,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",311,58
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",673,2
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",673,33
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",673,2
+2012,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",673,64
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",388,3
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",388,30
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",388,2
+2012,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",388,65
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",1359,4
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",1359,38
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",1359,4
+2012,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",1359,54
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",581,3
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",581,37
+2012,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",581,2
+2012,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",581,58
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",54,7
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",54,37
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",54,0
+2013,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",54,56
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",3994,2
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",3994,30
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",3994,1
+2013,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",3994,67
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",469,4
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",469,23
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",469,1
+2013,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",469,72
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",327,2
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",327,39
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",327,1
+2013,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",327,59
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",708,3
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",708,33
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",708,1
+2013,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",708,64
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",375,4
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",375,34
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",375,1
+2013,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",375,62
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",1433,3
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",1433,33
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",1433,4
+2013,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",1433,61
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",615,3
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",615,37
+2013,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",615,4
+2013,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",615,55
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",77,5
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",77,40
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",77,6
+2014,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",77,48
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",4550,2
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",4550,28
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",4550,1
+2014,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",4550,69
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",634,6
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",634,26
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",634,1
+2014,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",634,67
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",397,3
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",397,37
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",397,1
+2014,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",397,59
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",852,3
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",852,29
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",852,1
+2014,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",852,67
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",431,3
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",431,30
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",431,1
+2014,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",431,66
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",1657,3
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",1657,35
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",1657,3
+2014,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",1657,59
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",551,5
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",551,29
+2014,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",551,3
+2014,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",551,63
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",64,9
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",64,27
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",64,3
+2015,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",64,61
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",4914,4
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",4914,27
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",4914,1
+2015,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",4914,69
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",723,20
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",723,20
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",723,1
+2015,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",723,59
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",483,4
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",483,32
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",483,1
+2015,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",483,63
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",907,2
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",907,29
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",907,1
+2015,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",907,69
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",490,2
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",490,32
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",490,1
+2015,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",490,64
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",1729,2
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",1729,33
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",1729,3
+2015,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",1729,61
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",640,3
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",640,36
+2015,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",640,2
+2015,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",640,59
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",73,5
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",73,48
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",73,1
+2016,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",73,45
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",4729,1
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",4729,27
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",4729,1
+2016,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",4729,71
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",619,3
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",619,27
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",619,0
+2016,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",619,69
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",426,2
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",426,35
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",426,1
+2016,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",426,62
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",927,2
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",927,31
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",927,1
+2016,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",927,66
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",458,2
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",458,32
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",458,1
+2016,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",458,65
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",1630,3
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",1630,34
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",1630,3
+2016,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",1630,60
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",562,3
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",562,34
+2016,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",562,2
+2016,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",562,60
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",92,12
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",92,30
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",92,4
+2017,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",92,53
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",5400,2
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",5400,27
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",5400,1
+2017,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",5400,71
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",676,3
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",676,27
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",676,1
+2017,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",676,70
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",467,1
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",467,35
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",467,1
+2017,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",467,64
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",962,2
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",962,28
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",962,1
+2017,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",962,69
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",536,3
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",536,29
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",536,2
+2017,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",536,66
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",2027,3
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",2027,32
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",2027,3
+2017,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",2027,62
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",753,2
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",753,30
+2017,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",753,2
+2017,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",753,66
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",69,7
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",69,46
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",69,1
+2018,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",69,45
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",5884,1
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",5884,27
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",5884,1
+2018,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",5884,71
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",713,3
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",713,24
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",713,0
+2018,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",713,72
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",439,3
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",439,35
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",439,1
+2018,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",439,61
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",1035,2
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",1035,29
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",1035,1
+2018,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",1035,69
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",522,2
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",522,29
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",522,1
+2018,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",522,69
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",2001,2
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",2001,31
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",2001,3
+2018,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",2001,63
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",776,5
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",776,33
+2018,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",776,3
+2018,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",776,59
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",65,12
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",65,23
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",65,8
+2019,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",65,57
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",5774,2
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",5774,25
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",5774,1
+2019,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",5774,72
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",737,3
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",737,19
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",737,1
+2019,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",737,77
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",401,0
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",401,30
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",401,1
+2019,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",401,69
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",1184,1
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",1184,26
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",1184,1
+2019,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",1184,72
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",545,2
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",545,28
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",545,1
+2019,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",545,69
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",2159,2
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",2159,30
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",2159,3
+2019,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",2159,65
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",715,3
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",715,34
+2019,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",715,2
+2019,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",715,62
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",92,9
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",92,37
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",92,3
+2020,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",92,51
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",5762,1
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",5762,25
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",5762,1
+2020,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",5762,73
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",809,4
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",809,22
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",809,0
+2020,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",809,73
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",477,1
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",477,31
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",477,0
+2020,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",477,68
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",1236,1
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",1236,24
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",1236,0
+2020,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",1236,74
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",609,0
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",609,25
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",609,1
+2020,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",609,74
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",2231,2
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",2231,31
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",2231,3
+2020,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",2231,64
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",474,3
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",474,36
+2020,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",474,3
+2020,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",474,58
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",100,8
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",100,34
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",100,1
+2021,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",100,57
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",5889,4
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",5889,24
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",5889,1
+2021,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",5889,71
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",1082,18
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",1082,21
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",1082,0
+2021,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",1082,60
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",575,9
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",575,34
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",575,0
+2021,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",575,56
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",1372,3
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",1372,26
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",1372,1
+2021,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",1372,70
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",619,0
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",619,28
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",619,1
+2021,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",619,70
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",2422,3
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",2422,33
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",2422,2
+2021,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",2422,63
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",449,7
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",449,36
+2021,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",449,4
+2021,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",449,53
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Acinetobacter spp.",111,4
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Acinetobacter spp.",111,39
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Acinetobacter spp.",111,5
+2022,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Acinetobacter spp.",111,53
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Escherichia coli",6274,3
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Escherichia coli",6274,24
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Escherichia coli",6274,1
+2022,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Escherichia coli",6274,72
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecalis",1040,16
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecalis",1040,18
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecalis",1040,0
+2022,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecalis",1040,65
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Enterococcus faecium",610,8
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Enterococcus faecium",610,31
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Enterococcus faecium",610,0
+2022,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Enterococcus faecium",610,61
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Klebsiella pneumoniae",1498,1
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Klebsiella pneumoniae",1498,29
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Klebsiella pneumoniae",1498,0
+2022,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Klebsiella pneumoniae",1498,69
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Pseudomonas aeruginosa",711,2
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Pseudomonas aeruginosa",711,25
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Pseudomonas aeruginosa",711,1
+2022,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Pseudomonas aeruginosa",711,72
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Staphylococcus aureus",2531,3
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Staphylococcus aureus",2531,31
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Staphylococcus aureus",2531,4
+2022,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Staphylococcus aureus",2531,62
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"0_4","Streptococcus pneumoniae",795,6
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"20_64","Streptococcus pneumoniae",795,29
+2022,"Switzerland","CHE",756,46.8074891,6.904963,"5_19","Streptococcus pneumoniae",795,3
+2022,"Switzerland","CHE",756,46.8074891,6.904963,">= 65","Streptococcus pneumoniae",795,62
