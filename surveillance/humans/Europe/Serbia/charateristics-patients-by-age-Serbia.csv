@@ -1,0 +1,321 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",392,14
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",392,57
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",392,4
+2013,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",392,26
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",199,12
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",199,47
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",199,11
+2013,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",199,31
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",82,12
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",82,52
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",82,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",82,33
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",72,17
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",72,46
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",72,6
+2013,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",72,32
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",307,17
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",307,47
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",307,8
+2013,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",307,27
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",109,9
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",109,53
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",109,4
+2013,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",109,34
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",278,17
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",278,49
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",278,9
+2013,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",278,25
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",42,10
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",42,69
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",42,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",42,19
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",343,6
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",343,41
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",343,3
+2014,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",343,29
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",245,10
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",245,37
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",245,6
+2014,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",245,35
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",98,9
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",98,39
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",98,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",98,37
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",61,7
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",61,46
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",61,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",61,31
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",325,9
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",325,44
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",325,4
+2014,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",325,31
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",95,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",95,37
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",95,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",95,27
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",350,3
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",350,41
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",350,4
+2014,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",350,35
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",33,0
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",33,61
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",33,6
+2014,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",33,30
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",457,5
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",457,44
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",457,3
+2015,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",457,37
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",272,7
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",272,39
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",272,8
+2015,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",272,39
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",138,4
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",138,42
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",138,9
+2015,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",138,41
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",86,10
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",86,50
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",86,3
+2015,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",86,33
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",365,11
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",365,43
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",365,5
+2015,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",365,34
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",148,3
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",148,49
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",148,5
+2015,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",148,32
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",366,3
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",366,43
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",366,7
+2015,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",366,38
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",45,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",45,49
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",45,20
+2015,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",45,29
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",417,4
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",417,45
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",417,2
+2016,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",417,39
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",328,8
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",328,35
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",328,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",328,45
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",181,2
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",181,39
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",181,2
+2016,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",181,49
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",110,7
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",110,44
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",110,7
+2016,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",110,35
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",444,12
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",444,38
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",444,6
+2016,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",444,36
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",149,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",149,46
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",149,7
+2016,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",149,39
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",469,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",469,38
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",469,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",469,46
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",65,2
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",65,51
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",65,14
+2016,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",65,32
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",429,5
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",429,56
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",429,3
+2017,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",429,37
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",399,8
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",399,46
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",399,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",399,43
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",208,3
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",208,42
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",208,3
+2017,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",208,52
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",112,18
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",112,39
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",112,6
+2017,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",112,37
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",416,14
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",416,43
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",416,5
+2017,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",416,38
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",134,1
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",134,60
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",134,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",134,34
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",542,3
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",542,51
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",542,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",542,42
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",86,5
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",86,63
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",86,3
+2017,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",86,29
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",516,6
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",516,46
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",516,2
+2018,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",516,46
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",438,9
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",438,34
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",438,2
+2018,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",438,55
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",261,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",261,31
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",261,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",261,63
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",154,15
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",154,31
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",154,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",154,53
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",511,15
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",511,41
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",511,2
+2018,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",511,42
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",177,6
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",177,51
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",177,2
+2018,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",177,40
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",616,6
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",616,44
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",616,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",616,49
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",79,15
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",79,46
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",79,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",79,38
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",532,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",532,42
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",532,1
+2019,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",532,48
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",510,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",510,33
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",510,1
+2019,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",510,58
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",272,7
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",272,31
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",272,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",272,61
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",159,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",159,32
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",159,1
+2019,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",159,60
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",513,12
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",513,33
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",513,3
+2019,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",513,52
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",196,7
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",196,40
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",196,2
+2019,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",196,51
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",628,4
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",628,46
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",628,3
+2019,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",628,47
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",85,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",85,42
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",85,4
+2019,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",85,46
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",702,3
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",702,45
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",702,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",702,50
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",285,10
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",285,32
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",285,3
+2020,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",285,55
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",312,3
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",312,40
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",312,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",312,56
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",276,4
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",276,38
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",276,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",276,57
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",387,15
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",387,37
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",387,2
+2020,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",387,46
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",129,2
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",129,43
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",129,5
+2020,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",129,50
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",391,3
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",391,46
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",391,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",391,51
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",27,15
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",27,52
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",27,7
+2020,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",27,26
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",1148,2
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",1148,47
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",1148,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",1148,51
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",310,11
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",310,35
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",310,2
+2021,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",310,53
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",455,3
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",455,43
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",455,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",455,54
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",391,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",391,41
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",391,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",391,54
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",780,7
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",780,44
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",780,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",780,48
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",187,4
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",187,41
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",187,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",187,55
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",447,7
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",447,41
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",447,2
+2021,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",447,50
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",22,14
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",22,41
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",22,9
+2021,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",22,36
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Acinetobacter spp.",592,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Acinetobacter spp.",592,33
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Acinetobacter spp.",592,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Acinetobacter spp.",592,64
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Escherichia coli",423,9
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Escherichia coli",423,28
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Escherichia coli",423,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Escherichia coli",423,62
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecalis",362,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecalis",362,34
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecalis",362,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecalis",362,65
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Enterococcus faecium",276,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Enterococcus faecium",276,31
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Enterococcus faecium",276,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Enterococcus faecium",276,66
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Klebsiella pneumoniae",969,7
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Klebsiella pneumoniae",969,32
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Klebsiella pneumoniae",969,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Klebsiella pneumoniae",969,61
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Pseudomonas aeruginosa",177,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Pseudomonas aeruginosa",177,49
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Pseudomonas aeruginosa",177,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Pseudomonas aeruginosa",177,48
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Staphylococcus aureus",573,5
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Staphylococcus aureus",573,39
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Staphylococcus aureus",573,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Staphylococcus aureus",573,55
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"0_4","Streptococcus pneumoniae",48,8
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"20_64","Streptococcus pneumoniae",48,42
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"5_19","Streptococcus pneumoniae",48,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,">= 65","Streptococcus pneumoniae",48,48

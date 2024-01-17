@@ -1,0 +1,849 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",392,5
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",392,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",392,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",392,38
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",392,12
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",392,0
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",392,6
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",392,3
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",392,30
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",392,0
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",199,3
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",199,11
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",199,11
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",199,9
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",199,27
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",199,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",199,16
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",199,8
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",199,8
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",199,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",82,7
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",82,4
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",82,5
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",82,24
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",82,23
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",82,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",82,13
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",82,5
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",82,10
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",82,4
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",72,4
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",72,6
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",72,3
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",72,21
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",72,10
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",72,3
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",72,3
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",72,7
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",72,43
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",72,0
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",307,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",307,3
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",307,3
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",307,31
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",307,14
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",307,1
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",307,15
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",307,7
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",307,19
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",307,1
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",109,4
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",109,8
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",109,3
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",109,27
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",109,31
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",109,0
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",109,6
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",109,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",109,17
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",109,0
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",278,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",278,5
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",278,3
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",278,15
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",278,30
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",278,0
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",278,18
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",278,6
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",278,12
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",278,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",42,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",42,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",42,14
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",42,50
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",42,14
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",42,0
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",42,7
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",42,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",42,2
+2013,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",42,0
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",343,24
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",343,6
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",343,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",343,26
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",343,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",343,0
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",343,12
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",343,2
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",343,17
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",343,1
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",245,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",245,16
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",245,19
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",245,6
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",245,16
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",245,4
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",245,11
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",245,11
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",245,7
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",245,6
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",98,7
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",98,1
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",98,13
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",98,18
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",98,28
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",98,4
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",98,9
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",98,8
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",98,7
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",98,3
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",61,11
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",61,15
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",61,13
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",61,23
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",61,10
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",61,0
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",61,13
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",61,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",61,8
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",61,2
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",325,14
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",325,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",325,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",325,22
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",325,9
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",325,2
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",325,15
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",325,9
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",325,11
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",325,7
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",95,14
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",95,13
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",95,12
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",95,24
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",95,6
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",95,0
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",95,12
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",95,4
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",95,8
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",95,3
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",350,9
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",350,8
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",350,17
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",350,10
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",350,23
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",350,1
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",350,14
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",350,5
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",350,9
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",350,3
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",33,0
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",33,3
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",33,58
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",33,9
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",33,9
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",33,0
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",33,6
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",33,3
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",33,6
+2014,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",33,3
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",457,15
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",457,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",457,9
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",457,29
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",457,10
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",457,0
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",457,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",457,3
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",457,29
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",457,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",272,6
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",272,11
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",272,21
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",272,12
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",272,25
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",272,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",272,5
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",272,8
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",272,6
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",272,4
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",138,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",138,4
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",138,7
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",138,22
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",138,34
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",138,1
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",138,4
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",138,4
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",138,22
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",138,1
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",86,6
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",86,8
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",86,5
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",86,23
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",86,27
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",86,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",86,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",86,7
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",86,19
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",86,1
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",365,13
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",365,7
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",365,5
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",365,19
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",365,13
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",365,3
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",365,5
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",365,8
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",365,24
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",365,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",148,12
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",148,16
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",148,7
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",148,32
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",148,8
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",148,0
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",148,1
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",148,1
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",148,22
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",148,1
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",366,5
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",366,9
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",366,12
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",366,14
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",366,37
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",366,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",366,5
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",366,3
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",366,11
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",366,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",45,4
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",45,7
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",45,40
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",45,11
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",45,18
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",45,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",45,7
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",45,9
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",45,2
+2015,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",45,0
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",417,5
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",417,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",417,6
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",417,50
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",417,14
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",417,0
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",417,4
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",417,1
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",417,16
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",417,0
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",328,5
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",328,8
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",328,17
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",328,12
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",328,29
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",328,1
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",328,9
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",328,7
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",328,10
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",328,2
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",181,1
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",181,4
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",181,7
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",181,28
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",181,32
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",181,1
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",181,7
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",181,2
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",181,15
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",181,2
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",110,5
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",110,12
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",110,5
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",110,38
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",110,10
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",110,0
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",110,4
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",110,5
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",110,17
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",110,4
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",444,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",444,9
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",444,5
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",444,32
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",444,12
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",444,2
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",444,7
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",444,10
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",444,16
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",444,4
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",149,1
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",149,5
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",149,7
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",149,41
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",149,17
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",149,1
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",149,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",149,5
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",149,17
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",149,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",469,1
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",469,7
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",469,14
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",469,15
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",469,34
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",469,1
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",469,10
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",469,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",469,14
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",469,0
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",65,0
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",65,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",65,40
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",65,25
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",65,20
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",65,0
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",65,2
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",65,8
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",65,3
+2016,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",65,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",429,9
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",429,3
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",429,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",429,39
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",429,11
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",429,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",429,7
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",429,3
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",429,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",429,23
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",429,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",399,6
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",399,13
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",399,19
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",399,10
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",399,27
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",399,2
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",399,5
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",399,7
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Escherichia coli",399,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",399,8
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",399,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",208,7
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",208,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",208,5
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",208,19
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",208,30
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",208,1
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",208,9
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",208,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",208,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",208,15
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",208,7
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",112,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",112,10
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",112,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",112,22
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",112,22
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",112,2
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",112,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",112,15
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",112,1
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",112,12
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",112,4
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",416,7
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",416,7
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",416,6
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",416,24
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",416,16
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",416,1
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",416,6
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",416,13
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",416,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",416,15
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",416,5
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",134,9
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",134,10
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",134,8
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",134,21
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",134,21
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",134,1
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",134,10
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",134,2
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",134,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",134,15
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",134,3
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",542,5
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",542,7
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",542,11
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",542,13
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",542,38
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",542,1
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",542,8
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",542,5
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",542,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",542,11
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",542,1
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",86,1
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",86,2
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",86,55
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",86,17
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",86,9
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",86,2
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",86,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",86,7
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",86,0
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",86,6
+2017,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",86,0
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",516,28
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",516,3
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",516,4
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",516,32
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",516,13
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",516,0
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",516,2
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",516,4
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",516,0
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",516,12
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",516,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",438,3
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",438,12
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",438,22
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",438,9
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",438,29
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",438,2
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",438,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",438,8
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Escherichia coli",438,0
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",438,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",438,6
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",261,7
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",261,3
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",261,8
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",261,17
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",261,36
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",261,2
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",261,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",261,4
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",261,0
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",261,12
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",261,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",154,8
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",154,12
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",154,6
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",154,16
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",154,23
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",154,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",154,4
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",154,9
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",154,3
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",154,18
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",154,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",511,8
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",511,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",511,6
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",511,23
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",511,19
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",511,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",511,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",511,13
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",511,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",511,11
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",511,6
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",177,15
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",177,7
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",177,7
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",177,25
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",177,20
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",177,0
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",177,2
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",177,3
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",177,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",177,17
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",177,3
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",616,7
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",616,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",616,11
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",616,12
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",616,41
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",616,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",616,6
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",616,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",616,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",616,9
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",616,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",79,8
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",79,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",79,44
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",79,10
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",79,14
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",79,1
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",79,3
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",79,10
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",79,0
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",79,5
+2018,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",79,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",532,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",532,5
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",532,5
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",532,39
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",532,11
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",532,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",532,4
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",532,5
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",532,2
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",532,19
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",532,2
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",510,4
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",510,9
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",510,23
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",510,11
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",510,23
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",510,2
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",510,7
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",510,6
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Escherichia coli",510,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",510,6
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",510,7
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",272,3
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",272,5
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",272,4
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",272,23
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",272,34
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",272,1
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",272,3
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",272,4
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",272,1
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",272,14
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",272,7
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",159,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",159,13
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",159,4
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",159,22
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",159,23
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",159,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",159,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",159,3
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",159,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",159,16
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",159,3
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",513,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",513,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",513,7
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",513,17
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",513,19
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",513,1
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",513,3
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",513,12
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",513,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",513,18
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",513,6
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",196,12
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",196,9
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",196,9
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",196,27
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",196,17
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",196,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",196,5
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",196,5
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",196,2
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",196,10
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",196,5
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",628,4
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",628,7
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",628,13
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",628,13
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",628,36
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",628,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",628,9
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",628,4
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",628,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",628,12
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",628,1
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",85,1
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",85,9
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",85,42
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",85,9
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",85,21
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",85,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",85,2
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",85,8
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",85,0
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",85,6
+2019,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",85,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",702,6
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",702,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",702,5
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",702,47
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",702,7
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",702,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",702,22
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",702,3
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",702,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",702,8
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",702,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",285,5
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",285,10
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",285,16
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",285,10
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",285,23
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",285,3
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",285,9
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",285,11
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Escherichia coli",285,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",285,7
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",285,6
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",312,5
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",312,3
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",312,5
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",312,37
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",312,18
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",312,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",312,17
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",312,3
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",312,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",312,9
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",312,2
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",276,3
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",276,6
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",276,4
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",276,35
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",276,13
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",276,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",276,21
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",276,4
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",276,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",276,12
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",276,2
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",387,7
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",387,7
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",387,5
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",387,27
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",387,12
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",387,2
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",387,15
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",387,12
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",387,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",387,8
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",387,5
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",129,9
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",129,12
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",129,6
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",129,25
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",129,16
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",129,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",129,19
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",129,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",129,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",129,12
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",129,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",391,10
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",391,4
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",391,6
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",391,13
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",391,33
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",391,1
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",391,21
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",391,2
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",391,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",391,8
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",391,2
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",27,7
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",27,4
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",27,19
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",27,26
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",27,19
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",27,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",27,11
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",27,15
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",27,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",27,0
+2020,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",27,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",1148,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",1148,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",1148,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",1148,76
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",1148,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",1148,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",1148,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",1148,2
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",1148,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",1148,3
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",1148,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",310,8
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",310,14
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",310,8
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",310,11
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",310,34
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",310,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",310,4
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",310,10
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Escherichia coli",310,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",310,6
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",310,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",455,2
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",455,3
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",455,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",455,55
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",455,20
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",455,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",455,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",455,3
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",455,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",455,6
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",455,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",391,4
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",391,4
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",391,4
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",391,65
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",391,9
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",391,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",391,3
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",391,4
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",391,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",391,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",391,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",780,7
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",780,4
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",780,13
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",780,45
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",780,12
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",780,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",780,3
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",780,7
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",780,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",780,6
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",780,3
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",187,7
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",187,8
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",187,10
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",187,44
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",187,12
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",187,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",187,4
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",187,3
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",187,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",187,9
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",187,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",447,11
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",447,6
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",447,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",447,23
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",447,31
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",447,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",447,8
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",447,8
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",447,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",447,7
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",447,1
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",22,5
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",22,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",22,27
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",22,18
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",22,27
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",22,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",22,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",22,23
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",22,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",22,0
+2021,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",22,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Acinetobacter spp.",592,15
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Acinetobacter spp.",592,3
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Acinetobacter spp.",592,6
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Acinetobacter spp.",592,54
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Acinetobacter spp.",592,8
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Acinetobacter spp.",592,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Acinetobacter spp.",592,3
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Acinetobacter spp.",592,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",592,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Acinetobacter spp.",592,8
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Acinetobacter spp.",592,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Escherichia coli",423,8
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Escherichia coli",423,11
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Escherichia coli",423,9
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Escherichia coli",423,15
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Escherichia coli",423,31
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Escherichia coli",423,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Escherichia coli",423,5
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Escherichia coli",423,8
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Escherichia coli",423,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Escherichia coli",423,5
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Escherichia coli",423,8
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecalis",362,7
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecalis",362,4
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecalis",362,4
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecalis",362,36
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecalis",362,28
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecalis",362,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecalis",362,9
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecalis",362,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",362,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecalis",362,6
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecalis",362,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Enterococcus faecium",276,11
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Enterococcus faecium",276,8
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Enterococcus faecium",276,5
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Enterococcus faecium",276,43
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Enterococcus faecium",276,18
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Enterococcus faecium",276,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Enterococcus faecium",276,7
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Enterococcus faecium",276,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",276,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Enterococcus faecium",276,5
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Enterococcus faecium",276,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Klebsiella pneumoniae",969,14
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Klebsiella pneumoniae",969,6
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Klebsiella pneumoniae",969,9
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Klebsiella pneumoniae",969,34
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Klebsiella pneumoniae",969,14
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Klebsiella pneumoniae",969,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Klebsiella pneumoniae",969,3
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Klebsiella pneumoniae",969,6
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",969,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Klebsiella pneumoniae",969,6
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Klebsiella pneumoniae",969,6
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Pseudomonas aeruginosa",177,10
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Pseudomonas aeruginosa",177,9
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Pseudomonas aeruginosa",177,12
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Pseudomonas aeruginosa",177,34
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Pseudomonas aeruginosa",177,18
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Pseudomonas aeruginosa",177,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Pseudomonas aeruginosa",177,5
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Pseudomonas aeruginosa",177,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",177,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Pseudomonas aeruginosa",177,6
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Pseudomonas aeruginosa",177,4
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Staphylococcus aureus",573,8
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Staphylococcus aureus",573,5
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Staphylococcus aureus",573,10
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Staphylococcus aureus",573,18
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Staphylococcus aureus",573,32
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Staphylococcus aureus",573,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Staphylococcus aureus",573,11
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Staphylococcus aureus",573,4
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",573,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Staphylococcus aureus",573,11
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Staphylococcus aureus",573,1
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Emergency department","Streptococcus pneumoniae",48,4
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Haematology or oncology","Streptococcus pneumoniae",48,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Infectious disease ward","Streptococcus pneumoniae",48,27
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Intensive care unit","Streptococcus pneumoniae",48,29
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Internal medicine","Streptococcus pneumoniae",48,13
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Obstetrics or gynaecology","Streptococcus pneumoniae",48,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Other","Streptococcus pneumoniae",48,13
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal","Streptococcus pneumoniae",48,10
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",48,0
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Surgery","Streptococcus pneumoniae",48,2
+2022,"Serbia","SRB",688,44.1050751,15.8991652,"Urology","Streptococcus pneumoniae",48,0
