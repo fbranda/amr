@@ -1,0 +1,217 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Acinetobacter spp.",13,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Acinetobacter spp.",13,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Acinetobacter spp.",13,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Acinetobacter spp.",13,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Escherichia coli",19,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Escherichia coli",19,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Escherichia coli",19,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Escherichia coli",19,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecalis",7,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecalis",7,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecalis",7,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecalis",7,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecium",16,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecium",16,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecium",16,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecium",16,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Klebsiella pneumoniae",28,57
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Klebsiella pneumoniae",28,25
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Klebsiella pneumoniae",28,0
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Klebsiella pneumoniae",28,18
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Pseudomonas aeruginosa",5,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Pseudomonas aeruginosa",5,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Pseudomonas aeruginosa",5,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Pseudomonas aeruginosa",5,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Staphylococcus aureus",47,30
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Staphylococcus aureus",47,36
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Staphylococcus aureus",47,4
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Staphylococcus aureus",47,30
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Streptococcus pneumoniae",7,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Streptococcus pneumoniae",7,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Streptococcus pneumoniae",7,NA
+2016,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Streptococcus pneumoniae",7,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Acinetobacter spp.",10,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Acinetobacter spp.",10,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Acinetobacter spp.",10,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Acinetobacter spp.",10,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Escherichia coli",21,57
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Escherichia coli",21,24
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Escherichia coli",21,0
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Escherichia coli",21,19
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecalis",12,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecalis",12,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecalis",12,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecalis",12,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecium",6,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecium",6,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecium",6,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecium",6,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Klebsiella pneumoniae",29,41
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Klebsiella pneumoniae",29,28
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Klebsiella pneumoniae",29,0
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Klebsiella pneumoniae",29,31
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Pseudomonas aeruginosa",14,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Pseudomonas aeruginosa",14,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Pseudomonas aeruginosa",14,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Pseudomonas aeruginosa",14,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Staphylococcus aureus",36,22
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Staphylococcus aureus",36,42
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Staphylococcus aureus",36,6
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Staphylococcus aureus",36,31
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Streptococcus pneumoniae",4,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Streptococcus pneumoniae",4,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Streptococcus pneumoniae",4,NA
+2017,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Streptococcus pneumoniae",4,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Acinetobacter spp.",14,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Acinetobacter spp.",14,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Acinetobacter spp.",14,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Acinetobacter spp.",14,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Escherichia coli",29,38
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Escherichia coli",29,28
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Escherichia coli",29,3
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Escherichia coli",29,31
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecalis",5,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecalis",5,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecalis",5,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecalis",5,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecium",6,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecium",6,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecium",6,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecium",6,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Klebsiella pneumoniae",22,32
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Klebsiella pneumoniae",22,45
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Klebsiella pneumoniae",22,0
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Klebsiella pneumoniae",22,23
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Pseudomonas aeruginosa",11,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Pseudomonas aeruginosa",11,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Pseudomonas aeruginosa",11,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Pseudomonas aeruginosa",11,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Staphylococcus aureus",41,20
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Staphylococcus aureus",41,46
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Staphylococcus aureus",41,7
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Staphylococcus aureus",41,27
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Streptococcus pneumoniae",7,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Streptococcus pneumoniae",7,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Streptococcus pneumoniae",7,NA
+2018,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Streptococcus pneumoniae",7,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Acinetobacter spp.",32,0
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Acinetobacter spp.",32,50
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Acinetobacter spp.",32,6
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Acinetobacter spp.",32,44
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Escherichia coli",24,50
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Escherichia coli",24,21
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Escherichia coli",24,0
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Escherichia coli",24,29
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecalis",9,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecalis",9,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecalis",9,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecalis",9,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecium",8,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecium",8,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecium",8,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecium",8,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Klebsiella pneumoniae",23,39
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Klebsiella pneumoniae",23,35
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Klebsiella pneumoniae",23,0
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Klebsiella pneumoniae",23,26
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Pseudomonas aeruginosa",16,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Pseudomonas aeruginosa",16,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Pseudomonas aeruginosa",16,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Pseudomonas aeruginosa",16,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Staphylococcus aureus",43,14
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Staphylococcus aureus",43,49
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Staphylococcus aureus",43,5
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Staphylococcus aureus",43,33
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Streptococcus pneumoniae",4,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Streptococcus pneumoniae",4,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Streptococcus pneumoniae",4,NA
+2019,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Streptococcus pneumoniae",4,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Acinetobacter spp.",37,3
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Acinetobacter spp.",37,49
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Acinetobacter spp.",37,49
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Escherichia coli",20,20
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Escherichia coli",20,35
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Escherichia coli",20,45
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecalis",15,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecalis",15,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecalis",15,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecium",5,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecium",5,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecium",5,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Klebsiella pneumoniae",29,31
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Klebsiella pneumoniae",29,45
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Klebsiella pneumoniae",29,24
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Pseudomonas aeruginosa",11,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Pseudomonas aeruginosa",11,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Pseudomonas aeruginosa",11,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Staphylococcus aureus",31,19
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Staphylococcus aureus",31,42
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Staphylococcus aureus",31,39
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Streptococcus pneumoniae",3,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Streptococcus pneumoniae",3,NA
+2020,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Streptococcus pneumoniae",3,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Acinetobacter spp.",57,2
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Acinetobacter spp.",57,53
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Acinetobacter spp.",57,4
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Acinetobacter spp.",57,42
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Escherichia coli",7,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Escherichia coli",7,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Escherichia coli",7,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Escherichia coli",7,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecalis",29,14
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecalis",29,48
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecalis",29,0
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecalis",29,38
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecium",13,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecium",13,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecium",13,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecium",13,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Klebsiella pneumoniae",32,16
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Klebsiella pneumoniae",32,59
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Klebsiella pneumoniae",32,0
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Klebsiella pneumoniae",32,22
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Pseudomonas aeruginosa",16,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Pseudomonas aeruginosa",16,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Pseudomonas aeruginosa",16,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Pseudomonas aeruginosa",16,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Staphylococcus aureus",33,27
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Staphylococcus aureus",33,39
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Staphylococcus aureus",33,6
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Staphylococcus aureus",33,27
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Streptococcus pneumoniae",4,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Streptococcus pneumoniae",4,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Streptococcus pneumoniae",4,NA
+2021,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Streptococcus pneumoniae",4,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Acinetobacter spp.",39,0
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Acinetobacter spp.",39,51
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Acinetobacter spp.",39,5
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Acinetobacter spp.",39,44
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Escherichia coli",24,17
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Escherichia coli",24,29
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Escherichia coli",24,0
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Escherichia coli",24,54
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecalis",44,9
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecalis",44,30
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecalis",44,2
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecalis",44,59
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Enterococcus faecium",12,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Enterococcus faecium",12,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Enterococcus faecium",12,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Enterococcus faecium",12,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Klebsiella pneumoniae",38,37
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Klebsiella pneumoniae",38,21
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Klebsiella pneumoniae",38,3
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Klebsiella pneumoniae",38,39
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Pseudomonas aeruginosa",17,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Pseudomonas aeruginosa",17,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Pseudomonas aeruginosa",17,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Pseudomonas aeruginosa",17,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Staphylococcus aureus",49,10
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Staphylococcus aureus",49,51
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Staphylococcus aureus",49,6
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Staphylococcus aureus",49,33
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"0_4","Streptococcus pneumoniae",2,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"20_64","Streptococcus pneumoniae",2,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,"5_19","Streptococcus pneumoniae",2,NA
+2022,"Montenegro","MNE",499,42.6884145,18.0740227,">= 65","Streptococcus pneumoniae",2,NA
