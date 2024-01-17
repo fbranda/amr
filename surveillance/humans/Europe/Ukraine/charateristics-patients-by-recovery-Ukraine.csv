@@ -1,0 +1,473 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Acinetobacter spp.",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Acinetobacter spp.",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Escherichia coli",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Escherichia coli",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecalis",3,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Enterococcus faecalis",3,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecium",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Enterococcus faecium",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Klebsiella pneumoniae",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Klebsiella pneumoniae",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Pseudomonas aeruginosa",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Pseudomonas aeruginosa",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Staphylococcus aureus",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Staphylococcus aureus",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Streptococcus pneumoniae",0,NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Streptococcus pneumoniae",0,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Acinetobacter spp.",32,13
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Acinetobacter spp.",32,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Acinetobacter spp.",32,3
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Acinetobacter spp.",32,19
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Acinetobacter spp.",32,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Acinetobacter spp.",32,28
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Acinetobacter spp.",32,9
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",32,13
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Acinetobacter spp.",32,13
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Acinetobacter spp.",32,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Enterococcus faecalis",31,13
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecalis",31,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecalis",31,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecalis",31,16
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecalis",31,6
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Enterococcus faecalis",31,26
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecalis",31,13
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",31,6
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecalis",31,16
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecalis",31,3
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Klebsiella pneumoniae",30,17
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Klebsiella pneumoniae",30,10
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Klebsiella pneumoniae",30,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Klebsiella pneumoniae",30,13
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Klebsiella pneumoniae",30,7
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Klebsiella pneumoniae",30,3
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Klebsiella pneumoniae",30,7
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",30,33
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Klebsiella pneumoniae",30,3
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Klebsiella pneumoniae",30,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Staphylococcus aureus",22,27
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Staphylococcus aureus",22,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Staphylococcus aureus",22,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Staphylococcus aureus",22,5
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Staphylococcus aureus",22,14
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Staphylococcus aureus",22,18
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Staphylococcus aureus",22,9
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",22,14
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Staphylococcus aureus",22,5
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Staphylococcus aureus",22,9
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Streptococcus pneumoniae",6,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Acinetobacter spp.",29,17
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Acinetobacter spp.",29,0
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Acinetobacter spp.",29,0
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Acinetobacter spp.",29,10
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Acinetobacter spp.",29,7
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Acinetobacter spp.",29,17
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",29,38
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Acinetobacter spp.",29,10
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Enterococcus faecalis",29,10
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecalis",29,0
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecalis",29,10
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecalis",29,14
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecalis",29,7
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecalis",29,17
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",29,7
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecalis",29,34
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Klebsiella pneumoniae",38,8
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Klebsiella pneumoniae",38,8
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Klebsiella pneumoniae",38,0
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Klebsiella pneumoniae",38,24
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Klebsiella pneumoniae",38,3
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Klebsiella pneumoniae",38,13
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",38,26
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Klebsiella pneumoniae",38,18
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Staphylococcus aureus",22,5
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Staphylococcus aureus",22,0
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Staphylococcus aureus",22,5
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Staphylococcus aureus",22,36
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Staphylococcus aureus",22,9
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Staphylococcus aureus",22,18
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",22,5
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Staphylococcus aureus",22,23
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Streptococcus pneumoniae",1,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Acinetobacter spp.",44,0
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Acinetobacter spp.",44,2
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Acinetobacter spp.",44,48
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Acinetobacter spp.",44,2
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Acinetobacter spp.",44,9
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",44,16
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Acinetobacter spp.",44,20
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Acinetobacter spp.",44,0
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Escherichia coli",40,5
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Escherichia coli",40,5
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Escherichia coli",40,25
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Escherichia coli",40,0
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Escherichia coli",40,13
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Escherichia coli",40,5
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Escherichia coli",40,33
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Escherichia coli",40,15
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecalis",46,2
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecalis",46,9
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecalis",46,24
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecalis",46,9
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecalis",46,4
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",46,9
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecalis",46,35
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecalis",46,7
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Klebsiella pneumoniae",75,3
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Klebsiella pneumoniae",75,0
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Klebsiella pneumoniae",75,35
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Klebsiella pneumoniae",75,1
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Klebsiella pneumoniae",75,16
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",75,23
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Klebsiella pneumoniae",75,20
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Klebsiella pneumoniae",75,1
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Staphylococcus aureus",69,1
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Staphylococcus aureus",69,9
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Staphylococcus aureus",69,35
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Staphylococcus aureus",69,9
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Staphylococcus aureus",69,6
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",69,4
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Staphylococcus aureus",69,35
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Staphylococcus aureus",69,0
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Streptococcus pneumoniae",8,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Acinetobacter spp.",52,2
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Acinetobacter spp.",52,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Acinetobacter spp.",52,33
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Acinetobacter spp.",52,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Acinetobacter spp.",52,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Acinetobacter spp.",52,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Acinetobacter spp.",52,10
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",52,10
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Acinetobacter spp.",52,21
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Acinetobacter spp.",52,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Escherichia coli",46,41
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Escherichia coli",46,2
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Escherichia coli",46,9
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Escherichia coli",46,2
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Escherichia coli",46,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Escherichia coli",46,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Escherichia coli",46,13
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Escherichia coli",46,2
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Escherichia coli",46,2
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Escherichia coli",46,2
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecalis",55,13
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecalis",55,7
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecalis",55,15
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecalis",55,7
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Enterococcus faecalis",55,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Enterococcus faecalis",55,2
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecalis",55,13
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",55,7
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecalis",55,11
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecalis",55,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecium",23,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecium",23,9
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecium",23,13
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecium",23,4
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Enterococcus faecium",23,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Enterococcus faecium",23,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecium",23,17
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",23,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecium",23,13
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecium",23,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Klebsiella pneumoniae",105,8
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Klebsiella pneumoniae",105,4
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Klebsiella pneumoniae",105,21
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Klebsiella pneumoniae",105,1
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Klebsiella pneumoniae",105,1
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Klebsiella pneumoniae",105,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Klebsiella pneumoniae",105,15
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",105,8
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Klebsiella pneumoniae",105,10
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Klebsiella pneumoniae",105,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Pseudomonas aeruginosa",28,7
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Pseudomonas aeruginosa",28,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Pseudomonas aeruginosa",28,21
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Pseudomonas aeruginosa",28,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Pseudomonas aeruginosa",28,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Pseudomonas aeruginosa",28,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Pseudomonas aeruginosa",28,7
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",28,21
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Pseudomonas aeruginosa",28,21
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Pseudomonas aeruginosa",28,7
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Staphylococcus aureus",92,4
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Staphylococcus aureus",92,21
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Staphylococcus aureus",92,7
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Staphylococcus aureus",92,2
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Staphylococcus aureus",92,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Staphylococcus aureus",92,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Staphylococcus aureus",92,9
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",92,1
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Staphylococcus aureus",92,37
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Staphylococcus aureus",92,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Streptococcus pneumoniae",9,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Acinetobacter spp.",137,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Acinetobacter spp.",137,3
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Acinetobacter spp.",137,1
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Acinetobacter spp.",137,61
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Acinetobacter spp.",137,4
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Acinetobacter spp.",137,1
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Acinetobacter spp.",137,6
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",137,11
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Acinetobacter spp.",137,5
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Acinetobacter spp.",137,1
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Escherichia coli",77,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Escherichia coli",77,9
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Escherichia coli",77,4
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Escherichia coli",77,42
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Escherichia coli",77,5
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Escherichia coli",77,1
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Escherichia coli",77,5
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Escherichia coli",77,17
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Escherichia coli",77,4
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Escherichia coli",77,4
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Enterococcus faecalis",110,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecalis",110,4
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecalis",110,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecalis",110,57
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecalis",110,5
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Enterococcus faecalis",110,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecalis",110,10
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",110,5
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecalis",110,9
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecalis",110,3
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Enterococcus faecium",59,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecium",59,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecium",59,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecium",59,61
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecium",59,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Enterococcus faecium",59,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecium",59,8
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",59,14
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecium",59,10
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecium",59,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Klebsiella pneumoniae",229,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Klebsiella pneumoniae",229,7
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Klebsiella pneumoniae",229,4
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Klebsiella pneumoniae",229,55
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Klebsiella pneumoniae",229,3
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Klebsiella pneumoniae",229,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Klebsiella pneumoniae",229,5
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",229,10
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Klebsiella pneumoniae",229,9
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Klebsiella pneumoniae",229,1
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Pseudomonas aeruginosa",60,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Pseudomonas aeruginosa",60,7
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Pseudomonas aeruginosa",60,3
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Pseudomonas aeruginosa",60,52
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Pseudomonas aeruginosa",60,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Pseudomonas aeruginosa",60,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Pseudomonas aeruginosa",60,7
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",60,10
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Pseudomonas aeruginosa",60,17
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Pseudomonas aeruginosa",60,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Staphylococcus aureus",198,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Staphylococcus aureus",198,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Staphylococcus aureus",198,18
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Staphylococcus aureus",198,31
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Staphylococcus aureus",198,10
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Staphylococcus aureus",198,0
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Staphylococcus aureus",198,3
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",198,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Staphylococcus aureus",198,15
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Staphylococcus aureus",198,7
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Streptococcus pneumoniae",14,NA
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Acinetobacter spp.",205,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Acinetobacter spp.",205,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Acinetobacter spp.",205,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Acinetobacter spp.",205,72
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Acinetobacter spp.",205,3
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Acinetobacter spp.",205,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Acinetobacter spp.",205,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Acinetobacter spp.",205,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",205,6
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Acinetobacter spp.",205,12
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Acinetobacter spp.",205,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Escherichia coli",127,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Escherichia coli",127,9
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Escherichia coli",127,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Escherichia coli",127,54
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Escherichia coli",127,14
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Escherichia coli",127,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Escherichia coli",127,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Escherichia coli",127,6
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Escherichia coli",127,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Escherichia coli",127,8
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Escherichia coli",127,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Enterococcus faecalis",190,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecalis",190,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecalis",190,4
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecalis",190,57
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecalis",190,12
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Enterococcus faecalis",190,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Enterococcus faecalis",190,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecalis",190,3
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",190,5
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecalis",190,14
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecalis",190,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Enterococcus faecium",68,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Enterococcus faecium",68,6
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Enterococcus faecium",68,6
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Enterococcus faecium",68,35
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Enterococcus faecium",68,12
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Enterococcus faecium",68,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Enterococcus faecium",68,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Enterococcus faecium",68,7
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",68,15
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Enterococcus faecium",68,15
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Enterococcus faecium",68,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Klebsiella pneumoniae",517,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Klebsiella pneumoniae",517,3
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Klebsiella pneumoniae",517,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Klebsiella pneumoniae",517,62
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Klebsiella pneumoniae",517,8
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Klebsiella pneumoniae",517,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Klebsiella pneumoniae",517,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Klebsiella pneumoniae",517,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",517,7
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Klebsiella pneumoniae",517,12
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Klebsiella pneumoniae",517,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Pseudomonas aeruginosa",88,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Pseudomonas aeruginosa",88,9
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Pseudomonas aeruginosa",88,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Pseudomonas aeruginosa",88,57
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Pseudomonas aeruginosa",88,7
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Pseudomonas aeruginosa",88,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Pseudomonas aeruginosa",88,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Pseudomonas aeruginosa",88,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",88,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Pseudomonas aeruginosa",88,20
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Pseudomonas aeruginosa",88,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Staphylococcus aureus",308,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Staphylococcus aureus",308,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Staphylococcus aureus",308,14
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Staphylococcus aureus",308,41
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Staphylococcus aureus",308,18
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Staphylococcus aureus",308,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Staphylococcus aureus",308,4
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Staphylococcus aureus",308,1
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",308,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Staphylococcus aureus",308,8
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Staphylococcus aureus",308,3
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Emergency department","Streptococcus pneumoniae",48,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Haematology or oncology","Streptococcus pneumoniae",48,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Infectious disease ward","Streptococcus pneumoniae",48,6
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Intensive care unit","Streptococcus pneumoniae",48,58
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Internal medicine","Streptococcus pneumoniae",48,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Obstetrics or gynaecology","Streptococcus pneumoniae",48,0
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Other","Streptococcus pneumoniae",48,4
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal","Streptococcus pneumoniae",48,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",48,21
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Surgery","Streptococcus pneumoniae",48,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Urology","Streptococcus pneumoniae",48,2

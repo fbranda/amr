@@ -1,0 +1,193 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Acinetobacter spp.",32,19
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Acinetobacter spp.",32,22
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Acinetobacter spp.",32,9
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Acinetobacter spp.",32,6
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Escherichia coli",11,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecalis",31,16
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecalis",31,29
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecalis",31,0
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecalis",31,6
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecium",12,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Klebsiella pneumoniae",30,40
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Klebsiella pneumoniae",30,30
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Klebsiella pneumoniae",30,10
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Klebsiella pneumoniae",30,3
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Pseudomonas aeruginosa",9,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Staphylococcus aureus",22,18
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Staphylococcus aureus",22,55
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Staphylococcus aureus",22,5
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Staphylococcus aureus",22,5
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Streptococcus pneumoniae",6,NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Streptococcus pneumoniae",6,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Acinetobacter spp.",29,41
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Acinetobacter spp.",29,34
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Acinetobacter spp.",29,17
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Acinetobacter spp.",29,7
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Escherichia coli",18,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecalis",29,38
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecalis",29,45
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecalis",29,7
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecalis",29,10
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecium",8,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Klebsiella pneumoniae",38,50
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Klebsiella pneumoniae",38,29
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Klebsiella pneumoniae",38,11
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Klebsiella pneumoniae",38,11
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Pseudomonas aeruginosa",10,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Staphylococcus aureus",22,27
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Staphylococcus aureus",22,41
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Staphylococcus aureus",22,14
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Staphylococcus aureus",22,14
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Streptococcus pneumoniae",1,NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Streptococcus pneumoniae",1,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Acinetobacter spp.",44,18
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Acinetobacter spp.",44,52
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Acinetobacter spp.",44,11
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Acinetobacter spp.",44,14
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Escherichia coli",40,18
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Escherichia coli",40,45
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Escherichia coli",40,10
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Escherichia coli",40,28
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecalis",46,17
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecalis",46,54
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecalis",46,2
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecalis",46,26
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecium",12,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Klebsiella pneumoniae",75,40
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Klebsiella pneumoniae",75,39
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Klebsiella pneumoniae",75,7
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Klebsiella pneumoniae",75,12
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Pseudomonas aeruginosa",16,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Staphylococcus aureus",69,12
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Staphylococcus aureus",69,64
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Staphylococcus aureus",69,4
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Staphylococcus aureus",69,20
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Streptococcus pneumoniae",8,NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Streptococcus pneumoniae",8,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Acinetobacter spp.",52,13
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Acinetobacter spp.",52,54
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Acinetobacter spp.",52,17
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Acinetobacter spp.",52,15
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Escherichia coli",46,20
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Escherichia coli",46,39
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Escherichia coli",46,15
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Escherichia coli",46,26
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecalis",55,24
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecalis",55,44
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecalis",55,9
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecalis",55,24
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecium",23,30
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecium",23,35
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecium",23,0
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecium",23,35
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Klebsiella pneumoniae",105,26
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Klebsiella pneumoniae",105,47
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Klebsiella pneumoniae",105,8
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Klebsiella pneumoniae",105,20
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Pseudomonas aeruginosa",28,14
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Pseudomonas aeruginosa",28,50
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Pseudomonas aeruginosa",28,32
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Pseudomonas aeruginosa",28,4
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Staphylococcus aureus",92,11
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Staphylococcus aureus",92,64
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Staphylococcus aureus",92,5
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Staphylococcus aureus",92,20
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Streptococcus pneumoniae",9,NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Streptococcus pneumoniae",9,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Acinetobacter spp.",137,15
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Acinetobacter spp.",137,40
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Acinetobacter spp.",137,9
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Acinetobacter spp.",137,35
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Escherichia coli",77,27
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Escherichia coli",77,43
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Escherichia coli",77,1
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Escherichia coli",77,25
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecalis",110,25
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecalis",110,28
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecalis",110,2
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecalis",110,19
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecium",59,19
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecium",59,34
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecium",59,7
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecium",59,36
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Klebsiella pneumoniae",229,26
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Klebsiella pneumoniae",229,41
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Klebsiella pneumoniae",229,6
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Klebsiella pneumoniae",229,26
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Pseudomonas aeruginosa",60,30
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Pseudomonas aeruginosa",60,45
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Pseudomonas aeruginosa",60,8
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Pseudomonas aeruginosa",60,15
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Staphylococcus aureus",198,5
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Staphylococcus aureus",198,65
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Staphylococcus aureus",198,8
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Staphylococcus aureus",198,19
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Streptococcus pneumoniae",14,NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Streptococcus pneumoniae",14,NA
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Acinetobacter spp.",205,8
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Acinetobacter spp.",205,52
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Acinetobacter spp.",205,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Acinetobacter spp.",205,35
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Escherichia coli",127,6
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Escherichia coli",127,48
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Escherichia coli",127,6
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Escherichia coli",127,35
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecalis",190,10
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecalis",190,46
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecalis",190,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecalis",190,27
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Enterococcus faecium",68,21
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Enterococcus faecium",68,49
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Enterococcus faecium",68,6
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Enterococcus faecium",68,24
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Klebsiella pneumoniae",517,10
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Klebsiella pneumoniae",517,55
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Klebsiella pneumoniae",517,2
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Klebsiella pneumoniae",517,28
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Pseudomonas aeruginosa",88,9
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Pseudomonas aeruginosa",88,58
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Pseudomonas aeruginosa",88,3
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Pseudomonas aeruginosa",88,25
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Staphylococcus aureus",308,3
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Staphylococcus aureus",308,60
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Staphylococcus aureus",308,3
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Staphylococcus aureus",308,26
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"0_4","Streptococcus pneumoniae",48,19
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"20_64","Streptococcus pneumoniae",48,33
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"5_19","Streptococcus pneumoniae",48,13
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,">= 65","Streptococcus pneumoniae",48,35

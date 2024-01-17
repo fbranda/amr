@@ -1,0 +1,298 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Microorganism","Antibiotic","Resistance"
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2012,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2013,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2014,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2015,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2016,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems","40"
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones","80"
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides","56"
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems","27.59"
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","40"
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones","68.97"
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins","56.67"
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA","0"
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2017,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides","81.48"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems","75"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","65.38"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones","86.21"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides","65.71"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems","43.24"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","58.82"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones","78.95"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins","83.78"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA","0"
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2018,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides","85"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems","72.73"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","76.32"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones","90.24"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin","51.72"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides","19.44"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems","6.25"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","11.43"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones","34.21"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins","40"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides","76.81"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems","61.19"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","70.59"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones","83.1"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins","91.67"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA","1.64"
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2019,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides","70.21"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems","76.92"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","58.7"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones","88.24"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin","40.54"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin",NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides","35.71"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins","71.43"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems","4.44"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","17.5"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones","41.86"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins","53.33"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides","61.18"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems","54.37"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","58.02"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones","79.8"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins","84.85"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides","56"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems","70.37"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime","59.26"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","54.55"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones","57.69"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","54.17"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA","19.54"
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2020,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides","59.85"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems","73.72"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","51.09"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones","78.1"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin","35.38"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin","6.78"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides","24.32"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins","57.14"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems","10.39"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","12.33"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones","43.42"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins","57.14"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides","79.72"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems","64.44"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","75.35"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones","83.7"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins","89.91"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides","82.14"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems","78.33"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime","80"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","81.13"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones","81.67"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","75.47"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA","30.11"
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides",NA
+2021,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Aminoglycosides","68.84"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Carbapenems","83.74"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","60.91"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Acinetobacter spp.","Fluoroquinolones","81.68"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecalis","High-level gentamicin","41.22"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Enterococcus faecium","Vancomycin","16.18"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminoglycosides","47.37"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Aminopenicillins","77.01"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Carbapenems","13.11"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","27.55"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Fluoroquinolones","41.27"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Escherichia coli","Third-generation cephalosporins","48.65"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Aminoglycosides","77.22"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Carbapenems","69.06"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","75.23"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Fluoroquinolones","81.68"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Klebsiella pneumoniae","Third-generation cephalosporins","84.24"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Aminoglycosides","72.6"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Carbapenems","79.07"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Ceftazidime","74.03"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","73.44"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Fluoroquinolones","80.46"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","64"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Staphylococcus aureus","MRSA","15.46"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides","16.67"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Macrolides","27.08"
+2022,"Ukraine","UKR",804,48.2222311,25.8991113,"Streptococcus pneumoniae","Penicillins (non-wild-type)","16.67"
