@@ -1,0 +1,849 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",2696,9
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",2696,15
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",2696,5
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",2696,17
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",2696,29
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",2696,1
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Escherichia coli",2696,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",2696,5
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",2696,1
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",2696,15
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",791,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",791,4
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",791,2
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",791,49
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",791,22
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",791,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecalis",791,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",791,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",791,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",791,10
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",1078,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",1078,7
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",1078,1
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",1078,42
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",1078,23
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",1078,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecium",1078,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",1078,10
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",1078,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",1078,9
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",1433,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",1433,11
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",1433,1
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",1433,33
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",1433,18
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",1433,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Klebsiella pneumoniae",1433,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",1433,13
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",1433,6
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",1433,12
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1132,4
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1132,9
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1132,2
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1132,44
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1132,17
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1132,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Pseudomonas aeruginosa",1132,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1132,7
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1132,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1132,12
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",2064,5
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",2064,7
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",2064,4
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",2064,24
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",2064,37
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",2064,1
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Staphylococcus aureus",2064,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",2064,8
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",2064,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",2064,9
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",116,29
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",116,9
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",116,5
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",116,20
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",116,14
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",116,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Streptococcus pneumoniae",116,0
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",116,18
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",116,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",116,2
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",3427,9
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",3427,13
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",3427,5
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",3427,17
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",3427,29
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",3427,1
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Escherichia coli",3427,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",3427,8
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",3427,1
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",3427,10
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",1217,4
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",1217,4
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",1217,3
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",1217,45
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",1217,21
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",1217,1
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecalis",1217,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",1217,4
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",1217,2
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",1217,9
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",977,2
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",977,7
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",977,2
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",977,44
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",977,21
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",977,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecium",977,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",977,5
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",977,2
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",977,10
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",1690,5
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",1690,11
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",1690,3
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",1690,38
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",1690,17
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",1690,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Klebsiella pneumoniae",1690,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",1690,7
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",1690,4
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",1690,11
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1181,5
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1181,7
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1181,2
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1181,42
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1181,21
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1181,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Pseudomonas aeruginosa",1181,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1181,7
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1181,2
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1181,9
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",2242,5
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",2242,8
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",2242,8
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",2242,27
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",2242,32
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",2242,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Staphylococcus aureus",2242,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",2242,6
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",2242,2
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",2242,8
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",153,18
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",153,9
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",153,6
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",153,16
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",153,27
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",153,1
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Streptococcus pneumoniae",153,0
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",153,12
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",153,1
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",153,2
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",1486,2
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",1486,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",1486,1
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",1486,57
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",1486,14
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",1486,0
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",1486,4
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",1486,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",1486,14
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",2794,13
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",2794,14
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",2794,5
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",2794,18
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",2794,24
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",2794,0
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",2794,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",2794,1
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",2794,14
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",911,5
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",911,4
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",911,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",911,46
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",911,19
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",911,0
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",911,4
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",911,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",911,13
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",816,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",816,8
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",816,2
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",816,47
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",816,18
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",816,0
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",816,5
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",816,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",816,11
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",1614,5
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",1614,9
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",1614,2
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",1614,36
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",1614,18
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",1614,0
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",1614,7
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",1614,5
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",1614,13
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",988,6
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",988,7
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",988,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",988,35
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",988,17
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",988,0
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",988,7
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",988,2
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",988,18
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",1919,7
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",1919,6
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",1919,6
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",1919,26
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",1919,27
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",1919,0
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",1919,6
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",1919,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",1919,11
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",142,28
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",142,4
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",142,9
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",142,18
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",142,15
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",142,0
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",142,13
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",142,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",142,8
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",2425,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",2425,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",2425,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",2425,15
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",2425,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",2425,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",2425,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",2425,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",2425,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",4172,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",4172,4
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",4172,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",4172,4
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",4172,5
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",4172,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",4172,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",4172,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",4172,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",1673,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",1673,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",1673,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",1673,9
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",1673,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",1673,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",1673,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",1673,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",1673,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",1496,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",1496,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",1496,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",1496,8
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",1496,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",1496,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",1496,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",1496,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",1496,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",2575,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",2575,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",2575,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",2575,9
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",2575,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",2575,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",2575,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",2575,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",2575,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1351,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1351,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1351,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1351,11
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1351,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1351,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1351,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1351,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1351,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",2601,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",2601,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",2601,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",2601,5
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",2601,5
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",2601,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",2601,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",2601,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",2601,1
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",186,5
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",186,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",186,2
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",186,4
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",186,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",186,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",186,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",186,0
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",186,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",2466,2
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",2466,1
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",2466,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",2466,34
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",2466,28
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",2466,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",2466,5
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",2466,2
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",2466,17
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",3987,14
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",3987,2
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",3987,1
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",3987,9
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",3987,42
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",3987,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",3987,4
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",3987,1
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",3987,15
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",1589,7
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",1589,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",1589,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",1589,22
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",1589,32
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",1589,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",1589,5
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",1589,3
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",1589,15
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",1524,4
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",1524,1
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",1524,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",1524,22
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",1524,34
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",1524,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",1524,6
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",1524,2
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",1524,15
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",2916,5
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",2916,1
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",2916,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",2916,22
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",2916,29
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",2916,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",2916,9
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",2916,6
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",2916,16
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1334,7
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1334,1
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1334,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1334,22
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1334,32
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1334,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1334,7
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1334,2
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1334,17
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",2500,8
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",2500,1
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",2500,1
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",2500,10
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",2500,43
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",2500,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",2500,9
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",2500,3
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",2500,12
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",183,22
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",183,1
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",183,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",183,10
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",183,39
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",183,0
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",183,10
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",183,2
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",183,6
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",2621,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",2621,6
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",2621,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",2621,40
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",2621,25
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",2621,0
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Acinetobacter spp.",2621,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",2621,5
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",2621,2
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",2621,14
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",4461,11
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",4461,12
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",4461,6
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",4461,14
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",4461,32
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",4461,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Escherichia coli",4461,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",4461,5
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",4461,2
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",4461,14
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",1735,5
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",1735,3
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",1735,2
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",1735,33
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",1735,31
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",1735,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecalis",1735,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",1735,5
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",1735,3
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",1735,13
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",1587,4
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",1587,7
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",1587,2
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",1587,30
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",1587,30
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",1587,0
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecium",1587,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",1587,7
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",1587,3
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",1587,14
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",3233,4
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",3233,7
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",3233,2
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",3233,27
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",3233,26
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",3233,0
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Klebsiella pneumoniae",3233,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",3233,8
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",3233,8
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",3233,14
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1605,4
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1605,6
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1605,2
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1605,29
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1605,28
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1605,0
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Pseudomonas aeruginosa",1605,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1605,8
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1605,2
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1605,14
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",3231,7
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",3231,5
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",3231,6
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",3231,18
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",3231,39
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",3231,0
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Staphylococcus aureus",3231,1
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",3231,7
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",3231,5
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",3231,10
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",235,20
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",235,7
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",235,8
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",235,22
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",235,23
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",235,0
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Streptococcus pneumoniae",235,0
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",235,11
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",235,2
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",235,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",2764,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",2764,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",2764,0
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",2764,41
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",2764,27
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",2764,0
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Acinetobacter spp.",2764,3
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",2764,4
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",2764,3
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",2764,15
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",5083,14
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",5083,14
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",5083,4
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",5083,12
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",5083,34
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",5083,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Escherichia coli",5083,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",5083,3
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",5083,2
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",5083,16
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",1957,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",1957,4
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",1957,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",1957,32
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",1957,32
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",1957,0
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecalis",1957,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",1957,4
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",1957,3
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",1957,17
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",1670,4
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",1670,10
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",1670,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",1670,29
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",1670,30
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",1670,0
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecium",1670,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",1670,5
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",1670,3
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",1670,16
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",3853,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",3853,10
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",3853,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",3853,27
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",3853,27
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",3853,0
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Klebsiella pneumoniae",3853,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",3853,7
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",3853,7
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",3853,15
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1779,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1779,11
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1779,2
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1779,29
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1779,26
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1779,0
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Pseudomonas aeruginosa",1779,2
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1779,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1779,2
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1779,16
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",3397,8
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",3397,7
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",3397,3
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",3397,16
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",3397,42
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",3397,0
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Staphylococcus aureus",3397,2
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",3397,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",3397,4
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",3397,11
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",253,30
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",253,7
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",253,3
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",253,11
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",253,30
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",253,0
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Streptococcus pneumoniae",253,0
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",253,9
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",253,1
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",253,9
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",2483,1
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",2483,5
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",2483,1
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",2483,42
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",2483,26
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",2483,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Acinetobacter spp.",2483,2
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",2483,6
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",2483,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",2483,17
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",5009,13
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",5009,14
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",5009,6
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",5009,12
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",5009,32
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",5009,1
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Escherichia coli",5009,2
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",5009,6
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",5009,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",5009,15
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",1978,7
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",1978,3
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",1978,2
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",1978,32
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",1978,30
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",1978,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecalis",1978,3
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",1978,7
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",1978,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",1978,16
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",1831,3
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",1831,10
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",1831,2
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",1831,27
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",1831,31
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",1831,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecium",1831,3
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",1831,9
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",1831,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",1831,15
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",4180,5
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",4180,9
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",4180,2
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",4180,27
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",4180,25
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",4180,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Klebsiella pneumoniae",4180,3
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",4180,13
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",4180,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",4180,16
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1731,6
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1731,10
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1731,2
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1731,29
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1731,24
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1731,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Pseudomonas aeruginosa",1731,2
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1731,9
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1731,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1731,18
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",3481,8
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",3481,6
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",3481,5
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",3481,14
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",3481,39
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",3481,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Staphylococcus aureus",3481,2
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",3481,12
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",3481,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",3481,13
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",228,21
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",228,13
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",228,3
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",228,16
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",228,25
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",228,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Streptococcus pneumoniae",228,1
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",228,15
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",228,0
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",228,6
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",3170,1
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",3170,3
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",3170,8
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",3170,42
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",3170,22
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",3170,0
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Acinetobacter spp.",3170,0
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",3170,4
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",3170,3
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",3170,15
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",4363,15
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",4363,15
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",4363,8
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",4363,13
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",4363,29
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",4363,1
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Escherichia coli",4363,1
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",4363,4
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",4363,1
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",4363,13
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",2135,7
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",2135,4
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",2135,6
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",2135,31
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",2135,28
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",2135,0
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecalis",2135,1
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",2135,5
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",2135,3
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",2135,15
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",2204,3
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",2204,8
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",2204,6
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",2204,28
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",2204,29
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",2204,0
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecium",2204,1
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",2204,5
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",2204,2
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",2204,17
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",4534,5
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",4534,8
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",4534,6
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",4534,27
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",4534,23
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",4534,0
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Klebsiella pneumoniae",4534,1
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",4534,9
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",4534,5
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",4534,15
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1556,6
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1556,9
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1556,5
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1556,23
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1556,26
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1556,0
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Pseudomonas aeruginosa",1556,1
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1556,11
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1556,2
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1556,15
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",3614,8
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",3614,6
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",3614,10
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",3614,17
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",3614,33
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",3614,0
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Staphylococcus aureus",3614,1
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",3614,9
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",3614,3
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",3614,13
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",132,23
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",132,7
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",132,7
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",132,14
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",132,24
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",132,0
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Streptococcus pneumoniae",132,2
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",132,12
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",132,4
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",132,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",3516,1
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",3516,3
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",3516,1
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",3516,78
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",3516,4
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",3516,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Acinetobacter spp.",3516,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",3516,3
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",3516,5
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",3516,4
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",4977,18
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",4977,14
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",4977,6
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",4977,24
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",4977,19
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",4977,1
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Escherichia coli",4977,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",4977,5
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",4977,2
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",4977,11
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",2166,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",2166,5
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",2166,4
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",2166,51
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",2166,14
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",2166,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecalis",2166,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",2166,5
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",2166,5
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",2166,9
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",2567,3
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",2567,7
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",2567,4
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",2567,59
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",2567,11
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",2567,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Enterococcus faecium",2567,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",2567,5
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",2567,4
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",2567,7
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",4852,6
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",4852,7
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",4852,3
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",4852,50
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",4852,12
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",4852,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Klebsiella pneumoniae",4852,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",4852,6
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",4852,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",4852,7
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1868,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1868,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1868,3
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1868,44
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1868,16
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1868,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Pseudomonas aeruginosa",1868,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1868,6
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1868,6
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1868,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",3882,11
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",3882,7
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",3882,7
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",3882,29
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",3882,24
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",3882,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Staphylococcus aureus",3882,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",3882,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",3882,5
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",3882,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",158,20
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",158,6
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",158,9
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",158,26
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",158,13
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",158,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Other","Streptococcus pneumoniae",158,0
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",158,18
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",158,3
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",158,4
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Acinetobacter spp.",2706,2
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Acinetobacter spp.",2706,3
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Acinetobacter spp.",2706,6
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Acinetobacter spp.",2706,39
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Acinetobacter spp.",2706,25
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Acinetobacter spp.",2706,0
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Acinetobacter spp.",2706,6
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",2706,3
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Acinetobacter spp.",2706,17
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Escherichia coli",4850,19
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Escherichia coli",4850,13
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Escherichia coli",4850,6
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Escherichia coli",4850,15
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Escherichia coli",4850,28
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Escherichia coli",4850,1
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Escherichia coli",4850,5
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Escherichia coli",4850,1
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Escherichia coli",4850,12
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecalis",2052,10
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecalis",2052,4
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecalis",2052,4
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecalis",2052,34
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecalis",2052,27
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecalis",2052,0
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecalis",2052,5
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",2052,2
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecalis",2052,14
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Enterococcus faecium",2450,3
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Enterococcus faecium",2450,8
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Enterococcus faecium",2450,4
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Enterococcus faecium",2450,32
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Enterococcus faecium",2450,33
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Enterococcus faecium",2450,0
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Enterococcus faecium",2450,4
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",2450,2
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Enterococcus faecium",2450,13
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Klebsiella pneumoniae",4853,7
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Klebsiella pneumoniae",4853,8
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Klebsiella pneumoniae",4853,5
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Klebsiella pneumoniae",4853,28
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Klebsiella pneumoniae",4853,27
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Klebsiella pneumoniae",4853,0
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Klebsiella pneumoniae",4853,6
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",4853,4
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Klebsiella pneumoniae",4853,14
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Pseudomonas aeruginosa",1672,10
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Pseudomonas aeruginosa",1672,8
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Pseudomonas aeruginosa",1672,3
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Pseudomonas aeruginosa",1672,29
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Pseudomonas aeruginosa",1672,26
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1672,0
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Pseudomonas aeruginosa",1672,8
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",1672,2
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Pseudomonas aeruginosa",1672,13
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Staphylococcus aureus",3518,14
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Staphylococcus aureus",3518,6
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Staphylococcus aureus",3518,7
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Staphylococcus aureus",3518,17
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Staphylococcus aureus",3518,36
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Staphylococcus aureus",3518,0
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Staphylococcus aureus",3518,8
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",3518,2
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Staphylococcus aureus",3518,9
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Emergency department","Streptococcus pneumoniae",260,29
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Haematology or oncology","Streptococcus pneumoniae",260,5
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Infectious disease ward","Streptococcus pneumoniae",260,5
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Intensive care unit","Streptococcus pneumoniae",260,15
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Internal medicine","Streptococcus pneumoniae",260,19
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Obstetrics or gynaecology","Streptococcus pneumoniae",260,0
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal","Streptococcus pneumoniae",260,18
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",260,1
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"Surgery","Streptococcus pneumoniae",260,8

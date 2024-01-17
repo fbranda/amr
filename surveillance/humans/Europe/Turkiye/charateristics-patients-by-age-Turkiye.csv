@@ -1,0 +1,353 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",0,NA
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",2696,5
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",2696,42
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",2696,4
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",2696,42
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",791,6
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",791,34
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",791,2
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",791,51
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",1078,13
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",1078,35
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",1078,3
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",1078,43
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",1433,17
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",1433,40
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",1433,5
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",1433,33
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1132,7
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1132,41
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1132,6
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1132,40
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",2064,9
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",2064,44
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",2064,4
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",2064,40
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",116,10
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",116,47
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",116,11
+2012,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",116,28
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",0,NA
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",3427,7
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",3427,37
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",3427,7
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",3427,33
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",1217,7
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",1217,27
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",1217,3
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",1217,42
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",977,8
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",977,25
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",977,4
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",977,38
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",1690,13
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",1690,35
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",1690,4
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",1690,32
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1181,8
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1181,32
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1181,6
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1181,35
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",2242,7
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",2242,36
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",2242,5
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",2242,34
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",153,6
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",153,36
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",153,7
+2013,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",153,25
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",1486,6
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",1486,37
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",1486,6
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",1486,36
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",2794,5
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",2794,36
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",2794,4
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",2794,40
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",911,7
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",911,30
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",911,4
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",911,47
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",816,8
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",816,30
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",816,3
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",816,41
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",1614,14
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",1614,33
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",1614,4
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",1614,29
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",988,7
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",988,36
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",988,7
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",988,34
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",1919,9
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",1919,39
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",1919,5
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",1919,36
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",142,12
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",142,40
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",142,9
+2014,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",142,30
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",2425,10
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",2425,42
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",2425,5
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",2425,40
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",4172,5
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",4172,44
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",4172,4
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",4172,45
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",1673,10
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",1673,35
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",1673,3
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",1673,49
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",1496,10
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",1496,35
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",1496,4
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",1496,47
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",2575,16
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",2575,40
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",2575,6
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",2575,35
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1351,9
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1351,42
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1351,7
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1351,39
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",2601,9
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",2601,43
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",2601,7
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",2601,37
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",186,12
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",186,42
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",186,13
+2015,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",186,32
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",2466,7
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",2466,40
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",2466,5
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",2466,47
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",3987,5
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",3987,43
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",3987,4
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",3987,48
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",1589,9
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",1589,33
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",1589,2
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",1589,54
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",1524,10
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",1524,34
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",1524,4
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",1524,51
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",2916,17
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",2916,38
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",2916,5
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",2916,40
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1334,9
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1334,42
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1334,5
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1334,44
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",2500,11
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",2500,42
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",2500,6
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",2500,41
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",183,8
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",183,49
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",183,7
+2016,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",183,36
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",2621,6
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",2621,40
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",2621,4
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",2621,47
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",4461,5
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",4461,41
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",4461,4
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",4461,48
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",1735,8
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",1735,31
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",1735,2
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",1735,56
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",1587,9
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",1587,33
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",1587,3
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",1587,54
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",3233,16
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",3233,36
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",3233,4
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",3233,41
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1605,9
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1605,39
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1605,7
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1605,42
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",3231,10
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",3231,40
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",3231,5
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",3231,41
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",235,11
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",235,47
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",235,7
+2017,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",235,34
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",2764,8
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",2764,39
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",2764,7
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",2764,46
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",5083,5
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",5083,40
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",5083,5
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",5083,50
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",1957,9
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",1957,29
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",1957,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",1957,56
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",1670,10
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",1670,34
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",1670,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",1670,50
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",3853,15
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",3853,37
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",3853,6
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",3853,42
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1779,10
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1779,39
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1779,7
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1779,44
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",3397,11
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",3397,40
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",3397,7
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",3397,41
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",253,9
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",253,38
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",253,10
+2018,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",253,43
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",2483,7
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",2483,38
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",2483,7
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",2483,48
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",5009,6
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",5009,40
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",5009,6
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",5009,48
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",1978,8
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",1978,31
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",1978,5
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",1978,55
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",1831,10
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",1831,32
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",1831,6
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",1831,52
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",4180,14
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",4180,35
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",4180,9
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",4180,42
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1731,9
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1731,39
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1731,9
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1731,44
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",3481,12
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",3481,41
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",3481,8
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",3481,40
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",228,13
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",228,46
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",228,7
+2019,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",228,33
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",3170,6
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",3170,40
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",3170,3
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",3170,52
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",4363,5
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",4363,40
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",4363,3
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",4363,52
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",2135,7
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",2135,30
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",2135,2
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",2135,60
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",2204,7
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",2204,35
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",2204,3
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",2204,55
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",4534,13
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",4534,38
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",4534,4
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",4534,45
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1556,11
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1556,39
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1556,6
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1556,45
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",3614,9
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",3614,41
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",3614,6
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",3614,44
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",132,12
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",132,45
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",132,7
+2020,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",132,36
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",3516,6
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",3516,41
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",3516,3
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",3516,51
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",4977,4
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",4977,42
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",4977,3
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",4977,51
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",2166,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",2166,32
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",2166,2
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",2166,58
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",2567,7
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",2567,33
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",2567,2
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",2567,58
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",4852,11
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",4852,39
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",4852,3
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",4852,46
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1868,8
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1868,41
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1868,5
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1868,47
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",3882,9
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",3882,43
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",3882,5
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",3882,43
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",158,15
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",158,34
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",158,6
+2021,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",158,46
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Acinetobacter spp.",2706,8
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Acinetobacter spp.",2706,36
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Acinetobacter spp.",2706,4
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Acinetobacter spp.",2706,53
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Escherichia coli",4850,4
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Escherichia coli",4850,39
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Escherichia coli",4850,3
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Escherichia coli",4850,54
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecalis",2052,8
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecalis",2052,29
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecalis",2052,2
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecalis",2052,62
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Enterococcus faecium",2450,5
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Enterococcus faecium",2450,32
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Enterococcus faecium",2450,2
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Enterococcus faecium",2450,61
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Klebsiella pneumoniae",4853,10
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Klebsiella pneumoniae",4853,37
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Klebsiella pneumoniae",4853,3
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Klebsiella pneumoniae",4853,50
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Pseudomonas aeruginosa",1672,9
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Pseudomonas aeruginosa",1672,39
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Pseudomonas aeruginosa",1672,5
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Pseudomonas aeruginosa",1672,48
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Staphylococcus aureus",3518,9
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Staphylococcus aureus",3518,40
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Staphylococcus aureus",3518,4
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Staphylococcus aureus",3518,47
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"0_4","Streptococcus pneumoniae",260,16
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"20_64","Streptococcus pneumoniae",260,30
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,"5_19","Streptococcus pneumoniae",260,11
+2022,"Türkiye","TUR",792,38.6226863,24.5239512,">= 65","Streptococcus pneumoniae",260,43
