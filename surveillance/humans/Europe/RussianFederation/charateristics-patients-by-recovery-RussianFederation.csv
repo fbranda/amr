@@ -1,0 +1,497 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Acinetobacter spp.",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Acinetobacter spp.",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Acinetobacter spp.",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Acinetobacter spp.",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Acinetobacter spp.",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Escherichia coli",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Escherichia coli",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Escherichia coli",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Escherichia coli",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Escherichia coli",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Escherichia coli",13,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Enterococcus faecalis",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecalis",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecalis",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecalis",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecalis",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Enterococcus faecium",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecium",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecium",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecium",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecium",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Klebsiella pneumoniae",23,74
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Klebsiella pneumoniae",23,0
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Klebsiella pneumoniae",23,4
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Klebsiella pneumoniae",23,0
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",23,13
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Klebsiella pneumoniae",23,9
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Pseudomonas aeruginosa",6,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Pseudomonas aeruginosa",6,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Pseudomonas aeruginosa",6,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Pseudomonas aeruginosa",6,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",6,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Pseudomonas aeruginosa",6,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Staphylococcus aureus",35,34
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Staphylococcus aureus",35,0
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Staphylococcus aureus",35,34
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Staphylococcus aureus",35,0
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",35,0
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Staphylococcus aureus",35,29
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Streptococcus pneumoniae",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Streptococcus pneumoniae",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Streptococcus pneumoniae",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Streptococcus pneumoniae",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",0,NA
+2013,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Streptococcus pneumoniae",0,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Acinetobacter spp.",61,79
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Acinetobacter spp.",61,3
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Acinetobacter spp.",61,3
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Acinetobacter spp.",61,0
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",61,2
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Acinetobacter spp.",61,10
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Acinetobacter spp.",61,2
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Escherichia coli",32,53
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Escherichia coli",32,9
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Escherichia coli",32,25
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Escherichia coli",32,0
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Escherichia coli",32,0
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Escherichia coli",32,9
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Escherichia coli",32,3
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Enterococcus faecalis",21,33
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecalis",21,0
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecalis",21,38
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecalis",21,0
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",21,0
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecalis",21,24
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecalis",21,0
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Enterococcus faecium",14,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecium",14,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecium",14,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecium",14,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",14,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecium",14,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecium",14,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Klebsiella pneumoniae",95,62
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Klebsiella pneumoniae",95,1
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Klebsiella pneumoniae",95,8
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Klebsiella pneumoniae",95,1
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",95,5
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Klebsiella pneumoniae",95,17
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Klebsiella pneumoniae",95,4
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Pseudomonas aeruginosa",29,59
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Pseudomonas aeruginosa",29,3
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Pseudomonas aeruginosa",29,17
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Pseudomonas aeruginosa",29,0
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",29,3
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Pseudomonas aeruginosa",29,10
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Pseudomonas aeruginosa",29,3
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Staphylococcus aureus",107,50
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Staphylococcus aureus",107,3
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Staphylococcus aureus",107,24
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Staphylococcus aureus",107,2
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",107,2
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Staphylococcus aureus",107,16
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Staphylococcus aureus",107,3
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Streptococcus pneumoniae",0,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Streptococcus pneumoniae",0,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Streptococcus pneumoniae",0,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Streptococcus pneumoniae",0,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",0,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Streptococcus pneumoniae",0,NA
+2014,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Streptococcus pneumoniae",0,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Acinetobacter spp.",64,59
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Acinetobacter spp.",64,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Acinetobacter spp.",64,11
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",64,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Acinetobacter spp.",64,20
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Acinetobacter spp.",64,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Escherichia coli",43,51
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Escherichia coli",43,2
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Escherichia coli",43,19
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Escherichia coli",43,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Escherichia coli",43,19
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Escherichia coli",43,2
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Enterococcus faecalis",20,50
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecalis",20,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecalis",20,20
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",20,5
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecalis",20,5
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecalis",20,5
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Enterococcus faecium",15,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecium",15,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecium",15,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",15,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecium",15,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecium",15,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Klebsiella pneumoniae",105,56
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Klebsiella pneumoniae",105,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Klebsiella pneumoniae",105,7
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",105,4
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Klebsiella pneumoniae",105,16
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Klebsiella pneumoniae",105,3
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Pseudomonas aeruginosa",29,76
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Pseudomonas aeruginosa",29,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Pseudomonas aeruginosa",29,10
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",29,3
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Pseudomonas aeruginosa",29,7
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Pseudomonas aeruginosa",29,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Staphylococcus aureus",71,41
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Staphylococcus aureus",71,3
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Staphylococcus aureus",71,32
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",71,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Staphylococcus aureus",71,18
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Staphylococcus aureus",71,0
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Streptococcus pneumoniae",0,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Streptococcus pneumoniae",0,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Streptococcus pneumoniae",0,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",0,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Streptococcus pneumoniae",0,NA
+2015,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Streptococcus pneumoniae",0,NA
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Acinetobacter spp.",76,7
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Acinetobacter spp.",76,34
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Acinetobacter spp.",76,13
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Acinetobacter spp.",76,4
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Acinetobacter spp.",76,5
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",76,1
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Acinetobacter spp.",76,28
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Acinetobacter spp.",76,1
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Escherichia coli",54,6
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Escherichia coli",54,22
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Escherichia coli",54,15
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Escherichia coli",54,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Escherichia coli",54,15
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Escherichia coli",54,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Escherichia coli",54,28
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Escherichia coli",54,6
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecalis",27,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecalis",27,22
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecalis",27,30
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecalis",27,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecalis",27,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",27,4
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecalis",27,37
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecalis",27,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecium",21,19
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecium",21,19
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecium",21,14
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecium",21,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecium",21,5
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",21,10
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecium",21,29
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecium",21,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Klebsiella pneumoniae",123,5
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Klebsiella pneumoniae",123,33
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Klebsiella pneumoniae",123,12
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Klebsiella pneumoniae",123,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Klebsiella pneumoniae",123,7
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",123,2
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Klebsiella pneumoniae",123,32
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Klebsiella pneumoniae",123,4
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Pseudomonas aeruginosa",43,21
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Pseudomonas aeruginosa",43,21
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Pseudomonas aeruginosa",43,12
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Pseudomonas aeruginosa",43,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Pseudomonas aeruginosa",43,7
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",43,2
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Pseudomonas aeruginosa",43,28
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Pseudomonas aeruginosa",43,5
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Staphylococcus aureus",106,2
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Staphylococcus aureus",106,18
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Staphylococcus aureus",106,42
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Staphylococcus aureus",106,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Staphylococcus aureus",106,3
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",106,1
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Staphylococcus aureus",106,28
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Staphylococcus aureus",106,0
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Streptococcus pneumoniae",0,NA
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Streptococcus pneumoniae",0,NA
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Streptococcus pneumoniae",0,NA
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Streptococcus pneumoniae",0,NA
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Streptococcus pneumoniae",0,NA
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",0,NA
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Streptococcus pneumoniae",0,NA
+2016,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Streptococcus pneumoniae",0,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Acinetobacter spp.",52,2
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Acinetobacter spp.",52,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Acinetobacter spp.",52,83
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Acinetobacter spp.",52,6
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Acinetobacter spp.",52,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Acinetobacter spp.",52,2
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Acinetobacter spp.",52,8
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Acinetobacter spp.",52,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Escherichia coli",53,17
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Escherichia coli",53,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Escherichia coli",53,49
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Escherichia coli",53,9
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Escherichia coli",53,2
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Escherichia coli",53,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Escherichia coli",53,17
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Escherichia coli",53,6
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecalis",28,4
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Enterococcus faecalis",28,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecalis",28,29
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecalis",28,25
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecalis",28,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecalis",28,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecalis",28,39
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecalis",28,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecium",14,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Enterococcus faecium",14,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecium",14,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecium",14,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecium",14,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecium",14,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecium",14,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecium",14,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Klebsiella pneumoniae",127,8
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Klebsiella pneumoniae",127,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Klebsiella pneumoniae",127,69
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Klebsiella pneumoniae",127,4
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Klebsiella pneumoniae",127,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Klebsiella pneumoniae",127,6
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Klebsiella pneumoniae",127,13
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Klebsiella pneumoniae",127,1
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Pseudomonas aeruginosa",45,9
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Pseudomonas aeruginosa",45,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Pseudomonas aeruginosa",45,64
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Pseudomonas aeruginosa",45,4
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Pseudomonas aeruginosa",45,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Pseudomonas aeruginosa",45,2
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Pseudomonas aeruginosa",45,20
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Pseudomonas aeruginosa",45,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Staphylococcus aureus",86,2
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Staphylococcus aureus",86,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Staphylococcus aureus",86,52
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Staphylococcus aureus",86,28
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Staphylococcus aureus",86,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Staphylococcus aureus",86,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Staphylococcus aureus",86,16
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Staphylococcus aureus",86,0
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Streptococcus pneumoniae",18,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Streptococcus pneumoniae",18,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Streptococcus pneumoniae",18,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Streptococcus pneumoniae",18,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Streptococcus pneumoniae",18,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Streptococcus pneumoniae",18,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Streptococcus pneumoniae",18,NA
+2017,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Streptococcus pneumoniae",18,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Acinetobacter spp.",81,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Acinetobacter spp.",81,75
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Acinetobacter spp.",81,4
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Acinetobacter spp.",81,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Acinetobacter spp.",81,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",81,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Acinetobacter spp.",81,21
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Acinetobacter spp.",81,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Escherichia coli",82,9
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Escherichia coli",82,49
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Escherichia coli",82,12
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Escherichia coli",82,1
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Escherichia coli",82,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Escherichia coli",82,1
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Escherichia coli",82,23
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Escherichia coli",82,5
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecalis",27,4
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecalis",27,59
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecalis",27,7
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecalis",27,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecalis",27,4
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",27,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecalis",27,26
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecalis",27,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecium",19,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecium",19,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecium",19,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecium",19,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecium",19,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",19,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecium",19,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecium",19,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Klebsiella pneumoniae",170,5
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Klebsiella pneumoniae",170,81
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Klebsiella pneumoniae",170,4
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Klebsiella pneumoniae",170,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Klebsiella pneumoniae",170,2
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",170,1
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Klebsiella pneumoniae",170,7
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Klebsiella pneumoniae",170,1
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Pseudomonas aeruginosa",50,14
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Pseudomonas aeruginosa",50,74
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Pseudomonas aeruginosa",50,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Pseudomonas aeruginosa",50,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Pseudomonas aeruginosa",50,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",50,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Pseudomonas aeruginosa",50,10
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Pseudomonas aeruginosa",50,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Staphylococcus aureus",107,6
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Staphylococcus aureus",107,45
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Staphylococcus aureus",107,26
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Staphylococcus aureus",107,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Staphylococcus aureus",107,1
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",107,0
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Staphylococcus aureus",107,21
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Staphylococcus aureus",107,1
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Streptococcus pneumoniae",0,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Streptococcus pneumoniae",0,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Streptococcus pneumoniae",0,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Streptococcus pneumoniae",0,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Streptococcus pneumoniae",0,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",0,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Streptococcus pneumoniae",0,NA
+2018,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Streptococcus pneumoniae",0,NA
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Acinetobacter spp.",178,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Acinetobacter spp.",178,3
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Acinetobacter spp.",178,74
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Acinetobacter spp.",178,2
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Acinetobacter spp.",178,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Acinetobacter spp.",178,15
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",178,1
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Acinetobacter spp.",178,3
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Acinetobacter spp.",178,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Escherichia coli",216,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Escherichia coli",216,8
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Escherichia coli",216,56
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Escherichia coli",216,14
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Escherichia coli",216,1
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Escherichia coli",216,2
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Escherichia coli",216,2
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Escherichia coli",216,8
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Escherichia coli",216,4
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Enterococcus faecalis",100,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecalis",100,3
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecalis",100,40
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecalis",100,16
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecalis",100,2
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecalis",100,19
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",100,4
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecalis",100,7
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecalis",100,5
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Enterococcus faecium",63,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecium",63,14
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecium",63,43
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecium",63,2
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecium",63,3
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecium",63,19
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",63,6
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecium",63,10
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecium",63,3
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Klebsiella pneumoniae",418,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Klebsiella pneumoniae",418,4
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Klebsiella pneumoniae",418,68
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Klebsiella pneumoniae",418,7
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Klebsiella pneumoniae",418,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Klebsiella pneumoniae",418,4
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",418,4
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Klebsiella pneumoniae",418,7
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Klebsiella pneumoniae",418,2
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Pseudomonas aeruginosa",76,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Pseudomonas aeruginosa",76,12
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Pseudomonas aeruginosa",76,66
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Pseudomonas aeruginosa",76,7
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Pseudomonas aeruginosa",76,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Pseudomonas aeruginosa",76,3
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",76,3
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Pseudomonas aeruginosa",76,7
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Pseudomonas aeruginosa",76,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Staphylococcus aureus",333,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Staphylococcus aureus",333,3
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Staphylococcus aureus",333,41
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Staphylococcus aureus",333,26
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Staphylococcus aureus",333,1
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Staphylococcus aureus",333,3
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",333,4
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Staphylococcus aureus",333,19
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Staphylococcus aureus",333,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Emergency department","Streptococcus pneumoniae",23,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Streptococcus pneumoniae",23,35
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Streptococcus pneumoniae",23,39
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Streptococcus pneumoniae",23,9
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Streptococcus pneumoniae",23,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Streptococcus pneumoniae",23,4
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",23,0
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Streptococcus pneumoniae",23,4
+2019,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Streptococcus pneumoniae",23,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Acinetobacter spp.",267,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Acinetobacter spp.",267,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Acinetobacter spp.",267,82
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Acinetobacter spp.",267,4
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Acinetobacter spp.",267,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Other","Acinetobacter spp.",267,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Acinetobacter spp.",267,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",267,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Acinetobacter spp.",267,5
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Acinetobacter spp.",267,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Escherichia coli",153,12
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Escherichia coli",153,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Escherichia coli",153,49
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Escherichia coli",153,12
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Escherichia coli",153,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Other","Escherichia coli",153,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Escherichia coli",153,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Escherichia coli",153,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Escherichia coli",153,8
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Escherichia coli",153,2
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecalis",132,2
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Enterococcus faecalis",132,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecalis",132,55
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecalis",132,8
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecalis",132,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Other","Enterococcus faecalis",132,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecalis",132,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",132,3
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecalis",132,16
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecalis",132,3
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Enterococcus faecium",127,2
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Enterococcus faecium",127,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Enterococcus faecium",127,83
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Enterococcus faecium",127,2
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Enterococcus faecium",127,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Other","Enterococcus faecium",127,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Enterococcus faecium",127,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",127,2
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Enterococcus faecium",127,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Enterococcus faecium",127,2
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Klebsiella pneumoniae",547,4
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Klebsiella pneumoniae",547,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Klebsiella pneumoniae",547,68
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Klebsiella pneumoniae",547,6
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Klebsiella pneumoniae",547,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Other","Klebsiella pneumoniae",547,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Klebsiella pneumoniae",547,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",547,3
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Klebsiella pneumoniae",547,6
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Klebsiella pneumoniae",547,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Pseudomonas aeruginosa",63,8
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Pseudomonas aeruginosa",63,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Pseudomonas aeruginosa",63,52
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Pseudomonas aeruginosa",63,5
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Pseudomonas aeruginosa",63,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Other","Pseudomonas aeruginosa",63,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Pseudomonas aeruginosa",63,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",63,10
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Pseudomonas aeruginosa",63,13
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Pseudomonas aeruginosa",63,2
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Staphylococcus aureus",317,2
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Staphylococcus aureus",317,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Staphylococcus aureus",317,50
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Staphylococcus aureus",317,17
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Staphylococcus aureus",317,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Other","Staphylococcus aureus",317,1
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Staphylococcus aureus",317,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",317,0
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Staphylococcus aureus",317,13
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Staphylococcus aureus",317,2
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Haematology or oncology","Streptococcus pneumoniae",13,NA
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Infectious disease ward","Streptococcus pneumoniae",13,NA
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Intensive care unit","Streptococcus pneumoniae",13,NA
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Internal medicine","Streptococcus pneumoniae",13,NA
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Obstetrics or gynaecology","Streptococcus pneumoniae",13,NA
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Other","Streptococcus pneumoniae",13,NA
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal","Streptococcus pneumoniae",13,NA
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",13,NA
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Surgery","Streptococcus pneumoniae",13,NA
+2020,"Russian Federation","RUS",643,55.751244,37.618423,"Urology","Streptococcus pneumoniae",13,NA
