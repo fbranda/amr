@@ -1,0 +1,545 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Acinetobacter spp.",530,13
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Acinetobacter spp.",530,10
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Acinetobacter spp.",530,1
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Acinetobacter spp.",530,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Acinetobacter spp.",530,18
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Acinetobacter spp.",530,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Acinetobacter spp.",530,13
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Acinetobacter spp.",530,7
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Acinetobacter spp.",530,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Acinetobacter spp.",530,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Escherichia coli",19630,21
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Escherichia coli",19630,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Escherichia coli",19630,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Escherichia coli",19630,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Escherichia coli",19630,19
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Escherichia coli",19630,1
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Escherichia coli",19630,14
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Escherichia coli",19630,1
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Escherichia coli",19630,6
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Escherichia coli",19630,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecalis",1603,15
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecalis",1603,3
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecalis",1603,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecalis",1603,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecalis",1603,19
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecalis",1603,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecalis",1603,16
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecalis",1603,6
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecalis",1603,5
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecalis",1603,5
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecium",1539,5
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecium",1539,16
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecium",1539,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecium",1539,1
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecium",1539,16
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecium",1539,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecium",1539,15
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecium",1539,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecium",1539,10
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecium",1539,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Klebsiella pneumoniae",3530,17
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Klebsiella pneumoniae",3530,7
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Klebsiella pneumoniae",3530,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Klebsiella pneumoniae",3530,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Klebsiella pneumoniae",3530,18
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Klebsiella pneumoniae",3530,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Klebsiella pneumoniae",3530,15
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Klebsiella pneumoniae",3530,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Klebsiella pneumoniae",3530,9
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Klebsiella pneumoniae",3530,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Pseudomonas aeruginosa",1923,15
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Pseudomonas aeruginosa",1923,11
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Pseudomonas aeruginosa",1923,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Pseudomonas aeruginosa",1923,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Pseudomonas aeruginosa",1923,18
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Pseudomonas aeruginosa",1923,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Pseudomonas aeruginosa",1923,15
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Pseudomonas aeruginosa",1923,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Pseudomonas aeruginosa",1923,5
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Pseudomonas aeruginosa",1923,6
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Staphylococcus aureus",6299,17
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Staphylococcus aureus",6299,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Staphylococcus aureus",6299,1
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Staphylococcus aureus",6299,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Staphylococcus aureus",6299,20
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Staphylococcus aureus",6299,1
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Staphylococcus aureus",6299,18
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Staphylococcus aureus",6299,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Staphylococcus aureus",6299,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Staphylococcus aureus",6299,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Streptococcus pneumoniae",2927,28
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Streptococcus pneumoniae",2927,3
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Streptococcus pneumoniae",2927,1
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Streptococcus pneumoniae",2927,0
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Streptococcus pneumoniae",2927,20
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Streptococcus pneumoniae",2927,1
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Streptococcus pneumoniae",2927,13
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Streptococcus pneumoniae",2927,3
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Streptococcus pneumoniae",2927,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Streptococcus pneumoniae",2927,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Acinetobacter spp.",740,15
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Acinetobacter spp.",740,9
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Acinetobacter spp.",740,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Acinetobacter spp.",740,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Acinetobacter spp.",740,15
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Acinetobacter spp.",740,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Acinetobacter spp.",740,9
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Acinetobacter spp.",740,8
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Acinetobacter spp.",740,4
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Acinetobacter spp.",740,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Escherichia coli",28637,18
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Escherichia coli",28637,3
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Escherichia coli",28637,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Escherichia coli",28637,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Escherichia coli",28637,16
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Escherichia coli",28637,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Escherichia coli",28637,10
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Escherichia coli",28637,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Escherichia coli",28637,5
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Escherichia coli",28637,3
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecalis",2529,11
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecalis",2529,3
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecalis",2529,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecalis",2529,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecalis",2529,16
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecalis",2529,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecalis",2529,11
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecalis",2529,4
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecalis",2529,4
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecalis",2529,4
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecium",2112,6
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecium",2112,13
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecium",2112,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecium",2112,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecium",2112,15
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecium",2112,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecium",2112,11
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecium",2112,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecium",2112,6
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecium",2112,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Klebsiella pneumoniae",5040,15
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Klebsiella pneumoniae",5040,5
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Klebsiella pneumoniae",5040,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Klebsiella pneumoniae",5040,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Klebsiella pneumoniae",5040,16
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Klebsiella pneumoniae",5040,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Klebsiella pneumoniae",5040,10
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Klebsiella pneumoniae",5040,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Klebsiella pneumoniae",5040,6
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Klebsiella pneumoniae",5040,3
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Pseudomonas aeruginosa",2673,13
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Pseudomonas aeruginosa",2673,9
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Pseudomonas aeruginosa",2673,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Pseudomonas aeruginosa",2673,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Pseudomonas aeruginosa",2673,15
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Pseudomonas aeruginosa",2673,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Pseudomonas aeruginosa",2673,12
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Pseudomonas aeruginosa",2673,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Pseudomonas aeruginosa",2673,5
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Pseudomonas aeruginosa",2673,3
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Staphylococcus aureus",9004,15
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Staphylococcus aureus",9004,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Staphylococcus aureus",9004,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Staphylococcus aureus",9004,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Staphylococcus aureus",9004,16
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Staphylococcus aureus",9004,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Staphylococcus aureus",9004,14
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Staphylococcus aureus",9004,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Staphylococcus aureus",9004,4
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Staphylococcus aureus",9004,3
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Streptococcus pneumoniae",3888,26
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Streptococcus pneumoniae",3888,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Streptococcus pneumoniae",3888,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Streptococcus pneumoniae",3888,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Streptococcus pneumoniae",3888,17
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Streptococcus pneumoniae",3888,0
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Streptococcus pneumoniae",3888,10
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Streptococcus pneumoniae",3888,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Streptococcus pneumoniae",3888,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Streptococcus pneumoniae",3888,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Acinetobacter spp.",682,13
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Acinetobacter spp.",682,7
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Acinetobacter spp.",682,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Acinetobacter spp.",682,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Acinetobacter spp.",682,18
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Acinetobacter spp.",682,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Acinetobacter spp.",682,10
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Acinetobacter spp.",682,8
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Acinetobacter spp.",682,4
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Acinetobacter spp.",682,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Escherichia coli",29558,19
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Escherichia coli",29558,3
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Escherichia coli",29558,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Escherichia coli",29558,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Escherichia coli",29558,16
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Escherichia coli",29558,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Escherichia coli",29558,12
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Escherichia coli",29558,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Escherichia coli",29558,5
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Escherichia coli",29558,3
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecalis",2608,14
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecalis",2608,3
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecalis",2608,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecalis",2608,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecalis",2608,18
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecalis",2608,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecalis",2608,14
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecalis",2608,3
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecalis",2608,4
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecalis",2608,4
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecium",2488,5
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecium",2488,12
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecium",2488,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecium",2488,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecium",2488,15
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecium",2488,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecium",2488,14
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecium",2488,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecium",2488,9
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecium",2488,3
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Klebsiella pneumoniae",5302,15
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Klebsiella pneumoniae",5302,4
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Klebsiella pneumoniae",5302,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Klebsiella pneumoniae",5302,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Klebsiella pneumoniae",5302,16
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Klebsiella pneumoniae",5302,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Klebsiella pneumoniae",5302,14
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Klebsiella pneumoniae",5302,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Klebsiella pneumoniae",5302,6
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Klebsiella pneumoniae",5302,3
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Pseudomonas aeruginosa",2575,14
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Pseudomonas aeruginosa",2575,8
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Pseudomonas aeruginosa",2575,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Pseudomonas aeruginosa",2575,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Pseudomonas aeruginosa",2575,16
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Pseudomonas aeruginosa",2575,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Pseudomonas aeruginosa",2575,13
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Pseudomonas aeruginosa",2575,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Pseudomonas aeruginosa",2575,5
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Pseudomonas aeruginosa",2575,3
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Staphylococcus aureus",8562,17
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Staphylococcus aureus",8562,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Staphylococcus aureus",8562,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Staphylococcus aureus",8562,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Staphylococcus aureus",8562,18
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Staphylococcus aureus",8562,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Staphylococcus aureus",8562,17
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Staphylococcus aureus",8562,3
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Staphylococcus aureus",8562,4
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Staphylococcus aureus",8562,3
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Streptococcus pneumoniae",4066,26
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Streptococcus pneumoniae",4066,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Streptococcus pneumoniae",4066,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Streptococcus pneumoniae",4066,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Streptococcus pneumoniae",4066,16
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Streptococcus pneumoniae",4066,0
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Streptococcus pneumoniae",4066,12
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Streptococcus pneumoniae",4066,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Streptococcus pneumoniae",4066,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Streptococcus pneumoniae",4066,1
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Acinetobacter spp.",743,18
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Acinetobacter spp.",743,8
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Acinetobacter spp.",743,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Acinetobacter spp.",743,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Acinetobacter spp.",743,13
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Acinetobacter spp.",743,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Acinetobacter spp.",743,10
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Acinetobacter spp.",743,8
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Acinetobacter spp.",743,4
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Acinetobacter spp.",743,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Escherichia coli",30225,20
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Escherichia coli",30225,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Escherichia coli",30225,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Escherichia coli",30225,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Escherichia coli",30225,16
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Escherichia coli",30225,1
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Escherichia coli",30225,12
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Escherichia coli",30225,1
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Escherichia coli",30225,5
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Escherichia coli",30225,3
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecalis",2681,15
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecalis",2681,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecalis",2681,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecalis",2681,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecalis",2681,15
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecalis",2681,1
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecalis",2681,14
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecalis",2681,3
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecalis",2681,4
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecalis",2681,4
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecium",2473,7
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecium",2473,12
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecium",2473,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecium",2473,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecium",2473,15
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecium",2473,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecium",2473,13
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecium",2473,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecium",2473,8
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecium",2473,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Klebsiella pneumoniae",5428,16
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Klebsiella pneumoniae",5428,4
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Klebsiella pneumoniae",5428,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Klebsiella pneumoniae",5428,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Klebsiella pneumoniae",5428,16
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Klebsiella pneumoniae",5428,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Klebsiella pneumoniae",5428,13
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Klebsiella pneumoniae",5428,1
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Klebsiella pneumoniae",5428,5
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Klebsiella pneumoniae",5428,3
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Pseudomonas aeruginosa",2764,17
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Pseudomonas aeruginosa",2764,7
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Pseudomonas aeruginosa",2764,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Pseudomonas aeruginosa",2764,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Pseudomonas aeruginosa",2764,14
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Pseudomonas aeruginosa",2764,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Pseudomonas aeruginosa",2764,12
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Pseudomonas aeruginosa",2764,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Pseudomonas aeruginosa",2764,5
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Pseudomonas aeruginosa",2764,4
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Staphylococcus aureus",9462,15
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Staphylococcus aureus",9462,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Staphylococcus aureus",9462,1
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Staphylococcus aureus",9462,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Staphylococcus aureus",9462,15
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Staphylococcus aureus",9462,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Staphylococcus aureus",9462,14
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Staphylococcus aureus",9462,3
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Staphylococcus aureus",9462,4
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Staphylococcus aureus",9462,3
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Streptococcus pneumoniae",4009,28
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Streptococcus pneumoniae",4009,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Streptococcus pneumoniae",4009,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Streptococcus pneumoniae",4009,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Streptococcus pneumoniae",4009,16
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Streptococcus pneumoniae",4009,0
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Streptococcus pneumoniae",4009,11
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Streptococcus pneumoniae",4009,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Streptococcus pneumoniae",4009,1
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Streptococcus pneumoniae",4009,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Acinetobacter spp.",593,18
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Acinetobacter spp.",593,7
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Acinetobacter spp.",593,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Acinetobacter spp.",593,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Acinetobacter spp.",593,16
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Acinetobacter spp.",593,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Acinetobacter spp.",593,11
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Acinetobacter spp.",593,5
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Acinetobacter spp.",593,4
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Acinetobacter spp.",593,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Escherichia coli",25046,20
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Escherichia coli",25046,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Escherichia coli",25046,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Escherichia coli",25046,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Escherichia coli",25046,16
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Escherichia coli",25046,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Escherichia coli",25046,11
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Escherichia coli",25046,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Escherichia coli",25046,4
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Escherichia coli",25046,3
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecalis",2501,15
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecalis",2501,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecalis",2501,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecalis",2501,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecalis",2501,16
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecalis",2501,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecalis",2501,11
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecalis",2501,3
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecalis",2501,3
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecalis",2501,4
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecium",2455,7
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecium",2455,9
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecium",2455,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Enterococcus faecium",2455,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecium",2455,19
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecium",2455,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecium",2455,13
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecium",2455,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecium",2455,7
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecium",2455,3
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Klebsiella pneumoniae",4760,17
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Klebsiella pneumoniae",4760,4
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Klebsiella pneumoniae",4760,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Klebsiella pneumoniae",4760,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Klebsiella pneumoniae",4760,17
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Klebsiella pneumoniae",4760,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Klebsiella pneumoniae",4760,12
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Klebsiella pneumoniae",4760,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Klebsiella pneumoniae",4760,5
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Klebsiella pneumoniae",4760,3
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Pseudomonas aeruginosa",2382,16
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Pseudomonas aeruginosa",2382,7
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Pseudomonas aeruginosa",2382,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Pseudomonas aeruginosa",2382,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Pseudomonas aeruginosa",2382,16
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Pseudomonas aeruginosa",2382,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Pseudomonas aeruginosa",2382,11
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Pseudomonas aeruginosa",2382,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Pseudomonas aeruginosa",2382,4
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Pseudomonas aeruginosa",2382,3
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Staphylococcus aureus",8372,15
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Staphylococcus aureus",8372,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Staphylococcus aureus",8372,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Staphylococcus aureus",8372,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Staphylococcus aureus",8372,16
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Staphylococcus aureus",8372,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Staphylococcus aureus",8372,13
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Staphylococcus aureus",8372,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Staphylococcus aureus",8372,3
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Staphylococcus aureus",8372,3
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Streptococcus pneumoniae",1610,29
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Streptococcus pneumoniae",1610,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Streptococcus pneumoniae",1610,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Intensive care unit","Streptococcus pneumoniae",1610,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Streptococcus pneumoniae",1610,16
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Streptococcus pneumoniae",1610,0
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Streptococcus pneumoniae",1610,11
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Streptococcus pneumoniae",1610,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Streptococcus pneumoniae",1610,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Streptococcus pneumoniae",1610,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Acinetobacter spp.",895,21
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Acinetobacter spp.",895,7
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Acinetobacter spp.",895,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Acinetobacter spp.",895,16
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Acinetobacter spp.",895,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Acinetobacter spp.",895,11
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Acinetobacter spp.",895,6
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Acinetobacter spp.",895,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Acinetobacter spp.",895,2
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Escherichia coli",33355,26
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Escherichia coli",33355,2
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Escherichia coli",33355,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Escherichia coli",33355,15
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Escherichia coli",33355,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Escherichia coli",33355,11
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Escherichia coli",33355,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Escherichia coli",33355,4
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Escherichia coli",33355,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecalis",3694,18
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecalis",3694,2
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecalis",3694,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecalis",3694,16
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecalis",3694,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecalis",3694,13
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecalis",3694,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecalis",3694,4
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecalis",3694,4
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecium",3860,8
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecium",3860,11
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecium",3860,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecium",3860,18
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecium",3860,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecium",3860,17
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecium",3860,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecium",3860,7
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecium",3860,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Klebsiella pneumoniae",7013,21
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Klebsiella pneumoniae",7013,4
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Klebsiella pneumoniae",7013,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Klebsiella pneumoniae",7013,16
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Klebsiella pneumoniae",7013,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Klebsiella pneumoniae",7013,14
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Klebsiella pneumoniae",7013,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Klebsiella pneumoniae",7013,5
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Klebsiella pneumoniae",7013,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Pseudomonas aeruginosa",3751,20
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Pseudomonas aeruginosa",3751,7
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Pseudomonas aeruginosa",3751,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Pseudomonas aeruginosa",3751,16
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Pseudomonas aeruginosa",3751,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Pseudomonas aeruginosa",3751,13
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Pseudomonas aeruginosa",3751,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Pseudomonas aeruginosa",3751,4
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Pseudomonas aeruginosa",3751,4
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Staphylococcus aureus",11707,19
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Staphylococcus aureus",11707,2
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Staphylococcus aureus",11707,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Staphylococcus aureus",11707,17
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Staphylococcus aureus",11707,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Staphylococcus aureus",11707,15
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Staphylococcus aureus",11707,2
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Staphylococcus aureus",11707,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Staphylococcus aureus",11707,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Streptococcus pneumoniae",2061,34
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Streptococcus pneumoniae",2061,2
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Streptococcus pneumoniae",2061,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Streptococcus pneumoniae",2061,14
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Streptococcus pneumoniae",2061,0
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Streptococcus pneumoniae",2061,8
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Streptococcus pneumoniae",2061,4
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Streptococcus pneumoniae",2061,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Streptococcus pneumoniae",2061,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Acinetobacter spp.",1090,23
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Acinetobacter spp.",1090,7
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Acinetobacter spp.",1090,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Acinetobacter spp.",1090,14
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Acinetobacter spp.",1090,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Acinetobacter spp.",1090,8
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Acinetobacter spp.",1090,8
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Acinetobacter spp.",1090,4
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Acinetobacter spp.",1090,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Escherichia coli",33920,27
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Escherichia coli",33920,3
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Escherichia coli",33920,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Escherichia coli",33920,14
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Escherichia coli",33920,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Escherichia coli",33920,11
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Escherichia coli",33920,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Escherichia coli",33920,4
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Escherichia coli",33920,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecalis",3632,21
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecalis",3632,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecalis",3632,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecalis",3632,15
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecalis",3632,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecalis",3632,13
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecalis",3632,3
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecalis",3632,4
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecalis",3632,4
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Enterococcus faecium",3872,8
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Enterococcus faecium",3872,11
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Enterococcus faecium",3872,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Enterococcus faecium",3872,17
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Enterococcus faecium",3872,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Enterococcus faecium",3872,17
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Enterococcus faecium",3872,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Enterococcus faecium",3872,8
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Enterococcus faecium",3872,3
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Klebsiella pneumoniae",7276,24
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Klebsiella pneumoniae",7276,4
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Klebsiella pneumoniae",7276,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Klebsiella pneumoniae",7276,16
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Klebsiella pneumoniae",7276,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Klebsiella pneumoniae",7276,12
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Klebsiella pneumoniae",7276,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Klebsiella pneumoniae",7276,6
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Klebsiella pneumoniae",7276,3
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Pseudomonas aeruginosa",3724,21
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Pseudomonas aeruginosa",3724,7
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Pseudomonas aeruginosa",3724,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Pseudomonas aeruginosa",3724,14
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Pseudomonas aeruginosa",3724,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Pseudomonas aeruginosa",3724,12
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Pseudomonas aeruginosa",3724,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Pseudomonas aeruginosa",3724,5
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Pseudomonas aeruginosa",3724,4
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Staphylococcus aureus",12250,20
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Staphylococcus aureus",12250,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Staphylococcus aureus",12250,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Staphylococcus aureus",12250,16
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Staphylococcus aureus",12250,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Staphylococcus aureus",12250,15
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Staphylococcus aureus",12250,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Staphylococcus aureus",12250,3
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Staphylococcus aureus",12250,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Emergency department","Streptococcus pneumoniae",3312,39
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Haematology or oncology","Streptococcus pneumoniae",3312,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Infectious disease ward","Streptococcus pneumoniae",3312,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Internal medicine","Streptococcus pneumoniae",3312,15
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Obstetrics or gynaecology","Streptococcus pneumoniae",3312,0
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Other","Streptococcus pneumoniae",3312,9
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Paediatrics or neonatal","Streptococcus pneumoniae",3312,3
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Surgery","Streptococcus pneumoniae",3312,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"Urology","Streptococcus pneumoniae",3312,0

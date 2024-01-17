@@ -1,0 +1,225 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Acinetobacter spp.",530,12
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Acinetobacter spp.",530,41
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Acinetobacter spp.",530,6
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Acinetobacter spp.",530,40
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Escherichia coli",19630,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Escherichia coli",19630,25
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Escherichia coli",19630,1
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Escherichia coli",19630,72
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecalis",1603,10
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecalis",1603,25
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecalis",1603,3
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecalis",1603,63
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecium",1539,3
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecium",1539,38
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecium",1539,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecium",1539,57
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Klebsiella pneumoniae",3530,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Klebsiella pneumoniae",3530,28
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Klebsiella pneumoniae",3530,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Klebsiella pneumoniae",3530,68
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Pseudomonas aeruginosa",1923,3
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Pseudomonas aeruginosa",1923,27
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Pseudomonas aeruginosa",1923,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Pseudomonas aeruginosa",1923,68
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Staphylococcus aureus",6299,5
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Staphylococcus aureus",6299,40
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Staphylococcus aureus",6299,4
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Staphylococcus aureus",6299,51
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Streptococcus pneumoniae",2927,5
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Streptococcus pneumoniae",2927,39
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Streptococcus pneumoniae",2927,2
+2016,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Streptococcus pneumoniae",2927,54
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Acinetobacter spp.",740,13
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Acinetobacter spp.",740,39
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Acinetobacter spp.",740,8
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Acinetobacter spp.",740,39
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Escherichia coli",28637,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Escherichia coli",28637,25
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Escherichia coli",28637,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Escherichia coli",28637,72
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecalis",2529,8
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecalis",2529,28
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecalis",2529,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecalis",2529,62
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecium",2112,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecium",2112,36
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecium",2112,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecium",2112,61
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Klebsiella pneumoniae",5040,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Klebsiella pneumoniae",5040,29
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Klebsiella pneumoniae",5040,1
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Klebsiella pneumoniae",5040,68
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Pseudomonas aeruginosa",2673,3
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Pseudomonas aeruginosa",2673,27
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Pseudomonas aeruginosa",2673,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Pseudomonas aeruginosa",2673,68
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Staphylococcus aureus",9004,4
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Staphylococcus aureus",9004,41
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Staphylococcus aureus",9004,3
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Staphylococcus aureus",9004,51
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Streptococcus pneumoniae",3888,5
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Streptococcus pneumoniae",3888,40
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Streptococcus pneumoniae",3888,2
+2017,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Streptococcus pneumoniae",3888,53
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Acinetobacter spp.",682,12
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Acinetobacter spp.",682,41
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Acinetobacter spp.",682,6
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Acinetobacter spp.",682,41
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Escherichia coli",29558,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Escherichia coli",29558,25
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Escherichia coli",29558,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Escherichia coli",29558,72
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecalis",2608,7
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecalis",2608,28
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecalis",2608,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecalis",2608,64
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecium",2488,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecium",2488,37
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecium",2488,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecium",2488,59
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Klebsiella pneumoniae",5302,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Klebsiella pneumoniae",5302,30
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Klebsiella pneumoniae",5302,1
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Klebsiella pneumoniae",5302,67
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Pseudomonas aeruginosa",2575,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Pseudomonas aeruginosa",2575,27
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Pseudomonas aeruginosa",2575,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Pseudomonas aeruginosa",2575,69
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Staphylococcus aureus",8562,4
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Staphylococcus aureus",8562,41
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Staphylococcus aureus",8562,4
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Staphylococcus aureus",8562,52
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Streptococcus pneumoniae",4066,5
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Streptococcus pneumoniae",4066,39
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Streptococcus pneumoniae",4066,2
+2018,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Streptococcus pneumoniae",4066,54
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Acinetobacter spp.",743,12
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Acinetobacter spp.",743,38
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Acinetobacter spp.",743,7
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Acinetobacter spp.",743,41
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Escherichia coli",30225,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Escherichia coli",30225,23
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Escherichia coli",30225,1
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Escherichia coli",30225,69
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecalis",2681,7
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecalis",2681,26
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecalis",2681,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecalis",2681,61
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecium",2473,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecium",2473,33
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecium",2473,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecium",2473,58
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Klebsiella pneumoniae",5428,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Klebsiella pneumoniae",5428,27
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Klebsiella pneumoniae",5428,1
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Klebsiella pneumoniae",5428,65
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Pseudomonas aeruginosa",2764,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Pseudomonas aeruginosa",2764,25
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Pseudomonas aeruginosa",2764,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Pseudomonas aeruginosa",2764,67
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Staphylococcus aureus",9462,5
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Staphylococcus aureus",9462,40
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Staphylococcus aureus",9462,3
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Staphylococcus aureus",9462,48
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Streptococcus pneumoniae",4009,4
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Streptococcus pneumoniae",4009,38
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Streptococcus pneumoniae",4009,2
+2019,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Streptococcus pneumoniae",4009,53
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Acinetobacter spp.",593,12
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Acinetobacter spp.",593,42
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Acinetobacter spp.",593,6
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Acinetobacter spp.",593,40
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Escherichia coli",25046,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Escherichia coli",25046,24
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Escherichia coli",25046,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Escherichia coli",25046,73
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecalis",2501,8
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecalis",2501,27
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecalis",2501,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecalis",2501,64
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecium",2455,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecium",2455,39
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecium",2455,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecium",2455,58
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Klebsiella pneumoniae",4760,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Klebsiella pneumoniae",4760,31
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Klebsiella pneumoniae",4760,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Klebsiella pneumoniae",4760,66
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Pseudomonas aeruginosa",2382,3
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Pseudomonas aeruginosa",2382,28
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Pseudomonas aeruginosa",2382,2
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Pseudomonas aeruginosa",2382,67
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Staphylococcus aureus",8372,4
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Staphylococcus aureus",8372,41
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Staphylococcus aureus",8372,4
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Staphylococcus aureus",8372,51
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Streptococcus pneumoniae",1610,6
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Streptococcus pneumoniae",1610,38
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Streptococcus pneumoniae",1610,1
+2020,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Streptococcus pneumoniae",1610,55
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Acinetobacter spp.",895,11
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Acinetobacter spp.",895,38
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Acinetobacter spp.",895,7
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Acinetobacter spp.",895,36
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Escherichia coli",33355,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Escherichia coli",33355,21
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Escherichia coli",33355,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Escherichia coli",33355,61
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecalis",3694,6
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecalis",3694,23
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecalis",3694,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecalis",3694,53
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecium",3860,2
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecium",3860,38
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecium",3860,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecium",3860,49
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Klebsiella pneumoniae",7013,2
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Klebsiella pneumoniae",7013,30
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Klebsiella pneumoniae",7013,1
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Klebsiella pneumoniae",7013,55
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Pseudomonas aeruginosa",3751,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Pseudomonas aeruginosa",3751,29
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Pseudomonas aeruginosa",3751,2
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Pseudomonas aeruginosa",3751,58
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Staphylococcus aureus",11707,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Staphylococcus aureus",11707,34
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Staphylococcus aureus",11707,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Staphylococcus aureus",11707,43
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Streptococcus pneumoniae",2061,8
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Streptococcus pneumoniae",2061,36
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Streptococcus pneumoniae",2061,3
+2021,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Streptococcus pneumoniae",2061,40
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Acinetobacter spp.",1090,13
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Acinetobacter spp.",1090,39
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Acinetobacter spp.",1090,10
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Acinetobacter spp.",1090,38
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Escherichia coli",33920,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Escherichia coli",33920,25
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Escherichia coli",33920,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Escherichia coli",33920,72
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecalis",3632,7
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecalis",3632,26
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecalis",3632,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecalis",3632,65
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Enterococcus faecium",3872,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Enterococcus faecium",3872,37
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Enterococcus faecium",3872,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Enterococcus faecium",3872,60
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Klebsiella pneumoniae",7276,3
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Klebsiella pneumoniae",7276,30
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Klebsiella pneumoniae",7276,1
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Klebsiella pneumoniae",7276,66
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Pseudomonas aeruginosa",3724,3
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Pseudomonas aeruginosa",3724,29
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Pseudomonas aeruginosa",3724,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Pseudomonas aeruginosa",3724,66
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Staphylococcus aureus",12250,4
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Staphylococcus aureus",12250,39
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Staphylococcus aureus",12250,3
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Staphylococcus aureus",12250,53
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"0_4","Streptococcus pneumoniae",3312,7
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"20_64","Streptococcus pneumoniae",3312,39
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,"5_19","Streptococcus pneumoniae",3312,2
+2022,"United Kingdom","GBR",826,54.1022212,-15.0148868,">= 65","Streptococcus pneumoniae",3312,51
