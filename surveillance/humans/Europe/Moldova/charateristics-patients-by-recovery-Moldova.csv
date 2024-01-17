@@ -1,0 +1,289 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Acinetobacter spp.",0,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Acinetobacter spp.",0,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Escherichia coli",1,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Escherichia coli",1,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Enterococcus faecalis",3,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecalis",3,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Enterococcus faecium",0,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecium",0,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Klebsiella pneumoniae",0,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Klebsiella pneumoniae",0,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Pseudomonas aeruginosa",0,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Pseudomonas aeruginosa",0,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Staphylococcus aureus",2,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Staphylococcus aureus",2,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Streptococcus pneumoniae",3,NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Streptococcus pneumoniae",3,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Acinetobacter spp.",7,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Acinetobacter spp.",7,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Acinetobacter spp.",7,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Acinetobacter spp.",7,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Acinetobacter spp.",7,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",7,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Acinetobacter spp.",7,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Acinetobacter spp.",7,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Escherichia coli",15,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Escherichia coli",15,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Escherichia coli",15,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Escherichia coli",15,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Escherichia coli",15,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Escherichia coli",15,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Escherichia coli",15,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Escherichia coli",15,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecalis",6,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Enterococcus faecalis",6,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Enterococcus faecalis",6,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Enterococcus faecalis",6,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Enterococcus faecalis",6,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",6,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Enterococcus faecalis",6,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Enterococcus faecalis",6,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecium",0,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Enterococcus faecium",0,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Enterococcus faecium",0,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Enterococcus faecium",0,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Enterococcus faecium",0,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",0,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Enterococcus faecium",0,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Enterococcus faecium",0,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Klebsiella pneumoniae",29,83
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Klebsiella pneumoniae",29,0
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Klebsiella pneumoniae",29,0
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Klebsiella pneumoniae",29,7
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Klebsiella pneumoniae",29,0
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",29,0
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Klebsiella pneumoniae",29,10
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Klebsiella pneumoniae",29,0
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Pseudomonas aeruginosa",12,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Pseudomonas aeruginosa",12,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Pseudomonas aeruginosa",12,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Pseudomonas aeruginosa",12,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Pseudomonas aeruginosa",12,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",12,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Pseudomonas aeruginosa",12,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Pseudomonas aeruginosa",12,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Staphylococcus aureus",19,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Staphylococcus aureus",19,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Staphylococcus aureus",19,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Staphylococcus aureus",19,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Staphylococcus aureus",19,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",19,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Staphylococcus aureus",19,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Staphylococcus aureus",19,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Streptococcus pneumoniae",1,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Streptococcus pneumoniae",1,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Streptococcus pneumoniae",1,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Streptococcus pneumoniae",1,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Streptococcus pneumoniae",1,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",1,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Streptococcus pneumoniae",1,NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Streptococcus pneumoniae",1,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Acinetobacter spp.",58,59
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Acinetobacter spp.",58,10
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Acinetobacter spp.",58,24
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Acinetobacter spp.",58,0
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",58,0
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Acinetobacter spp.",58,5
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Acinetobacter spp.",58,2
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Escherichia coli",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Escherichia coli",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Escherichia coli",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Escherichia coli",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Escherichia coli",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Escherichia coli",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Escherichia coli",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecalis",14,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Enterococcus faecalis",14,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Enterococcus faecalis",14,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Enterococcus faecalis",14,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",14,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Enterococcus faecalis",14,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Enterococcus faecalis",14,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecium",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Enterococcus faecium",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Enterococcus faecium",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Enterococcus faecium",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Enterococcus faecium",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Enterococcus faecium",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Klebsiella pneumoniae",78,62
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Klebsiella pneumoniae",78,6
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Klebsiella pneumoniae",78,13
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Klebsiella pneumoniae",78,9
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",78,3
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Klebsiella pneumoniae",78,6
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Klebsiella pneumoniae",78,1
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Pseudomonas aeruginosa",10,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Pseudomonas aeruginosa",10,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Pseudomonas aeruginosa",10,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Pseudomonas aeruginosa",10,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",10,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Pseudomonas aeruginosa",10,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Pseudomonas aeruginosa",10,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Staphylococcus aureus",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Staphylococcus aureus",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Staphylococcus aureus",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Staphylococcus aureus",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Staphylococcus aureus",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Staphylococcus aureus",9,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Streptococcus pneumoniae",0,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Streptococcus pneumoniae",0,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Streptococcus pneumoniae",0,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Streptococcus pneumoniae",0,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",0,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Streptococcus pneumoniae",0,NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Streptococcus pneumoniae",0,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Acinetobacter spp.",62,6
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Acinetobacter spp.",62,44
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Acinetobacter spp.",62,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Acinetobacter spp.",62,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Acinetobacter spp.",62,42
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Acinetobacter spp.",62,5
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",62,3
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Acinetobacter spp.",62,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Acinetobacter spp.",62,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Escherichia coli",14,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Escherichia coli",14,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Escherichia coli",14,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Escherichia coli",14,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Escherichia coli",14,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Escherichia coli",14,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Escherichia coli",14,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Escherichia coli",14,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Escherichia coli",14,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Enterococcus faecalis",17,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecalis",17,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Enterococcus faecalis",17,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Enterococcus faecalis",17,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Enterococcus faecalis",17,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Enterococcus faecalis",17,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",17,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Enterococcus faecalis",17,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Enterococcus faecalis",17,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Enterococcus faecium",20,10
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecium",20,55
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Enterococcus faecium",20,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Enterococcus faecium",20,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Enterococcus faecium",20,20
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Enterococcus faecium",20,10
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",20,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Enterococcus faecium",20,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Enterococcus faecium",20,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Klebsiella pneumoniae",107,1
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Klebsiella pneumoniae",107,43
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Klebsiella pneumoniae",107,4
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Klebsiella pneumoniae",107,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Klebsiella pneumoniae",107,37
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Klebsiella pneumoniae",107,11
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",107,2
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Klebsiella pneumoniae",107,1
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Klebsiella pneumoniae",107,1
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Pseudomonas aeruginosa",26,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Pseudomonas aeruginosa",26,58
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Pseudomonas aeruginosa",26,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Pseudomonas aeruginosa",26,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Pseudomonas aeruginosa",26,15
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Pseudomonas aeruginosa",26,4
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",26,15
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Pseudomonas aeruginosa",26,8
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Pseudomonas aeruginosa",26,0
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Staphylococcus aureus",15,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Staphylococcus aureus",15,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Staphylococcus aureus",15,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Staphylococcus aureus",15,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Staphylococcus aureus",15,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Staphylococcus aureus",15,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",15,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Staphylococcus aureus",15,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Staphylococcus aureus",15,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Streptococcus pneumoniae",0,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Streptococcus pneumoniae",0,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Streptococcus pneumoniae",0,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Obstetrics or gynaecology","Streptococcus pneumoniae",0,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Streptococcus pneumoniae",0,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Streptococcus pneumoniae",0,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",0,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Streptococcus pneumoniae",0,NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Streptococcus pneumoniae",0,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Acinetobacter spp.",41,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Haematology or oncology","Acinetobacter spp.",41,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Acinetobacter spp.",41,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Acinetobacter spp.",41,95
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Acinetobacter spp.",41,2
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Acinetobacter spp.",41,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Acinetobacter spp.",41,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",41,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Acinetobacter spp.",41,2
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Acinetobacter spp.",41,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Escherichia coli",37,3
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Haematology or oncology","Escherichia coli",37,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Escherichia coli",37,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Escherichia coli",37,76
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Escherichia coli",37,8
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Escherichia coli",37,3
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Escherichia coli",37,3
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Escherichia coli",37,5
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Escherichia coli",37,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Escherichia coli",37,3
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Enterococcus faecalis",27,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Haematology or oncology","Enterococcus faecalis",27,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Enterococcus faecalis",27,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecalis",27,56
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Enterococcus faecalis",27,7
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Enterococcus faecalis",27,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Enterococcus faecalis",27,4
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",27,15
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Enterococcus faecalis",27,19
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Enterococcus faecalis",27,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Haematology or oncology","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Enterococcus faecium",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Klebsiella pneumoniae",76,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Haematology or oncology","Klebsiella pneumoniae",76,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Klebsiella pneumoniae",76,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Klebsiella pneumoniae",76,64
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Klebsiella pneumoniae",76,7
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Klebsiella pneumoniae",76,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Klebsiella pneumoniae",76,5
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",76,16
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Klebsiella pneumoniae",76,8
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Klebsiella pneumoniae",76,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Haematology or oncology","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Pseudomonas aeruginosa",15,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Staphylococcus aureus",36,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Haematology or oncology","Staphylococcus aureus",36,3
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Staphylococcus aureus",36,6
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Staphylococcus aureus",36,64
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Staphylococcus aureus",36,14
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Staphylococcus aureus",36,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Staphylococcus aureus",36,6
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",36,6
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Staphylococcus aureus",36,3
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Staphylococcus aureus",36,0
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Emergency department","Streptococcus pneumoniae",1,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Haematology or oncology","Streptococcus pneumoniae",1,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Infectious disease ward","Streptococcus pneumoniae",1,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Intensive care unit","Streptococcus pneumoniae",1,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Internal medicine","Streptococcus pneumoniae",1,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Other","Streptococcus pneumoniae",1,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal","Streptococcus pneumoniae",1,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",1,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Surgery","Streptococcus pneumoniae",1,NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Urology","Streptococcus pneumoniae",1,NA

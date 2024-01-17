@@ -1,0 +1,298 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Microorganism","Antibiotic","Resistance"
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2012,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2013,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2014,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2015,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2016,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2017,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2018,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides","65.52"
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems","55.17"
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","65.52"
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones","79.31"
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins","79.31"
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2019,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides","98.28"
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems","93.1"
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","93.1"
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones","98.28"
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides","96.15"
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems","55.13"
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","90.79"
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones","94.87"
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins","96.05"
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2020,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides","96.77"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems","95.16"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","91.94"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones","100"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin","35"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides","96.26"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems","60.75"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","95.33"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones","99.07"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins","98.13"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides","75"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems","73.08"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime","65.38"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","65.22"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones","65.38"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","64"
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2021,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Aminoglycosides","95.12"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Carbapenems","92.68"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","87.8"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Acinetobacter spp.","Fluoroquinolones","100"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecalis","High-level gentamicin","55.56"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Enterococcus faecium","Vancomycin",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminoglycosides","27.03"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Aminopenicillins","83.78"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Carbapenems","0"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","25"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Fluoroquinolones","56.76"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Escherichia coli","Third-generation cephalosporins","63.89"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Aminoglycosides","94.74"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Carbapenems","47.37"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","94.74"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Fluoroquinolones","98.68"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Klebsiella pneumoniae","Third-generation cephalosporins","97.37"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Carbapenems",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Ceftazidime",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Staphylococcus aureus","MRSA","16.67"
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Macrolides",NA
+2022,"Moldova","MDA",498,46.9531391,25.7500291,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
