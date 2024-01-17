@@ -1,0 +1,298 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Microorganism","Antibiotic","Resistance"
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2012,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","48"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","0"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","26.53"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","52"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","59.18"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","77.78"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","0"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","16.67"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","25"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","88.89"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","41.07"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides","80.77"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems","65.38"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","61.54"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones","84.62"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin","65.22"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","66.07"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins","85.71"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","0"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","49.09"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","70.91"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","73.21"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","78.38"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","0"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","27.03"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","31.58"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","81.58"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","38.1"
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides","66.67"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems","83.87"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","60"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones","93.33"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin","63.64"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","58.93"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","0"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","47.27"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","69.09"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","66.07"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","79.17"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","0"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","33.33"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","33.33"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","87.5"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","43.64"
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides","82.86"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems","80.56"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","74.29"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones","91.67"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin","75"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","60.94"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins","92.86"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","0"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","52.38"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","77.78"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","73.44"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","95.83"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","12.5"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","58.33"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","62.5"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","95.83"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","47.83"
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides","82.14"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems","82.14"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","75"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones","79.31"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin","51.72"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","50.67"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins","85.29"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","0"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","39.19"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","61.84"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","72"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","78.26"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","17.39"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","69.57"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","69.57"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","82.61"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","53.06"
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides","88.89"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems","77.78"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","74.07"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones","96.3"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin","76.67"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin","54.84"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","50.94"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins","96.23"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","3.7"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","40.38"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","74.07"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","79.25"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","89.47"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","20.51"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","78.95"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","87.18"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","94.87"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems",NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime",NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","54.84"
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides","72.97"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems","89.19"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","72.97"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones","97.3"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin","54.29"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin","64.29"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","39.02"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins","87.88"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","1.22"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","23.75"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","58.75"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","62.2"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","96.36"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","7.27"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","85.45"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","87.27"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","92.73"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides","30"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems","14.29"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime","23.81"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","25"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones","38.1"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","19.05"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","44.83"
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides","84.62"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems","97.44"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","84.62"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones","97.44"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin","66.67"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","48"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins","93.75"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","2"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","28"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","70"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","86"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","97.46"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","5.08"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","73.73"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","75.42"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","99.15"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","43.37"
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides","95.45"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems","97.73"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","95.35"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones","97.67"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin","53.85"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin","74.42"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","26.67"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins","96.3"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","0"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","15.56"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","57.78"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","60"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","88.57"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","4.63"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","53.33"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","59.26"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","88.89"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems",NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime",NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","42.86"
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Aminoglycosides","96.77"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Carbapenems","100"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","96.77"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Acinetobacter spp.","Fluoroquinolones","100"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecalis","High-level gentamicin","67.86"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Enterococcus faecium","Vancomycin","58.62"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminoglycosides","46.88"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Aminopenicillins","92.19"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Carbapenems","1.56"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","27.42"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Fluoroquinolones","65.08"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Escherichia coli","Third-generation cephalosporins","58.06"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Aminoglycosides","82.83"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Carbapenems","3"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","25.25"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Fluoroquinolones","31"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Klebsiella pneumoniae","Third-generation cephalosporins","90"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Aminoglycosides","50"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Carbapenems","60"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Ceftazidime","56"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)","52.17"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Fluoroquinolones","64"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Pseudomonas aeruginosa","Piperacillin-Tazobactam","56"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Staphylococcus aureus","MRSA","52.24"
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Macrolides",NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA

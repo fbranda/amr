@@ -1,0 +1,745 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Acinetobacter spp.",17,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Acinetobacter spp.",17,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",17,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",17,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Acinetobacter spp.",17,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",17,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",17,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",17,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Escherichia coli",50,8
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Escherichia coli",50,4
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",50,10
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",50,18
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Escherichia coli",50,2
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",50,4
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",50,4
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",50,4
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecalis",18,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecalis",18,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",18,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",18,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecalis",18,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",18,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",18,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",18,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecium",4,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecium",4,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",4,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",4,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecium",4,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",4,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",4,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",4,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Klebsiella pneumoniae",36,3
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Klebsiella pneumoniae",36,6
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",36,44
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",36,3
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Klebsiella pneumoniae",36,0
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",36,19
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",36,6
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",36,6
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Pseudomonas aeruginosa",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Pseudomonas aeruginosa",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Pseudomonas aeruginosa",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Staphylococcus aureus",57,0
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Staphylococcus aureus",57,9
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",57,4
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",57,12
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Staphylococcus aureus",57,0
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",57,14
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",57,0
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",57,5
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Streptococcus pneumoniae",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Streptococcus pneumoniae",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Streptococcus pneumoniae",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",5,NA
+2013,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",5,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",26,15
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",26,4
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",26,8
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",26,15
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",26,19
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",56,0
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",56,25
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",56,5
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",56,4
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",56,9
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",19,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",19,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",19,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",19,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",19,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",23,9
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",23,43
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",23,0
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",23,4
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",23,26
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",38,24
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",38,8
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",38,8
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",38,29
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",38,11
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",8,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",8,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",8,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",8,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",8,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",44,0
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",44,9
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",44,11
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",44,7
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",44,7
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",6,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",6,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",6,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",6,NA
+2014,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",6,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Acinetobacter spp.",31,6
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Acinetobacter spp.",31,23
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",31,3
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",31,3
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Acinetobacter spp.",31,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",31,19
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",31,16
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",31,26
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Acinetobacter spp.",31,3
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Escherichia coli",56,20
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Escherichia coli",56,20
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",56,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",56,9
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Escherichia coli",56,4
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",56,5
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",56,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",56,5
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Escherichia coli",56,36
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecalis",23,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecalis",23,17
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",23,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",23,22
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecalis",23,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",23,4
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",23,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",23,13
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecalis",23,43
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecium",10,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecium",10,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",10,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",10,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecium",10,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",10,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",10,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",10,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecium",10,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Klebsiella pneumoniae",24,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Klebsiella pneumoniae",24,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",24,8
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",24,4
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Klebsiella pneumoniae",24,13
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",24,17
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",24,33
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",24,13
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Klebsiella pneumoniae",24,13
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Pseudomonas aeruginosa",12,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Pseudomonas aeruginosa",12,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",12,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",12,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Pseudomonas aeruginosa",12,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",12,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",12,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",12,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Pseudomonas aeruginosa",12,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Staphylococcus aureus",56,4
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Staphylococcus aureus",56,11
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",56,4
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",56,9
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Staphylococcus aureus",56,0
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",56,25
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",56,5
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",56,4
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Staphylococcus aureus",56,34
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Streptococcus pneumoniae",5,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Streptococcus pneumoniae",5,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",5,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",5,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Streptococcus pneumoniae",5,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",5,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",5,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",5,NA
+2015,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Streptococcus pneumoniae",5,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Acinetobacter spp.",36,6
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Acinetobacter spp.",36,6
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",36,36
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",36,6
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Acinetobacter spp.",36,0
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",36,8
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",36,3
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",36,25
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Acinetobacter spp.",36,11
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Escherichia coli",64,20
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Escherichia coli",64,16
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",64,3
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",64,3
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Escherichia coli",64,0
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",64,5
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",64,3
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",64,5
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Escherichia coli",64,44
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecalis",28,4
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecalis",28,7
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",28,11
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",28,0
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecalis",28,0
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",28,4
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",28,0
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",28,29
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecalis",28,43
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecium",19,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecium",19,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",19,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",19,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecium",19,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",19,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",19,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",19,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecium",19,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Klebsiella pneumoniae",24,4
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Klebsiella pneumoniae",24,0
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",24,17
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",24,0
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Klebsiella pneumoniae",24,0
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",24,13
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",24,21
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",24,21
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Klebsiella pneumoniae",24,25
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Pseudomonas aeruginosa",17,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Pseudomonas aeruginosa",17,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",17,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",17,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Pseudomonas aeruginosa",17,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",17,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",17,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",17,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Pseudomonas aeruginosa",17,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Staphylococcus aureus",69,3
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Staphylococcus aureus",69,7
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",69,6
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",69,9
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Staphylococcus aureus",69,1
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",69,16
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",69,0
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",69,1
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Staphylococcus aureus",69,57
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Streptococcus pneumoniae",12,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Streptococcus pneumoniae",12,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",12,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",12,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Streptococcus pneumoniae",12,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",12,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",12,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",12,NA
+2016,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Streptococcus pneumoniae",12,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Acinetobacter spp.",29,3
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Acinetobacter spp.",29,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Acinetobacter spp.",29,7
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",29,28
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",29,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Acinetobacter spp.",29,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Acinetobacter spp.",29,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",29,7
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",29,3
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",29,41
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Acinetobacter spp.",29,10
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Escherichia coli",76,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Escherichia coli",76,25
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Escherichia coli",76,24
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",76,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",76,5
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Escherichia coli",76,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Escherichia coli",76,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",76,1
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",76,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",76,9
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Escherichia coli",76,36
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Enterococcus faecalis",21,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecalis",21,5
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecalis",21,10
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",21,10
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",21,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecalis",21,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecalis",21,5
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",21,5
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",21,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",21,24
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecalis",21,43
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Enterococcus faecium",29,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecium",29,10
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecium",29,3
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",29,3
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",29,3
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecium",29,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecium",29,3
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",29,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",29,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",29,31
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecium",29,38
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Klebsiella pneumoniae",24,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Klebsiella pneumoniae",24,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Klebsiella pneumoniae",24,4
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",24,21
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",24,8
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Klebsiella pneumoniae",24,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Klebsiella pneumoniae",24,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",24,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",24,4
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",24,17
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Klebsiella pneumoniae",24,38
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Pseudomonas aeruginosa",17,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Staphylococcus aureus",52,0
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Staphylococcus aureus",52,8
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Staphylococcus aureus",52,10
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",52,2
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",52,8
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Staphylococcus aureus",52,2
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Staphylococcus aureus",52,2
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",52,10
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",52,6
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",52,4
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Staphylococcus aureus",52,48
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",6,NA
+2017,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Streptococcus pneumoniae",6,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Acinetobacter spp.",27,4
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Acinetobacter spp.",27,11
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Acinetobacter spp.",27,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",27,11
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",27,4
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Acinetobacter spp.",27,4
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Acinetobacter spp.",27,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",27,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",27,19
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",27,41
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Acinetobacter spp.",27,7
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Escherichia coli",54,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Escherichia coli",54,22
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Escherichia coli",54,11
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",54,2
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",54,11
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Escherichia coli",54,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Escherichia coli",54,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",54,2
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",54,4
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",54,9
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Escherichia coli",54,39
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Enterococcus faecalis",36,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecalis",36,6
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecalis",36,11
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",36,6
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",36,11
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecalis",36,3
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecalis",36,3
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",36,6
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",36,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",36,11
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecalis",36,44
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Enterococcus faecium",31,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecium",31,23
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecium",31,13
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",31,13
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",31,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecium",31,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecium",31,3
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",31,3
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",31,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",31,32
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecium",31,13
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Klebsiella pneumoniae",39,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Klebsiella pneumoniae",39,8
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Klebsiella pneumoniae",39,3
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",39,8
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",39,10
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Klebsiella pneumoniae",39,8
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Klebsiella pneumoniae",39,3
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",39,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",39,15
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",39,26
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Klebsiella pneumoniae",39,21
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Pseudomonas aeruginosa",11,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Staphylococcus aureus",63,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Staphylococcus aureus",63,3
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Staphylococcus aureus",63,10
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",63,2
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",63,3
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Staphylococcus aureus",63,0
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Staphylococcus aureus",63,2
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",63,16
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",63,2
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",63,8
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Staphylococcus aureus",63,52
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",5,NA
+2018,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Streptococcus pneumoniae",5,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Acinetobacter spp.",37,8
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Acinetobacter spp.",37,3
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",37,11
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",37,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Acinetobacter spp.",37,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Acinetobacter spp.",37,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",37,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",37,3
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",37,62
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Acinetobacter spp.",37,11
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Escherichia coli",82,17
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Escherichia coli",82,24
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",82,10
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",82,7
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Escherichia coli",82,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Escherichia coli",82,2
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",82,4
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",82,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",82,1
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Escherichia coli",82,30
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecalis",41,5
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecalis",41,5
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",41,5
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",41,10
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecalis",41,2
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecalis",41,2
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",41,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",41,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",41,27
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecalis",41,44
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecium",30,17
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecium",30,3
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",30,13
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",30,7
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecium",30,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecium",30,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",30,7
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",30,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",30,33
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecium",30,17
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Klebsiella pneumoniae",55,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Klebsiella pneumoniae",55,2
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",55,9
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",55,2
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Klebsiella pneumoniae",55,20
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Klebsiella pneumoniae",55,5
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",55,13
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",55,27
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",55,13
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Klebsiella pneumoniae",55,9
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Pseudomonas aeruginosa",21,5
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Pseudomonas aeruginosa",21,5
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",21,10
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",21,14
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Pseudomonas aeruginosa",21,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Pseudomonas aeruginosa",21,5
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",21,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",21,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",21,33
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Pseudomonas aeruginosa",21,29
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Staphylococcus aureus",87,5
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Staphylococcus aureus",87,8
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",87,3
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",87,9
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Staphylococcus aureus",87,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Staphylococcus aureus",87,6
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",87,2
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",87,0
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",87,10
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Staphylococcus aureus",87,55
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Streptococcus pneumoniae",14,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Streptococcus pneumoniae",14,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",14,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",14,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Streptococcus pneumoniae",14,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Streptococcus pneumoniae",14,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",14,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",14,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",14,NA
+2019,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Streptococcus pneumoniae",14,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Acinetobacter spp.",39,3
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Acinetobacter spp.",39,8
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",39,26
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",39,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Acinetobacter spp.",39,5
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",39,3
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",39,15
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",39,33
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Acinetobacter spp.",39,3
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Escherichia coli",50,24
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Escherichia coli",50,8
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",50,10
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",50,10
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Escherichia coli",50,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",50,6
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",50,6
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",50,4
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Escherichia coli",50,32
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecalis",25,12
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecalis",25,12
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",25,4
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",25,8
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecalis",25,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",25,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",25,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",25,32
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecalis",25,32
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecium",21,33
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecium",21,14
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",21,5
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",21,5
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecium",21,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",21,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",21,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",21,29
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecium",21,14
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Klebsiella pneumoniae",118,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Klebsiella pneumoniae",118,0
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",118,5
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",118,3
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Klebsiella pneumoniae",118,1
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",118,2
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",118,75
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",118,8
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Klebsiella pneumoniae",118,5
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Pseudomonas aeruginosa",9,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Pseudomonas aeruginosa",9,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",9,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",9,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Pseudomonas aeruginosa",9,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",9,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",9,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",9,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Pseudomonas aeruginosa",9,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Staphylococcus aureus",84,2
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Staphylococcus aureus",84,4
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",84,2
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",84,6
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Staphylococcus aureus",84,8
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",84,2
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",84,4
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",84,10
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Staphylococcus aureus",84,61
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Streptococcus pneumoniae",3,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Streptococcus pneumoniae",3,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",3,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",3,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Streptococcus pneumoniae",3,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",3,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",3,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",3,NA
+2020,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Acinetobacter spp.",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Acinetobacter spp.",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Acinetobacter spp.",44,27
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",44,39
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",44,11
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Acinetobacter spp.",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Acinetobacter spp.",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",44,16
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Acinetobacter spp.",44,7
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Escherichia coli",45,2
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Escherichia coli",45,16
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Escherichia coli",45,4
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",45,7
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",45,38
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Escherichia coli",45,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Escherichia coli",45,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",45,2
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",45,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",45,7
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Escherichia coli",45,22
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Enterococcus faecalis",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecalis",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecalis",44,5
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",44,11
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",44,25
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecalis",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecalis",44,2
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",44,2
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",44,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",44,11
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecalis",44,36
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Enterococcus faecium",43,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecium",43,16
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecium",43,14
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",43,19
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",43,7
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecium",43,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecium",43,5
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",43,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",43,2
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",43,23
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecium",43,12
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Klebsiella pneumoniae",108,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Klebsiella pneumoniae",108,3
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Klebsiella pneumoniae",108,1
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",108,3
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",108,2
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Klebsiella pneumoniae",108,4
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Klebsiella pneumoniae",108,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",108,10
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",108,68
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",108,3
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Klebsiella pneumoniae",108,6
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Pseudomonas aeruginosa",12,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Staphylococcus aureus",84,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Staphylococcus aureus",84,4
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Staphylococcus aureus",84,1
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",84,1
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",84,18
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Staphylococcus aureus",84,0
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Staphylococcus aureus",84,6
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",84,5
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",84,1
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",84,4
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Staphylococcus aureus",84,52
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Emergency department","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",3,NA
+2021,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Streptococcus pneumoniae",3,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Acinetobacter spp.",31,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Acinetobacter spp.",31,10
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Acinetobacter spp.",31,29
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Acinetobacter spp.",31,13
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Acinetobacter spp.",31,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Acinetobacter spp.",31,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Acinetobacter spp.",31,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",31,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Acinetobacter spp.",31,45
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Acinetobacter spp.",31,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Escherichia coli",64,23
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Escherichia coli",64,13
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Escherichia coli",64,6
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Escherichia coli",64,20
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Escherichia coli",64,2
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Escherichia coli",64,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Escherichia coli",64,5
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Escherichia coli",64,2
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Escherichia coli",64,6
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Escherichia coli",64,19
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecalis",36,3
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecalis",36,3
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecalis",36,17
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecalis",36,36
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecalis",36,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecalis",36,6
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecalis",36,3
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",36,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecalis",36,8
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecalis",36,22
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Enterococcus faecium",30,37
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Enterococcus faecium",30,3
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Enterococcus faecium",30,17
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Enterococcus faecium",30,13
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Enterococcus faecium",30,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Enterococcus faecium",30,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Enterococcus faecium",30,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",30,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Enterococcus faecium",30,27
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Enterococcus faecium",30,3
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Klebsiella pneumoniae",100,2
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Klebsiella pneumoniae",100,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Klebsiella pneumoniae",100,9
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Klebsiella pneumoniae",100,5
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Klebsiella pneumoniae",100,6
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Klebsiella pneumoniae",100,2
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Klebsiella pneumoniae",100,15
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",100,46
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Klebsiella pneumoniae",100,10
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Klebsiella pneumoniae",100,3
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Pseudomonas aeruginosa",27,26
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Pseudomonas aeruginosa",27,4
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Pseudomonas aeruginosa",27,11
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Pseudomonas aeruginosa",27,11
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Pseudomonas aeruginosa",27,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Pseudomonas aeruginosa",27,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Pseudomonas aeruginosa",27,4
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",27,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Pseudomonas aeruginosa",27,26
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Pseudomonas aeruginosa",27,19
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Staphylococcus aureus",72,4
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Staphylococcus aureus",72,6
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Staphylococcus aureus",72,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Staphylococcus aureus",72,49
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Staphylococcus aureus",72,0
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Staphylococcus aureus",72,6
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Staphylococcus aureus",72,1
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",72,4
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Staphylococcus aureus",72,10
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Staphylococcus aureus",72,21
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Haematology or oncology","Streptococcus pneumoniae",9,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Infectious disease ward","Streptococcus pneumoniae",9,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Intensive care unit","Streptococcus pneumoniae",9,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Internal medicine","Streptococcus pneumoniae",9,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Obstetrics or gynaecology","Streptococcus pneumoniae",9,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Other","Streptococcus pneumoniae",9,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal","Streptococcus pneumoniae",9,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",9,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Surgery","Streptococcus pneumoniae",9,NA
+2022,"North Macedonia","MKD",807,41.0939915,19.5953742,"Urology","Streptococcus pneumoniae",9,NA
