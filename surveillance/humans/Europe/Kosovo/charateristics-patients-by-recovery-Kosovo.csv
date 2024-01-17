@@ -1,0 +1,393 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Department","Microorganism","Isolated","Percent"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Acinetobacter spp.",49,2
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Acinetobacter spp.",49,8
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Other","Acinetobacter spp.",49,0
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Acinetobacter spp.",49,90
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Escherichia coli",23,17
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Escherichia coli",23,4
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Other","Escherichia coli",23,52
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Escherichia coli",23,26
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecalis",12,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecalis",12,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Other","Enterococcus faecalis",12,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecalis",12,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecium",4,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecium",4,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Other","Enterococcus faecium",4,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecium",4,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Klebsiella pneumoniae",34,0
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Klebsiella pneumoniae",34,0
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Other","Klebsiella pneumoniae",34,0
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Klebsiella pneumoniae",34,100
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Pseudomonas aeruginosa",14,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Pseudomonas aeruginosa",14,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Other","Pseudomonas aeruginosa",14,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Pseudomonas aeruginosa",14,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Staphylococcus aureus",35,37
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Staphylococcus aureus",35,3
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Other","Staphylococcus aureus",35,0
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Staphylococcus aureus",35,60
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Streptococcus pneumoniae",6,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Streptococcus pneumoniae",6,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Other","Streptococcus pneumoniae",6,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Streptococcus pneumoniae",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Acinetobacter spp.",31,3
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Acinetobacter spp.",31,10
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Acinetobacter spp.",31,3
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Acinetobacter spp.",31,0
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Acinetobacter spp.",31,84
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Surgery","Acinetobacter spp.",31,0
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Escherichia coli",29,7
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Escherichia coli",29,34
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Escherichia coli",29,0
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Escherichia coli",29,14
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Escherichia coli",29,45
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Surgery","Escherichia coli",29,0
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Surgery","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Surgery","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Surgery","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Surgery","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Staphylococcus aureus",31,3
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Staphylococcus aureus",31,32
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Staphylococcus aureus",31,3
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Staphylococcus aureus",31,0
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Staphylococcus aureus",31,61
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Surgery","Staphylococcus aureus",31,0
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Streptococcus pneumoniae",1,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Streptococcus pneumoniae",1,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Streptococcus pneumoniae",1,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Streptococcus pneumoniae",1,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Streptococcus pneumoniae",1,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Surgery","Streptococcus pneumoniae",1,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Acinetobacter spp.",40,0
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Acinetobacter spp.",40,3
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Acinetobacter spp.",40,10
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Acinetobacter spp.",40,0
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Acinetobacter spp.",40,88
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Escherichia coli",18,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Escherichia coli",18,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Escherichia coli",18,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Escherichia coli",18,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Escherichia coli",18,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Enterococcus faecalis",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecalis",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecalis",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecalis",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecalis",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Enterococcus faecium",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecium",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecium",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecium",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecium",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Klebsiella pneumoniae",42,5
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Klebsiella pneumoniae",42,0
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Klebsiella pneumoniae",42,2
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Klebsiella pneumoniae",42,0
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Klebsiella pneumoniae",42,93
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Pseudomonas aeruginosa",8,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Pseudomonas aeruginosa",8,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Pseudomonas aeruginosa",8,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Pseudomonas aeruginosa",8,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Pseudomonas aeruginosa",8,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Staphylococcus aureus",12,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Staphylococcus aureus",12,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Staphylococcus aureus",12,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Staphylococcus aureus",12,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Staphylococcus aureus",12,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Streptococcus pneumoniae",7,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Streptococcus pneumoniae",7,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Streptococcus pneumoniae",7,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Streptococcus pneumoniae",7,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Streptococcus pneumoniae",7,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Acinetobacter spp.",70,0
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Acinetobacter spp.",70,10
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Acinetobacter spp.",70,0
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Acinetobacter spp.",70,0
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Acinetobacter spp.",70,90
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Urology","Acinetobacter spp.",70,0
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Urology","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Urology","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Urology","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Klebsiella pneumoniae",38,5
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Klebsiella pneumoniae",38,3
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Klebsiella pneumoniae",38,3
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Klebsiella pneumoniae",38,0
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Klebsiella pneumoniae",38,89
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Urology","Klebsiella pneumoniae",38,0
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Urology","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Urology","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Streptococcus pneumoniae",4,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Streptococcus pneumoniae",4,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Streptococcus pneumoniae",4,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Streptococcus pneumoniae",4,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Streptococcus pneumoniae",4,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Urology","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Acinetobacter spp.",70,0
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Acinetobacter spp.",70,6
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Acinetobacter spp.",70,10
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Acinetobacter spp.",70,0
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Acinetobacter spp.",70,1
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",70,83
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Klebsiella pneumoniae",66,0
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Klebsiella pneumoniae",66,2
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Klebsiella pneumoniae",66,2
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Klebsiella pneumoniae",66,0
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Klebsiella pneumoniae",66,5
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",66,92
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Staphylococcus aureus",26,0
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Staphylococcus aureus",26,38
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Staphylococcus aureus",26,8
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Staphylococcus aureus",26,0
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Staphylococcus aureus",26,8
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",26,46
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",4,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Acinetobacter spp.",45,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Acinetobacter spp.",45,2
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Acinetobacter spp.",45,13
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Acinetobacter spp.",45,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Acinetobacter spp.",45,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Acinetobacter spp.",45,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",45,82
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Klebsiella pneumoniae",55,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Klebsiella pneumoniae",55,4
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Klebsiella pneumoniae",55,4
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Klebsiella pneumoniae",55,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Klebsiella pneumoniae",55,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Klebsiella pneumoniae",55,13
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",55,80
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Staphylococcus aureus",29,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Staphylococcus aureus",29,17
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Staphylococcus aureus",29,10
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Staphylococcus aureus",29,10
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Staphylococcus aureus",29,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Staphylococcus aureus",29,41
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",29,21
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Haematology or oncology","Streptococcus pneumoniae",3,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Streptococcus pneumoniae",3,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Streptococcus pneumoniae",3,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Streptococcus pneumoniae",3,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Obstetrics or gynaecology","Streptococcus pneumoniae",3,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Streptococcus pneumoniae",3,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",3,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Acinetobacter spp.",59,10
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Acinetobacter spp.",59,12
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Acinetobacter spp.",59,0
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Acinetobacter spp.",59,2
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",59,76
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Escherichia coli",10,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Escherichia coli",10,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Escherichia coli",10,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Escherichia coli",10,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Escherichia coli",10,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecalis",7,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecalis",7,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecalis",7,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecalis",7,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",7,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecium",4,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecium",4,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecium",4,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecium",4,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",4,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Klebsiella pneumoniae",77,1
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Klebsiella pneumoniae",77,0
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Klebsiella pneumoniae",77,1
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Klebsiella pneumoniae",77,6
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",77,91
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Pseudomonas aeruginosa",2,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Pseudomonas aeruginosa",2,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Pseudomonas aeruginosa",2,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Pseudomonas aeruginosa",2,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",2,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Staphylococcus aureus",14,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Staphylococcus aureus",14,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Staphylococcus aureus",14,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Staphylococcus aureus",14,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",14,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Streptococcus pneumoniae",0,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Streptococcus pneumoniae",0,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Streptococcus pneumoniae",0,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Streptococcus pneumoniae",0,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",0,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Acinetobacter spp.",93,11
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Acinetobacter spp.",93,22
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Acinetobacter spp.",93,1
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Acinetobacter spp.",93,0
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",93,67
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Escherichia coli",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Escherichia coli",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Escherichia coli",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Escherichia coli",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Escherichia coli",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecalis",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecalis",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecalis",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecalis",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecium",8,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecium",8,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecium",8,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecium",8,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",8,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Klebsiella pneumoniae",90,0
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Klebsiella pneumoniae",90,1
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Klebsiella pneumoniae",90,0
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Klebsiella pneumoniae",90,2
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",90,97
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Pseudomonas aeruginosa",4,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Pseudomonas aeruginosa",4,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Pseudomonas aeruginosa",4,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Pseudomonas aeruginosa",4,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",4,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Staphylococcus aureus",16,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Staphylococcus aureus",16,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Staphylococcus aureus",16,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Staphylococcus aureus",16,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",16,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Streptococcus pneumoniae",3,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Streptococcus pneumoniae",3,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Streptococcus pneumoniae",3,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Streptococcus pneumoniae",3,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",3,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Acinetobacter spp.",35,3
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Acinetobacter spp.",35,23
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Acinetobacter spp.",35,0
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Acinetobacter spp.",35,0
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Acinetobacter spp.",35,74
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Escherichia coli",13,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Escherichia coli",13,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Escherichia coli",13,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Escherichia coli",13,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Escherichia coli",13,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecalis",7,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecalis",7,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecalis",7,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecalis",7,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecalis",7,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Enterococcus faecium",12,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Enterococcus faecium",12,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Enterococcus faecium",12,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Enterococcus faecium",12,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Enterococcus faecium",12,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Klebsiella pneumoniae",111,2
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Klebsiella pneumoniae",111,0
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Klebsiella pneumoniae",111,0
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Klebsiella pneumoniae",111,1
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Klebsiella pneumoniae",111,97
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Pseudomonas aeruginosa",9,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Pseudomonas aeruginosa",9,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Pseudomonas aeruginosa",9,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Pseudomonas aeruginosa",9,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Pseudomonas aeruginosa",9,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Staphylococcus aureus",27,44
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Staphylococcus aureus",27,15
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Staphylococcus aureus",27,11
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Staphylococcus aureus",27,7
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Staphylococcus aureus",27,22
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Infectious disease ward","Streptococcus pneumoniae",2,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Intensive care unit","Streptococcus pneumoniae",2,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Internal medicine","Streptococcus pneumoniae",2,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal","Streptococcus pneumoniae",2,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Paediatrics or neonatal intensive care unit","Streptococcus pneumoniae",2,NA

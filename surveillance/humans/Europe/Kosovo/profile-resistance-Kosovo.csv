@@ -1,0 +1,298 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Microorganism","Antibiotic","Resistance"
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2012,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2013,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides","95.92"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems","89.8"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","81.63"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones","87.76"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides","34.78"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins","52.17"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems","0"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","4.35"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones","4.35"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins","47.83"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides","94.12"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems","0"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","5.88"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones","5.88"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins","91.18"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA","37.14"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides","100"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems","87.1"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","83.87"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones","83.87"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides","48.28"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins","68.97"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems","0"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)","24.14"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones","24.14"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins","44.83"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA","38.71"
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides","95"
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems","95"
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","95"
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones","95"
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides","85.71"
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems","0"
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","9.52"
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones","9.52"
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins","85.71"
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides","92.86"
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems","88.57"
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","88.57"
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones","88.57"
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides","97.37"
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems","0"
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","7.89"
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones","7.89"
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins","97.37"
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides","90"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems","88.57"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","87.14"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones","87.14"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides","95.45"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems","1.52"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","6.06"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones","6.06"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins","96.97"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA","57.69"
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides","91.11"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems","93.33"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","91.11"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones","91.11"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides","81.82"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems","0"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","16.36"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones","16.36"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins","85.45"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA","34.48"
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides","72.88"
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems","84.75"
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","71.19"
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones","84.75"
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides","90.91"
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems","0"
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","0"
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones","0"
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins","92.21"
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides","94.62"
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems","84.95"
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","81.72"
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones","84.95"
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides","95.56"
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems","1.11"
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","2.22"
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones","2.22"
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins","96.67"
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Aminoglycosides","97.14"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Carbapenems","94.29"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Combined resistance (Carb + Fluo + Aminog)","91.43"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Acinetobacter spp.","Fluoroquinolones","91.43"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecalis","High-level gentamicin",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Enterococcus faecium","Vancomycin",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminoglycosides",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Aminopenicillins",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Carbapenems",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Combined resistance (3GCeph + Fluo + Aminog)",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Fluoroquinolones",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Escherichia coli","Third-generation cephalosporins",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Aminoglycosides","99.1"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Carbapenems","0"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Combined resistance (3GCeph + Fluo + Aminog)","2.7"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Fluoroquinolones","3.6"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Klebsiella pneumoniae","Third-generation cephalosporins","100"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Aminoglycosides",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Carbapenems",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Ceftazidime",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Combined resistance (at least 3 among Pip-Tazo, Cefta, Carb, Fluo, Aminog)",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Fluoroquinolones",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Pseudomonas aeruginosa","Piperacillin-Tazobactam",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Staphylococcus aureus","MRSA","59.26"
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Combined penicillins (non-wild-type) and macrolides",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Macrolides",NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"Streptococcus pneumoniae","Penicillins (non-wild-type)",NA

@@ -1,0 +1,289 @@
+"Year","Region_name","Region_code_iso3","Region_code_numeric3","Lat","Lon","Age_group","Microorganism","Isolated","Percent"
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Acinetobacter spp.",49,90
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Acinetobacter spp.",49,6
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Acinetobacter spp.",49,0
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Acinetobacter spp.",49,4
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Escherichia coli",23,30
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Escherichia coli",23,48
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Escherichia coli",23,4
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Escherichia coli",23,17
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecalis",12,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecalis",12,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecalis",12,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecalis",12,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecium",4,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecium",4,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecium",4,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecium",4,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Klebsiella pneumoniae",34,100
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Klebsiella pneumoniae",34,0
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Klebsiella pneumoniae",34,0
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Klebsiella pneumoniae",34,0
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Pseudomonas aeruginosa",14,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Pseudomonas aeruginosa",14,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Pseudomonas aeruginosa",14,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Pseudomonas aeruginosa",14,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Staphylococcus aureus",35,63
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Staphylococcus aureus",35,20
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Staphylococcus aureus",35,11
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Staphylococcus aureus",35,6
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Streptococcus pneumoniae",6,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Streptococcus pneumoniae",6,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Streptococcus pneumoniae",6,NA
+2014,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Streptococcus pneumoniae",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Acinetobacter spp.",31,87
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Acinetobacter spp.",31,10
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Acinetobacter spp.",31,3
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Acinetobacter spp.",31,0
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Escherichia coli",29,45
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Escherichia coli",29,31
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Escherichia coli",29,0
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Escherichia coli",29,24
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecalis",6,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecium",0,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Klebsiella pneumoniae",18,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Pseudomonas aeruginosa",11,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Staphylococcus aureus",31,71
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Staphylococcus aureus",31,19
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Staphylococcus aureus",31,10
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Staphylococcus aureus",31,0
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Streptococcus pneumoniae",1,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Streptococcus pneumoniae",1,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Streptococcus pneumoniae",1,NA
+2015,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Streptococcus pneumoniae",1,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Acinetobacter spp.",40,88
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Acinetobacter spp.",40,8
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Acinetobacter spp.",40,3
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Acinetobacter spp.",40,3
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Escherichia coli",18,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Escherichia coli",18,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Escherichia coli",18,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Escherichia coli",18,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecalis",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecalis",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecalis",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecalis",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecium",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecium",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecium",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecium",13,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Klebsiella pneumoniae",42,93
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Klebsiella pneumoniae",42,2
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Klebsiella pneumoniae",42,0
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Klebsiella pneumoniae",42,5
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Pseudomonas aeruginosa",8,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Pseudomonas aeruginosa",8,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Pseudomonas aeruginosa",8,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Pseudomonas aeruginosa",8,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Staphylococcus aureus",12,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Staphylococcus aureus",12,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Staphylococcus aureus",12,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Staphylococcus aureus",12,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Streptococcus pneumoniae",7,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Streptococcus pneumoniae",7,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Streptococcus pneumoniae",7,NA
+2016,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Streptococcus pneumoniae",7,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Acinetobacter spp.",70,90
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Acinetobacter spp.",70,10
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Acinetobacter spp.",70,0
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Acinetobacter spp.",70,0
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Escherichia coli",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecalis",11,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecium",8,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Klebsiella pneumoniae",38,92
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Klebsiella pneumoniae",38,5
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Klebsiella pneumoniae",38,0
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Klebsiella pneumoniae",38,3
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Pseudomonas aeruginosa",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Staphylococcus aureus",19,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Streptococcus pneumoniae",4,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Streptococcus pneumoniae",4,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Streptococcus pneumoniae",4,NA
+2017,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Acinetobacter spp.",70,86
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Acinetobacter spp.",70,7
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Acinetobacter spp.",70,3
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Acinetobacter spp.",70,4
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Escherichia coli",12,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecalis",11,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecium",5,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Klebsiella pneumoniae",66,97
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Klebsiella pneumoniae",66,2
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Klebsiella pneumoniae",66,0
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Klebsiella pneumoniae",66,2
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Pseudomonas aeruginosa",13,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Staphylococcus aureus",26,62
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Staphylococcus aureus",26,27
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Staphylococcus aureus",26,0
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Staphylococcus aureus",26,12
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Streptococcus pneumoniae",4,NA
+2018,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Streptococcus pneumoniae",4,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Acinetobacter spp.",45,87
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Acinetobacter spp.",45,9
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Acinetobacter spp.",45,4
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Acinetobacter spp.",45,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Escherichia coli",17,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecalis",16,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecium",7,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Klebsiella pneumoniae",55,93
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Klebsiella pneumoniae",55,7
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Klebsiella pneumoniae",55,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Klebsiella pneumoniae",55,0
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Pseudomonas aeruginosa",14,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Staphylococcus aureus",29,62
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Staphylococcus aureus",29,24
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Staphylococcus aureus",29,7
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Staphylococcus aureus",29,7
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Streptococcus pneumoniae",3,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Streptococcus pneumoniae",3,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Streptococcus pneumoniae",3,NA
+2019,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Streptococcus pneumoniae",3,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Acinetobacter spp.",59,76
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Acinetobacter spp.",59,20
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Acinetobacter spp.",59,0
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Acinetobacter spp.",59,3
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Escherichia coli",10,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Escherichia coli",10,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Escherichia coli",10,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Escherichia coli",10,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecalis",7,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecalis",7,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecalis",7,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecalis",7,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecium",4,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecium",4,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecium",4,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecium",4,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Klebsiella pneumoniae",77,96
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Klebsiella pneumoniae",77,1
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Klebsiella pneumoniae",77,1
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Klebsiella pneumoniae",77,1
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Pseudomonas aeruginosa",2,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Pseudomonas aeruginosa",2,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Pseudomonas aeruginosa",2,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Pseudomonas aeruginosa",2,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Staphylococcus aureus",14,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Staphylococcus aureus",14,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Staphylococcus aureus",14,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Staphylococcus aureus",14,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Streptococcus pneumoniae",0,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Streptococcus pneumoniae",0,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Streptococcus pneumoniae",0,NA
+2020,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Streptococcus pneumoniae",0,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Acinetobacter spp.",93,67
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Acinetobacter spp.",93,19
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Acinetobacter spp.",93,0
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Acinetobacter spp.",93,14
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Escherichia coli",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Escherichia coli",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Escherichia coli",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Escherichia coli",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecalis",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecalis",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecalis",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecalis",10,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecium",8,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecium",8,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecium",8,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecium",8,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Klebsiella pneumoniae",90,99
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Klebsiella pneumoniae",90,1
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Klebsiella pneumoniae",90,0
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Klebsiella pneumoniae",90,0
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Pseudomonas aeruginosa",4,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Pseudomonas aeruginosa",4,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Pseudomonas aeruginosa",4,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Pseudomonas aeruginosa",4,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Staphylococcus aureus",16,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Staphylococcus aureus",16,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Staphylococcus aureus",16,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Staphylococcus aureus",16,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Streptococcus pneumoniae",3,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Streptococcus pneumoniae",3,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Streptococcus pneumoniae",3,NA
+2021,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Streptococcus pneumoniae",3,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Acinetobacter spp.",35,74
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Acinetobacter spp.",35,17
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Acinetobacter spp.",35,0
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Acinetobacter spp.",35,9
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Escherichia coli",13,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Escherichia coli",13,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Escherichia coli",13,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Escherichia coli",13,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecalis",7,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecalis",7,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecalis",7,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecalis",7,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Enterococcus faecium",12,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Enterococcus faecium",12,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Enterococcus faecium",12,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Enterococcus faecium",12,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Klebsiella pneumoniae",111,99
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Klebsiella pneumoniae",111,0
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Klebsiella pneumoniae",111,0
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Klebsiella pneumoniae",111,1
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Pseudomonas aeruginosa",9,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Pseudomonas aeruginosa",9,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Pseudomonas aeruginosa",9,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Pseudomonas aeruginosa",9,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Staphylococcus aureus",27,33
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Staphylococcus aureus",27,30
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Staphylococcus aureus",27,4
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Staphylococcus aureus",27,33
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"0_4","Streptococcus pneumoniae",2,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"20_64","Streptococcus pneumoniae",2,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,"5_19","Streptococcus pneumoniae",2,NA
+2022,"Kosovo","KOS",NA,42.5571195,19.5827363,">= 65","Streptococcus pneumoniae",2,NA
