@@ -1,0 +1,7 @@
+"Bulletin","Class_of_antibiotics","Antibiotic","Isolated","Resistance","95_IC_low","95_IC_upper"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2019.pdf","Penicilline","Ampicillina",2802,"89.1","87.9","90.2"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2019.pdf","Aminoglicosidi (alto dosaggio)","Streptomicina",2103,"68.2","66.1","70.2"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2019.pdf","Aminoglicosidi (alto dosaggio)","Gentamicina",1402,"57.3","54.6","59.9"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2019.pdf","Glicopeptidi","Vancomicina",2939,"21.3","19.8","22.9"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2019.pdf","Glicopeptidi","Teicoplanina",2710,"19.9","18.4","21.5"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2019.pdf","Ossazolidinioni","Linezolid",2797,"0.7","0.4","1.1"
