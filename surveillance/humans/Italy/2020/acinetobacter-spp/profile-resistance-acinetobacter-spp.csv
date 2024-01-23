@@ -1,0 +1,7 @@
+"Bulletin","Class_of_antibiotics","Antibiotic","Isolated","Resistance","95_IC_low","95_IC_upper"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2020.pdf","Carbapenemi","Imipenem",1449,"85.2","83.2","87.0"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2020.pdf","Carbapenemi","Meropenem",2539,"80.6","79.0","82.1"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2020.pdf","Aminoglicosidi","Amikacina",2396,"77.0","75.3","78.7"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2020.pdf","Aminoglicosidi","Gentamicina",2498,"80.3","78.6","81.8"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2020.pdf","Fluorochinoloni","Ciprofloxacina",2486,"84.0","82.5","85.4"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2020.pdf","Fluorochinoloni","Levofloxacina",615,"85.8","82.8","88.5"
