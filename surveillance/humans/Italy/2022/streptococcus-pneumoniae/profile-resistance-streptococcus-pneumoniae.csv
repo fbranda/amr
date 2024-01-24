@@ -1,0 +1,8 @@
+"Bulletin","Class_of_antibiotics","Antibiotic","Isolated","Resistance","95_IC_low","95_IC_upper"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2022.pdf","Penicilline","Penicillina",821,"12.8","10.6","15.3"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2022.pdf","Cefalosporine III generazione","Ceftriaxone",963,"0.8","0.4","1.6"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2022.pdf","Cefalosporine III generazione","Cefotaxime",1023,"0.8","0.3","1.5"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2022.pdf","Macrolidi","Cefotaxime",1175,"24.9","22.5","27.5"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2022.pdf","Lincosamidi","Eritromicina",989,"22.1","19.6","24.9"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2022.pdf","Fluorochinoloni","Clindamicina",1187,"1.4","0.8","2.3"
+"https://github.com/fbranda/amr/blob/main/bulletins/Italy/AR-ISS/AMR_AR_ISS_2022.pdf","Tetracicline","Levofloxacina",996,"21.8","19.3","24.5"
